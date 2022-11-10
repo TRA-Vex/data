@@ -35714,6 +35714,8 @@ award_id,event_id,team_id,qualification
 159597,47807,110304,Event Region Championship
 159598,47807,129438,Event Region Championship
 164545,47807,99003,Event Region Championship
+161307,48163,87396,Event Region Championship
+161307,48163,66041,Event Region Championship
 161450,48235,123758,Event Region Championship
 161450,48235,138770,Event Region Championship
 175981,48235,138770,Event Region Championship
@@ -35730,6 +35732,9 @@ award_id,event_id,team_id,qualification
 165317,48878,134207,Event Region Championship
 165319,48878,109480,Event Region Championship
 178094,48878,140800,Event Region Championship
+165480,48924,57904,Event Region Championship
+165480,48924,13282,Event Region Championship
+175364,48924,56697,Event Region Championship
 161456,48236,125125,Event Region Championship
 161457,48236,125125,Event Region Championship
 161457,48236,139521,Event Region Championship
@@ -35773,6 +35778,9 @@ award_id,event_id,team_id,qualification
 163439,48533,51034,Event Region Championship
 163439,48533,143546,Event Region Championship
 163440,48533,143546,Event Region Championship
+164474,48718,57904,Event Region Championship
+164475,48718,57904,Event Region Championship
+164475,48718,69225,Event Region Championship
 166541,49094,113738,Event Region Championship
 166541,49094,95495,Event Region Championship
 176685,49094,100532,Event Region Championship
@@ -35789,6 +35797,9 @@ award_id,event_id,team_id,qualification
 168069,49330,128616,Event Region Championship
 168069,49330,129800,Event Region Championship
 168070,49330,78637,Event Region Championship
+168785,49436,66898,Event Region Championship
+168785,49436,57340,Event Region Championship
+169891,49436,130627,Event Region Championship
 174035,50307,135580,RE-VRC-22-8666
 174035,50307,135580,RE-VRC-22-8645
 174036,50307,140724,RE-VRC-22-8666
@@ -35833,12 +35844,12 @@ award_id,event_id,team_id,qualification
 160564,48036,94245,Event Region Championship
 160566,48036,56889,Event Region Championship
 160567,48036,28990,Event Region Championship
-160738,48066,64764,Event Region Championship
-160739,48066,64765,Event Region Championship
-160739,48066,64764,Event Region Championship
 160772,48070,102763,Event Region Championship
 160772,48070,88020,Event Region Championship
 176931,48070,96782,Event Region Championship
+160738,48066,64764,Event Region Championship
+160739,48066,64765,Event Region Championship
+160739,48066,64764,Event Region Championship
 161107,48133,137898,RE-VRC-22-8666
 161107,48133,137898,RE-VRC-22-8645
 161108,48133,135580,RE-VRC-22-8666
@@ -36120,8 +36131,12 @@ award_id,event_id,team_id,qualification
 171109,49749,87113,Event Region Championship
 171110,49749,131789,Event Region Championship
 171110,49749,87113,Event Region Championship
+171228,49867,130627,Event Region Championship
+171229,49867,66898,Event Region Championship
+171229,49867,130627,Event Region Championship
 171703,49918,122840,Event Region Championship
 171703,49918,49483,Event Region Championship
+178251,49918,49483,Event Region Championship
 174493,50369,139272,Event Region Championship
 174493,50369,133508,Event Region Championship
 177049,50369,139272,Event Region Championship
@@ -36132,3 +36147,7 @@ award_id,event_id,team_id,qualification
 174562,50372,110362,Event Region Championship
 162884,48454,71564,Event Region Championship
 162884,48454,85979,Event Region Championship
+174041,50311,135580,RE-VRC-22-8666
+174041,50311,135580,RE-VRC-22-8645
+174042,50311,140729,RE-VRC-22-8666
+174042,50311,140729,RE-VRC-22-8645
