@@ -36172,6 +36172,12 @@ award_id,event_id,team_id,qualification
 169544,49574,117719,Event Region Championship
 169546,49574,83324,Event Region Championship
 169555,49576,78264,Event Region Championship
+169670,49587,120478,Event Region Championship
+169670,49587,108401,Event Region Championship
+169671,49587,59897,Event Region Championship
+169672,49587,140121,Event Region Championship
+176388,49587,108401,Event Region Championship
+176389,49587,129318,Event Region Championship
 170032,49651,133006,Event Region Championship
 170032,49651,141786,Event Region Championship
 177536,49651,133006,Event Region Championship
@@ -36202,6 +36208,56 @@ award_id,event_id,team_id,qualification
 178207,50863,122777,RE-VIQC-22-8646
 178208,50863,122775,RE-VIQC-22-8665
 178208,50863,122775,RE-VIQC-22-8646
+160893,47992,122892,World Championship
+160893,47992,141260,World Championship
+174158,47992,118856,World Championship
+174159,47992,130483,World Championship
+161021,48120,130508,World Championship
+161021,48120,23035,World Championship
+176408,48120,122143,World Championship
+176409,48120,129606,World Championship
+161934,48305,139219,Event Region Championship
+161934,48305,56472,Event Region Championship
+161935,48305,56472,Event Region Championship
+161936,48305,139219,Event Region Championship
+173098,48305,63340,Event Region Championship
+177222,48305,139219,Event Region Championship
+159117,47764,132682,Event Region Championship
+159117,47764,129728,Event Region Championship
+159118,47764,132755,Event Region Championship
+178376,47764,132682,Event Region Championship
+159555,47868,71920,Event Region Championship
+159555,47868,82625,Event Region Championship
+159550,47870,59314,Event Region Championship
+159550,47870,57094,Event Region Championship
+177617,47870,72389,Event Region Championship
+159737,47896,99104,Event Region Championship
+159738,47896,99104,Event Region Championship
+159738,47896,115784,Event Region Championship
+160177,47963,94635,Event Region Championship
+160177,47963,143019,Event Region Championship
+160180,47963,140860,Event Region Championship
+160285,47963,94635,Event Region Championship
+177302,47963,94635,Event Region Championship
+177303,47963,141878,Event Region Championship
+160344,47991,122291,Event Region Championship
+160344,47991,110339,Event Region Championship
+178027,47991,80582,Event Region Championship
+178028,47991,141284,Event Region Championship
+160378,48000,111877,Event Region Championship
+160379,48000,111877,Event Region Championship
+160379,48000,144391,Event Region Championship
+160744,48067,118473,Event Region Championship
+160744,48067,64763,Event Region Championship
+160745,48067,88950,Event Region Championship
+178241,48067,88950,Event Region Championship
+161013,48116,126574,Event Region Championship
+161013,48116,119009,Event Region Championship
+178263,48116,126574,Event Region Championship
+161078,48124,121933,Event Region Championship
+161078,48124,66968,Event Region Championship
+175730,48124,121933,Event Region Championship
+175731,48124,74414,Event Region Championship
 161092,48130,135580,RE-VRC-22-8666
 161092,48130,135580,RE-VRC-22-8645
 161093,48130,135580,RE-VRC-22-8666
@@ -36222,7 +36278,127 @@ award_id,event_id,team_id,qualification
 161099,48131,141084,RE-VIQC-22-8646
 161100,48131,143802,RE-VIQC-22-8665
 161100,48131,143802,RE-VIQC-22-8646
+161252,48154,83090,Event Region Championship
+161253,48154,139683,Event Region Championship
+161253,48154,109693,Event Region Championship
+161255,48154,110896,Event Region Championship
+162244,48352,48490,Event Region Championship
+162244,48352,62947,Event Region Championship
+162245,48352,62951,Event Region Championship
+162245,48352,62946,Event Region Championship
+162246,48352,8680,Event Region Championship
+176842,48352,62947,Event Region Championship
+176843,48352,114310,Event Region Championship
+162864,48449,113792,Event Region Championship
+162865,48449,142509,Event Region Championship
+162866,48449,113792,Event Region Championship
+162866,48449,99373,Event Region Championship
+164182,48663,82878,Event Region Championship
+164183,48663,111499,Event Region Championship
+164183,48663,82878,Event Region Championship
+164370,48705,143068,Event Region Championship
+164370,48705,58260,Event Region Championship
+164371,48705,114591,Event Region Championship
+172358,48705,87593,Event Region Championship
+172359,48705,143068,Event Region Championship
+172360,48705,49774,Event Region Championship
+172360,48705,79763,Event Region Championship
+164547,48737,94463,Event Region Championship
+164547,48737,98400,Event Region Championship
+177619,48737,94463,Event Region Championship
+164856,48787,78936,Event Region Championship
+164856,48787,75585,Event Region Championship
+164858,48787,93380,Event Region Championship
+164859,48787,121896,Event Region Championship
+178024,48787,78936,Event Region Championship
+178025,48787,139706,Event Region Championship
+165329,48881,101372,Event Region Championship
+165330,48881,110243,Event Region Championship
+165330,48881,132964,Event Region Championship
+165332,48881,58742,Event Region Championship
+168827,48906,119956,Event Region Championship
+168827,48906,91869,Event Region Championship
+177694,48906,113389,Event Region Championship
+177695,48906,119956,Event Region Championship
+168228,49059,141800,Event Region Championship
+168229,49059,141800,Event Region Championship
+168229,49059,130481,Event Region Championship
+168230,49059,134582,Event Region Championship
+168304,49061,52930,Event Region Championship
+166845,49150,135054,Event Region Championship
+166846,49150,135053,Event Region Championship
+166846,49150,135054,Event Region Championship
+171259,49389,143242,Event Region Championship
+171259,49389,84483,Event Region Championship
+171260,49389,143241,Event Region Championship
+177942,49389,84484,Event Region Championship
+169500,49560,115532,Event Region Championship
+169500,49560,49344,Event Region Championship
+169678,49596,112537,Event Region Championship
+169678,49596,63668,Event Region Championship
+178210,49596,121822,Event Region Championship
+169814,49612,97640,Event Region Championship
+169814,49612,59752,Event Region Championship
+169815,49612,81418,Event Region Championship
+169815,49612,85457,Event Region Championship
+169816,49612,83693,Event Region Championship
+178350,49612,64986,Event Region Championship
+178351,49612,81416,Event Region Championship
+169964,49638,110304,Event Region Championship
+169964,49638,100857,Event Region Championship
+177127,49638,129438,Event Region Championship
+170104,49655,114751,Event Region Championship
+170104,49655,75886,Event Region Championship
+170761,49780,87264,Event Region Championship
+170762,49780,143317,Event Region Championship
+170762,49780,115503,Event Region Championship
+170763,49780,143317,Event Region Championship
+170925,49800,97025,Event Region Championship
+170926,49800,97025,Event Region Championship
+170926,49800,65939,Event Region Championship
+170927,49800,132716,Event Region Championship
+171222,49868,76992,Event Region Championship
+171222,49868,126058,Event Region Championship
+171223,49868,71985,Event Region Championship
+171223,49868,71984,Event Region Championship
+171224,49868,49871,Event Region Championship
+178471,49868,126058,Event Region Championship
+171475,49919,127298,Event Region Championship
+171475,49919,139824,Event Region Championship
+171476,49919,139824,Event Region Championship
+171477,49919,139824,Event Region Championship
+171480,49919,127298,Event Region Championship
+171468,49920,109697,Event Region Championship
+171469,49920,130381,Event Region Championship
+171470,49920,124475,Event Region Championship
+171470,49920,118907,Event Region Championship
+171471,49920,130833,Event Region Championship
+171543,49935,129801,Event Region Championship
+171543,49935,63355,Event Region Championship
+171544,49935,129802,Event Region Championship
+178209,49935,110363,Event Region Championship
+171884,49968,141109,Event Region Championship
+171885,49968,141109,Event Region Championship
+171885,49968,97378,Event Region Championship
+175256,50487,95577,Event Region Championship
+175332,50487,95577,Event Region Championship
+175332,50487,92009,Event Region Championship
+178432,50487,98087,Event Region Championship
+178433,50487,95578,Event Region Championship
 177453,50784,116696,RE-VIQC-22-8665
 177453,50784,116696,RE-VIQC-22-8646
 178221,50784,144397,RE-VIQC-22-8665
 178221,50784,144397,RE-VIQC-22-8646
+177819,50840,141882,Event Region Championship
+177820,50840,141882,Event Region Championship
+177820,50840,141614,Event Region Championship
+173276,50054,147396,RE-VIQC-22-8665
+173276,50054,147396,RE-VIQC-22-8646
+173276,50054,147397,RE-VIQC-22-8665
+173276,50054,147397,RE-VIQC-22-8646
+178406,50054,147399,RE-VIQC-22-8665
+178406,50054,147399,RE-VIQC-22-8646
+177636,50810,128562,RE-VRC-22-8666
+177636,50810,128562,RE-VRC-22-8645
+178222,50810,141836,RE-VRC-22-8666
+178222,50810,141836,RE-VRC-22-8645
