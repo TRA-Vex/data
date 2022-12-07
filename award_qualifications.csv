@@ -36486,6 +36486,7 @@ award_id,event_id,team_id,qualification
 178209,49935,110363,Event Region Championship
 171885,49968,141109,Event Region Championship
 171885,49968,97378,Event Region Championship
+179632,49968,141109,Event Region Championship
 171803,49972,114890,Event Region Championship
 172459,50078,139521,Event Region Championship
 172460,50078,139521,Event Region Championship
@@ -36829,6 +36830,7 @@ award_id,event_id,team_id,qualification
 175387,50505,98837,Event Region Championship
 177310,50505,111500,Event Region Championship
 177311,50505,96942,Event Region Championship
+161811,48285,90131,World Championship
 161824,48287,90205,World Championship
 166533,49092,47897,Event Region Championship
 166533,49092,22396,Event Region Championship
@@ -36842,6 +36844,8 @@ award_id,event_id,team_id,qualification
 178908,49688,88624,Event Region Championship
 172558,50100,98147,Event Region Championship
 172558,50100,98146,Event Region Championship
+161962,48310,125599,Event Region Championship
+161962,48310,101340,Event Region Championship
 160777,48071,132530,World Championship
 160778,48071,132530,World Championship
 160778,48071,56472,World Championship
@@ -36915,10 +36919,39 @@ award_id,event_id,team_id,qualification
 163560,48552,87671,Event Region Championship
 179070,48552,87672,Event Region Championship
 179071,48552,97315,Event Region Championship
+163657,48570,74168,Event Region Championship
+163658,48570,122934,Event Region Championship
+163658,48570,129944,Event Region Championship
 163854,48606,15097,Event Region Championship
 163854,48606,49483,Event Region Championship
 179574,48606,146723,Event Region Championship
 179575,48606,49483,Event Region Championship
+164095,48645,128883,World Championship
+164096,48645,128883,World Championship
+164096,48645,128886,World Championship
+164098,48645,134212,World Championship
+164101,48646,147396,World Championship
+164102,48646,138960,World Championship
+164102,48646,116121,World Championship
+164103,48646,143802,World Championship
+164103,48646,145012,World Championship
+164104,48646,143802,World Championship
+164105,48646,143802,World Championship
+174451,48646,116119,World Championship
+164197,48665,116696,World Championship
+164198,48665,124597,World Championship
+164198,48665,143925,World Championship
+164199,48665,116696,World Championship
+164199,48665,124598,World Championship
+164200,48665,141084,World Championship
+164201,48665,116696,World Championship
+174449,48665,122779,World Championship
+174450,48665,123435,World Championship
+164207,48666,135580,World Championship
+164208,48666,135580,World Championship
+164208,48666,135774,World Championship
+164210,48666,144786,World Championship
+164238,48677,132796,RE-VEXU-22-9727
 164413,48706,67019,Event Region Championship
 164413,48706,63668,Event Region Championship
 164414,48706,57769,Event Region Championship
@@ -36979,6 +37012,11 @@ award_id,event_id,team_id,qualification
 165957,48999,62510,Event Region Championship
 166450,48999,62511,Event Region Championship
 166450,48999,66087,Event Region Championship
+179543,49099,84906,Event Region Championship
+179543,49099,112557,Event Region Championship
+179544,49099,117220,Event Region Championship
+179544,49099,119495,Event Region Championship
+179546,49099,112561,Event Region Championship
 166782,49138,129438,Event Region Championship
 166783,49138,129438,Event Region Championship
 166783,49138,63748,Event Region Championship
