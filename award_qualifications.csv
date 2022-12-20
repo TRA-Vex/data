@@ -36596,10 +36596,6 @@ award_id,event_id,team_id,qualification
 161252,48154,83090,Event Region Championship
 161253,48154,139683,Event Region Championship
 161253,48154,109693,Event Region Championship
-159524,47858,122291,Event Region Championship
-159524,47858,110339,Event Region Championship
-175959,47858,128138,Event Region Championship
-175960,47858,81796,Event Region Championship
 161255,48154,110896,Event Region Championship
 162244,48352,48490,Event Region Championship
 162244,48352,62947,Event Region Championship
@@ -37801,10 +37797,6 @@ award_id,event_id,team_id,qualification
 166955,49167,125984,Event Region Championship
 166956,49167,125094,Event Region Championship
 167184,49203,94779,Event Region Championship
-159060,47751,126872,UIL Championship
-159060,47751,140251,UIL Championship
-179854,47751,97544,UIL Championship
-179854,47751,138950,UIL Championship
 167184,49203,61764,Event Region Championship
 169652,49203,146774,Event Region Championship
 169653,49203,70524,Event Region Championship
@@ -38183,6 +38175,10 @@ award_id,event_id,team_id,qualification
 179860,49174,87367,UIL Championship
 179860,49174,117159,UIL Championship
 180282,49174,139990,Event Region Championship
+167840,49303,65449,Event Region Championship
+167840,49303,136587,Event Region Championship
+180252,49303,123704,Event Region Championship
+180253,49303,96749,Event Region Championship
 168242,49342,49483,Event Region Championship
 168242,49342,99592,Event Region Championship
 168243,49342,49483,Event Region Championship
@@ -38255,3 +38251,17 @@ award_id,event_id,team_id,qualification
 176629,50675,97773,Event Region Championship
 176630,50675,88020,Event Region Championship
 176630,50675,119454,Event Region Championship
+163530,48171,148497,Event Region Championship
+163531,48171,148497,Event Region Championship
+163531,48171,140828,Event Region Championship
+168868,49444,94809,Event Region Championship
+168869,49444,94809,Event Region Championship
+168869,49444,87672,Event Region Championship
+159524,47858,122291,Event Region Championship
+159524,47858,110339,Event Region Championship
+175959,47858,128138,Event Region Championship
+175960,47858,81796,Event Region Championship
+159060,47751,126872,UIL Championship
+159060,47751,140251,UIL Championship
+179854,47751,97544,UIL Championship
+179854,47751,138950,UIL Championship
