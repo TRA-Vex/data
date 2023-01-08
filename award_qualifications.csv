@@ -35998,6 +35998,8 @@ award_id,event_id,team_id,qualification
 162838,48446,85099,Event Region Championship
 162839,48446,99531,Event Region Championship
 162839,48446,72670,Event Region Championship
+173737,50247,93383,Event Region Championship
+173737,50247,89020,Event Region Championship
 164531,48732,143118,Event Region Championship
 164531,48732,143317,Event Region Championship
 166611,49103,139380,Event Region Championship
@@ -36299,6 +36301,15 @@ award_id,event_id,team_id,qualification
 160977,48103,73732,Event Region Championship
 161193,48144,86783,Event Region Championship
 161193,48144,144391,Event Region Championship
+164312,48401,128934,Event Region Championship
+164312,48401,128934,UIL Championship
+164312,48401,130100,Event Region Championship
+164312,48401,130100,UIL Championship
+164313,48401,142115,Event Region Championship
+178219,48401,142117,Event Region Championship
+178220,48401,128362,Event Region Championship
+179848,48401,113526,UIL Championship
+179848,48401,142117,UIL Championship
 162531,48403,94245,Event Region Championship
 162532,48403,62510,Event Region Championship
 162532,48403,94245,Event Region Championship
@@ -37353,7 +37364,6 @@ award_id,event_id,team_id,qualification
 162846,48447,57610,Event Region Championship
 163323,48514,17038,Event Region Championship
 163324,48514,57904,Event Region Championship
-170799,48183,128972,World Championship
 163324,48514,56697,Event Region Championship
 163560,48552,87672,Event Region Championship
 163560,48552,87671,Event Region Championship
@@ -37624,7 +37634,6 @@ award_id,event_id,team_id,qualification
 172202,50046,114885,Event Region Championship
 172202,50046,85824,Event Region Championship
 179211,50046,114885,Event Region Championship
-174875,49788,128626,World Championship
 179212,50046,74443,Event Region Championship
 174520,50114,77202,Event Region Championship
 174520,50114,107092,Event Region Championship
@@ -38514,6 +38523,55 @@ award_id,event_id,team_id,qualification
 176277,50634,139544,Event Region Championship
 176277,50634,142727,Event Region Championship
 176278,50634,87669,Event Region Championship
+167149,49200,75585,Event Region Championship
+167149,49200,78936,Event Region Championship
+167151,49200,111002,Event Region Championship
+167152,49200,75585,Event Region Championship
+180642,49200,78936,Event Region Championship
+167215,49209,133446,Event Region Championship
+167215,49209,108932,Event Region Championship
+167216,49209,108932,Event Region Championship
+172335,50066,63318,Event Region Championship
+172335,50066,135895,Event Region Championship
+172336,50066,32827,Event Region Championship
+179624,50066,58787,Event Region Championship
+179625,50066,33787,Event Region Championship
+159799,47910,98174,Event Region Championship
+159799,47910,99373,Event Region Championship
+159801,47910,97608,Event Region Championship
+178449,47910,99373,Event Region Championship
+171252,49870,129829,Event Region Championship
+171252,49870,97954,Event Region Championship
+173788,49870,97954,Event Region Championship
+173501,50227,67418,Event Region Championship
+173501,50227,140892,Event Region Championship
+173502,50227,78639,Event Region Championship
+173503,50227,99338,Event Region Championship
+177216,50227,100239,Event Region Championship
+177217,50227,140893,Event Region Championship
+174920,50338,94797,Event Region Championship
+174920,50338,123906,Event Region Championship
+174996,50438,140124,Event Region Championship
+174997,50438,110475,Event Region Championship
+174997,50438,121863,Event Region Championship
+174998,50438,116607,Event Region Championship
+174999,50438,110475,Event Region Championship
+175417,50512,103108,Event Region Championship
+175418,50512,133529,Event Region Championship
+175418,50512,115474,Event Region Championship
+175419,50512,92109,Event Region Championship
+175419,50512,103109,Event Region Championship
+175420,50512,140271,Event Region Championship
+175421,50512,103109,Event Region Championship
+178543,50918,61392,Event Region Championship
+178544,50918,145860,Event Region Championship
+178544,50918,61392,Event Region Championship
+178545,50918,79036,Event Region Championship
+178546,50918,145860,Event Region Championship
+180920,50918,79036,Event Region Championship
+180920,50918,90145,Event Region Championship
+170799,48183,128972,World Championship
+174875,49788,128626,World Championship
 159524,47858,122291,Event Region Championship
 159524,47858,110339,Event Region Championship
 175959,47858,128138,Event Region Championship
