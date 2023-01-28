@@ -31639,33 +31639,6 @@ award_id,event_id,team_id,qualification
 150522,46589,37807,Event Region Championship
 150522,46589,129764,Event Region Championship
 150523,46589,24640,Event Region Championship
-166480,49078,110647,Event Region Championship
-166481,49078,124413,Event Region Championship
-166481,49078,81722,Event Region Championship
-166482,49078,122798,Event Region Championship
-166483,49078,140300,Event Region Championship
-166485,49078,129725,Event Region Championship
-181273,49078,85916,Event Region Championship
-181273,49078,122798,Event Region Championship
-167783,49290,115099,Event Region Championship
-167783,49290,115099,UIL Championship
-167783,49290,85351,Event Region Championship
-167783,49290,85351,UIL Championship
-167784,49290,123790,UIL Championship
-167784,49290,113526,UIL Championship
-175927,49290,111464,Event Region Championship
-169170,49486,73137,Event Region Championship
-169171,49486,73137,Event Region Championship
-169171,49486,131687,Event Region Championship
-169210,49506,66413,Event Region Championship
-161456,48236,125125,Event Region Championship
-161457,48236,125125,Event Region Championship
-161457,48236,139521,Event Region Championship
-165257,48236,105535,Event Region Championship
-166360,49065,62507,Event Region Championship
-166361,49065,135897,Event Region Championship
-166361,49065,70368,Event Region Championship
-166363,49065,124273,Event Region Championship
 147444,45979,98793,Event Region Championship
 147445,45979,98793,Event Region Championship
 147445,45979,98795,Event Region Championship
@@ -31767,10 +31740,6 @@ award_id,event_id,team_id,qualification
 145005,45616,52889,Event Region Championship
 145005,45616,128470,Event Region Championship
 145009,45616,128470,Event Region Championship
-163632,48566,132615,Event Region Championship
-163633,48566,132615,Event Region Championship
-163633,48566,63059,Event Region Championship
-165648,48957,63719,Event Region Championship
 152813,46896,129713,Event Region Championship
 152813,46896,131719,Event Region Championship
 151961,46788,122424,Event Region Championship
@@ -35231,35 +35200,7 @@ award_id,event_id,team_id,qualification
 146854,45985,129400,World Championship
 146855,45985,46051,World Championship
 146856,45985,85685,World Championship
-165649,48957,63719,Event Region Championship
-165649,48957,132614,Event Region Championship
-168233,49309,133330,Event Region Championship
-168236,49309,141821,UIL Championship
-168236,49309,141817,UIL Championship
-179843,49309,133331,UIL Championship
-179843,49309,133337,UIL Championship
-170162,49673,146375,Event Region Championship
-170163,49673,99863,Event Region Championship
-170163,49673,93775,Event Region Championship
-170164,49673,143499,Event Region Championship
-170165,49673,99863,Event Region Championship
-181386,49673,99035,Event Region Championship
-181386,49673,146375,Event Region Championship
-162765,48434,129852,Event Region Championship
-162766,48434,83915,Event Region Championship
-162766,48434,129852,Event Region Championship
 171884,49968,141109,Event Region Championship
-163365,48521,62806,RE-VIQC-22-8665
-163365,48521,62806,RE-VIQC-22-8646
-163366,48521,143410,RE-VIQC-22-8665
-163366,48521,143410,RE-VIQC-22-8646
-163366,48521,62806,RE-VIQC-22-8665
-163366,48521,62806,RE-VIQC-22-8646
-165869,48983,63058,Event Region Championship
-165869,48983,143609,Event Region Championship
-163820,48601,86035,Event Region Championship
-163820,48601,86037,Event Region Championship
-166112,49031,56084,Event Region Championship
 150323,46556,100219,World Championship
 150324,46556,87630,World Championship
 150328,46556,122318,World Championship
@@ -35355,44 +35296,6 @@ award_id,event_id,team_id,qualification
 157227,47454,101554,World Championship
 157243,47454,101555,World Championship
 157244,47454,101552,World Championship
-166112,49031,56084,UIL Championship
-166112,49031,63707,Event Region Championship
-166112,49031,63707,UIL Championship
-179844,49031,129780,UIL Championship
-179844,49031,56085,UIL Championship
-170754,49625,110327,Event Region Championship
-170775,49782,93226,Event Region Championship
-170776,49782,129319,Event Region Championship
-170776,49782,93396,Event Region Championship
-170777,49782,93818,Event Region Championship
-181387,49782,114987,Event Region Championship
-181387,49782,93818,Event Region Championship
-173826,50274,145855,RE-VIQC-22-8665
-173826,50274,145855,RE-VIQC-22-8646
-173827,50274,145859,RE-VIQC-22-8665
-173827,50274,145859,RE-VIQC-22-8646
-173967,50296,118899,Event Region Championship
-173967,50296,100658,Event Region Championship
-167577,49258,96589,Event Region Championship
-167577,49258,123416,Event Region Championship
-169518,49563,88625,Event Region Championship
-177221,49563,88625,Event Region Championship
-177221,49563,88624,Event Region Championship
-171398,49904,134212,RE-VRC-22-8666
-171398,49904,134212,RE-VRC-22-8645
-171399,49904,134214,RE-VRC-22-8666
-171399,49904,134214,RE-VRC-22-8645
-171399,49904,134215,RE-VRC-22-8666
-171399,49904,134215,RE-VRC-22-8645
-171401,49904,130286,RE-VRC-22-8666
-171401,49904,130286,RE-VRC-22-8645
-159217,47778,139219,World Championship
-159217,47778,87333,World Championship
-163170,47778,128470,World Championship
-163171,47778,139219,World Championship
-165781,48970,139380,Event Region Championship
-165782,48970,139380,Event Region Championship
-165782,48970,129764,Event Region Championship
 155655,47235,89554,World Championship
 155657,47235,132903,World Championship
 155658,47235,70657,World Championship
@@ -35602,58 +35505,6 @@ award_id,event_id,team_id,qualification
 156387,47360,135275,Event Region Championship
 156387,47360,133632,Event Region Championship
 156388,47360,133632,Event Region Championship
-165783,48970,24640,Event Region Championship
-158946,47722,125676,Event Region Championship
-158947,47722,125676,Event Region Championship
-158947,47722,101787,Event Region Championship
-158948,47722,120080,Event Region Championship
-159250,47786,111876,Event Region Championship
-159251,47786,128399,Event Region Championship
-159251,47786,86783,Event Region Championship
-159256,47787,28990,Event Region Championship
-159256,47787,26857,Event Region Championship
-176934,47787,40093,Event Region Championship
-159681,47888,114051,Event Region Championship
-159682,47888,114051,Event Region Championship
-159682,47888,140300,Event Region Championship
-159683,47888,85916,Event Region Championship
-159683,47888,139487,Event Region Championship
-159684,47888,63523,Event Region Championship
-159685,47888,114051,Event Region Championship
-159687,47888,55589,Event Region Championship
-160199,47969,85979,Event Region Championship
-160199,47969,85847,Event Region Championship
-179819,47969,85979,Event Region Championship
-179820,47969,85847,Event Region Championship
-160571,48038,102409,Event Region Championship
-160571,48038,23035,Event Region Championship
-176903,48038,64680,Event Region Championship
-160972,48102,142330,Event Region Championship
-165971,48420,129890,Event Region Championship
-165972,48420,107412,Event Region Championship
-165972,48420,129890,Event Region Championship
-165973,48420,62739,Event Region Championship
-165974,48420,141938,Event Region Championship
-181274,48420,100000,Event Region Championship
-181274,48420,81591,Event Region Championship
-181275,48420,93700,Event Region Championship
-162721,48428,132680,Event Region Championship
-162721,48428,129593,Event Region Championship
-162772,48435,117246,Event Region Championship
-162773,48435,96624,Event Region Championship
-162774,48435,72742,Event Region Championship
-162774,48435,123394,Event Region Championship
-162775,48435,142386,Event Region Championship
-162791,48438,143050,Event Region Championship
-162792,48438,140506,Event Region Championship
-162792,48438,118696,Event Region Championship
-162793,48438,66993,Event Region Championship
-163437,48533,57715,Event Region Championship
-163438,48533,143590,Event Region Championship
-163438,48533,118623,Event Region Championship
-163439,48533,51034,Event Region Championship
-163439,48533,143546,Event Region Championship
-163440,48533,143546,Event Region Championship
 155778,47245,105728,World Championship
 150871,46650,65635,World Championship
 150872,46650,118270,World Championship
@@ -35697,6 +35548,526 @@ award_id,event_id,team_id,qualification
 158793,47523,114946,World Championship
 153337,46963,133065,Event Region Championship
 153337,46963,126170,Event Region Championship
+174414,50358,145894,Event Region Championship
+174415,50358,145894,Event Region Championship
+174415,50358,139473,Event Region Championship
+161711,48089,98624,Event Region Championship
+161712,48089,64629,Event Region Championship
+161712,48089,98624,Event Region Championship
+161713,48089,73837,Event Region Championship
+159035,47740,139219,World Championship
+159035,47740,56472,World Championship
+159049,47740,139219,World Championship
+161605,48217,123234,World Championship
+161605,48217,95859,World Championship
+161804,48217,140477,World Championship
+161621,48218,102422,World Championship
+161621,48218,140625,World Championship
+161806,48218,95648,World Championship
+161637,48219,81784,World Championship
+161637,48219,54133,World Championship
+161807,48219,108030,World Championship
+161057,48095,135580,RE-VRC-22-8666
+161057,48095,135580,RE-VRC-22-8645
+161058,48095,140777,RE-VRC-22-8666
+161058,48095,140777,RE-VRC-22-8645
+161058,48095,135580,RE-VRC-22-8666
+161058,48095,135580,RE-VRC-22-8645
+161059,48095,109096,RE-VRC-22-8666
+161059,48095,109096,RE-VRC-22-8645
+161060,48095,94560,RE-VRC-22-8666
+161060,48095,94560,RE-VRC-22-8645
+165365,48887,128555,RE-VIQC-22-8665
+165365,48887,128555,RE-VIQC-22-8646
+165365,48887,128557,RE-VIQC-22-8665
+165365,48887,128557,RE-VIQC-22-8646
+165367,48887,128555,RE-VIQC-22-8665
+165367,48887,128555,RE-VIQC-22-8646
+161067,48126,109097,RE-VRC-22-8666
+161067,48126,109097,RE-VRC-22-8645
+161068,48126,94560,RE-VRC-22-8666
+161068,48126,94560,RE-VRC-22-8645
+161068,48126,135580,RE-VRC-22-8666
+161068,48126,135580,RE-VRC-22-8645
+161069,48126,135580,RE-VRC-22-8666
+161069,48126,135580,RE-VRC-22-8645
+161070,48126,135580,RE-VRC-22-8666
+161070,48126,135580,RE-VRC-22-8645
+161072,48127,141084,RE-VIQC-22-8665
+161072,48127,141084,RE-VIQC-22-8646
+161073,48127,135738,RE-VIQC-22-8665
+161073,48127,135738,RE-VIQC-22-8646
+161073,48127,141084,RE-VIQC-22-8665
+161073,48127,141084,RE-VIQC-22-8646
+161074,48127,141085,RE-VIQC-22-8665
+161074,48127,141085,RE-VIQC-22-8646
+161075,48127,141085,RE-VIQC-22-8665
+161075,48127,141085,RE-VIQC-22-8646
+161076,48127,127808,RE-VIQC-22-8665
+161076,48127,127808,RE-VIQC-22-8646
+162321,48369,231,Event Region Championship
+162322,48369,107117,Event Region Championship
+162322,48369,139380,Event Region Championship
+162323,48369,23632,Event Region Championship
+159633,47884,13918,Event Region Championship
+159634,47884,13918,Event Region Championship
+159634,47884,13909,Event Region Championship
+159636,47884,13915,Event Region Championship
+159645,47885,56222,Event Region Championship
+159646,47885,56222,Event Region Championship
+159646,47885,50085,Event Region Championship
+159647,47885,62758,Event Region Championship
+159647,47885,141605,Event Region Championship
+159648,47885,50546,Event Region Championship
+159649,47885,56222,Event Region Championship
+160069,47950,71480,Event Region Championship
+160070,47950,63118,Event Region Championship
+160070,47950,139496,Event Region Championship
+160071,47950,110127,Event Region Championship
+161762,48207,85437,World Championship
+168101,49335,122288,RE-VIQC-22-8665
+168101,49335,122288,RE-VIQC-22-8646
+168101,49335,97481,RE-VIQC-22-8665
+168101,49335,97481,RE-VIQC-22-8646
+168104,49335,122288,RE-VIQC-22-8665
+168104,49335,122288,RE-VIQC-22-8646
+160946,48097,95355,RE-VIQC-22-8665
+160946,48097,95355,RE-VIQC-22-8646
+160947,48097,123435,RE-VIQC-22-8665
+160947,48097,123435,RE-VIQC-22-8646
+160948,48097,142722,RE-VIQC-22-8665
+160948,48097,142722,RE-VIQC-22-8646
+160948,48097,121999,RE-VIQC-22-8665
+160948,48097,121999,RE-VIQC-22-8646
+160949,48097,128555,RE-VIQC-22-8665
+160949,48097,128555,RE-VIQC-22-8646
+160950,48097,95357,RE-VIQC-22-8665
+160950,48097,95357,RE-VIQC-22-8646
+158967,47728,55969,Event Region Championship
+158968,47728,55969,Event Region Championship
+158968,47728,55967,Event Region Championship
+158969,47728,107510,Event Region Championship
+158969,47728,73637,Event Region Championship
+158970,47728,55967,Event Region Championship
+158971,47728,55969,Event Region Championship
+159012,47741,70332,Event Region Championship
+159013,47741,50944,Event Region Championship
+159013,47741,62903,Event Region Championship
+159014,47741,83713,Event Region Championship
+159014,47741,73626,Event Region Championship
+159015,47741,47917,Event Region Championship
+159016,47741,81143,Event Region Championship
+164668,48755,140722,RE-VRC-22-8666
+164668,48755,140722,RE-VRC-22-8645
+164668,48755,128562,RE-VRC-22-8666
+164668,48755,128562,RE-VRC-22-8645
+164669,48755,128886,RE-VRC-22-8666
+164669,48755,128886,RE-VRC-22-8645
+164669,48755,128883,RE-VRC-22-8666
+164669,48755,128883,RE-VRC-22-8645
+164670,48755,140720,RE-VRC-22-8666
+164670,48755,140720,RE-VRC-22-8645
+164671,48755,128562,RE-VRC-22-8666
+164671,48755,128562,RE-VRC-22-8645
+164747,48755,128562,RE-VRC-22-8666
+164747,48755,128562,RE-VRC-22-8645
+164748,48755,140725,RE-VRC-22-8666
+164748,48755,140725,RE-VRC-22-8645
+169305,48755,138959,RE-VRC-22-8666
+169305,48755,138959,RE-VRC-22-8645
+169306,48755,141624,RE-VRC-22-8666
+169306,48755,141624,RE-VRC-22-8645
+164777,48779,138960,RE-VIQC-22-8665
+164777,48779,138960,RE-VIQC-22-8646
+164778,48779,124597,RE-VIQC-22-8665
+164778,48779,124597,RE-VIQC-22-8646
+164779,48779,124598,RE-VIQC-22-8665
+164779,48779,124598,RE-VIQC-22-8646
+164779,48779,126407,RE-VIQC-22-8665
+164779,48779,126407,RE-VIQC-22-8646
+164780,48779,122779,RE-VIQC-22-8665
+164780,48779,122779,RE-VIQC-22-8646
+164781,48779,116696,RE-VIQC-22-8665
+164781,48779,116696,RE-VIQC-22-8646
+169307,48779,140256,RE-VIQC-22-8665
+169307,48779,140256,RE-VIQC-22-8646
+169307,48779,138960,RE-VIQC-22-8665
+169307,48779,138960,RE-VIQC-22-8646
+169309,48779,124597,RE-VIQC-22-8665
+169309,48779,124597,RE-VIQC-22-8646
+169310,48779,138960,RE-VIQC-22-8665
+169310,48779,138960,RE-VIQC-22-8646
+160328,47988,135774,RE-VRC-22-8666
+160330,47988,139183,RE-VRC-22-8666
+160330,47988,122638,RE-VRC-22-8666
+160332,47988,142334,RE-VRC-22-8666
+166767,49129,135775,RE-VRC-22-8645
+166768,49129,128643,RE-VRC-22-8645
+166768,49129,129419,RE-VRC-22-8645
+166770,49129,112051,RE-VRC-22-8645
+169578,49579,143513,Event Region Championship
+169578,49579,129107,Event Region Championship
+169595,49579,116805,Event Region Championship
+159457,47782,6726,Event Region Championship
+159457,47782,114051,Event Region Championship
+159459,47782,52997,Event Region Championship
+181271,47782,6726,Event Region Championship
+159235,47783,121840,Event Region Championship
+159235,47783,139232,Event Region Championship
+163676,47783,139232,Event Region Championship
+159769,47901,82736,Event Region Championship
+159769,47901,82735,Event Region Championship
+163765,48590,105535,Event Region Championship
+163766,48590,125125,Event Region Championship
+163766,48590,107169,Event Region Championship
+163768,48590,126058,Event Region Championship
+164740,48771,129764,Event Region Championship
+164740,48771,133005,Event Region Championship
+167859,49083,99742,Event Region Championship
+167859,49083,111220,Event Region Championship
+167905,49083,111220,Event Region Championship
+165441,48891,144335,Event Region Championship
+165441,48891,133284,Event Region Championship
+165442,48891,141427,Event Region Championship
+165443,48891,130705,Event Region Championship
+173725,48891,141429,Event Region Championship
+173726,48891,133284,Event Region Championship
+165095,48674,131357,Event Region Championship
+165095,48674,129728,Event Region Championship
+159398,47822,81649,Event Region Championship
+159398,47822,121840,Event Region Championship
+164245,48573,63867,Event Region Championship
+164246,48573,37738,Event Region Championship
+164246,48573,63867,Event Region Championship
+167555,49253,140121,Event Region Championship
+167556,49253,135516,Event Region Championship
+167557,49253,133118,Event Region Championship
+167557,49253,140121,Event Region Championship
+167558,49253,133118,Event Region Championship
+168375,49367,11998,Event Region Championship
+168376,49367,116089,Event Region Championship
+168376,49367,70367,Event Region Championship
+168899,49412,107287,Event Region Championship
+168899,49412,62971,Event Region Championship
+178797,49412,99743,Event Region Championship
+170136,49669,50607,Event Region Championship
+170137,49669,144677,Event Region Championship
+170137,49669,144677,UIL Championship
+170137,49669,13408,Event Region Championship
+170137,49669,13408,UIL Championship
+170138,49669,50606,UIL Championship
+170138,49669,50607,UIL Championship
+170139,49669,13408,Event Region Championship
+168787,48904,114103,Event Region Championship
+168788,48904,96460,Event Region Championship
+168789,48904,114100,Event Region Championship
+168789,48904,113389,Event Region Championship
+162577,48410,1051,Event Region Championship
+162578,48410,2356,Event Region Championship
+162578,48410,129764,Event Region Championship
+158980,47733,105728,Event Region Championship
+158981,47733,105728,UIL Championship
+158981,47733,138950,UIL Championship
+179840,47733,110059,UIL Championship
+179840,47733,111669,UIL Championship
+159534,47861,6726,Event Region Championship
+159534,47861,81719,Event Region Championship
+159536,47861,6726,Event Region Championship
+169318,47861,116089,Event Region Championship
+169319,47861,81719,Event Region Championship
+160076,47951,111400,Event Region Championship
+160077,47951,139632,Event Region Championship
+160077,47951,130508,Event Region Championship
+160078,47951,139611,Event Region Championship
+160341,47990,62699,Event Region Championship
+160341,47990,114751,Event Region Championship
+160645,48047,132674,Event Region Championship
+160646,48047,118475,Event Region Championship
+160646,48047,138770,Event Region Championship
+160647,48047,124185,Event Region Championship
+160864,48084,111730,Event Region Championship
+160864,48084,73540,Event Region Championship
+164820,48084,111730,Event Region Championship
+161529,48245,58105,Event Region Championship
+161529,48245,62510,Event Region Championship
+176935,48245,99592,Event Region Championship
+164306,48400,129606,Event Region Championship
+164306,48400,129606,UIL Championship
+164306,48400,142117,Event Region Championship
+164306,48400,142117,UIL Championship
+164307,48400,129606,Event Region Championship
+164308,48400,129606,Event Region Championship
+165708,48400,128934,Event Region Championship
+179841,48400,128934,UIL Championship
+179841,48400,130100,UIL Championship
+164558,48741,56472,Event Region Championship
+164558,48741,52977,Event Region Championship
+164612,48741,123261,Event Region Championship
+164565,48742,91744,Event Region Championship
+164565,48742,88605,Event Region Championship
+164619,48742,126798,Event Region Championship
+164614,48751,91456,Event Region Championship
+164614,48751,91456,UIL Championship
+164614,48751,55582,Event Region Championship
+164614,48751,55582,UIL Championship
+164615,48751,117210,UIL Championship
+164615,48751,76965,UIL Championship
+165410,48751,85412,Event Region Championship
+166369,49064,129934,Event Region Championship
+166370,49064,129934,Event Region Championship
+166370,49064,140813,Event Region Championship
+163925,48618,63081,Event Region Championship
+163926,48618,109253,Event Region Championship
+163926,48618,83971,Event Region Championship
+170142,49670,130351,Event Region Championship
+170143,49670,99364,Event Region Championship
+170143,49670,99364,UIL Championship
+170143,49670,130351,Event Region Championship
+170143,49670,130351,UIL Championship
+170144,49670,112381,Event Region Championship
+170144,49670,112381,UIL Championship
+170144,49670,130350,Event Region Championship
+170144,49670,130350,UIL Championship
+170145,49670,99364,Event Region Championship
+165211,48637,107945,Event Region Championship
+165212,48637,140921,Event Region Championship
+165213,48637,51739,Event Region Championship
+165213,48637,102409,Event Region Championship
+161764,48279,140421,Event Region Championship
+161764,48279,114686,Event Region Championship
+169665,49595,65538,Event Region Championship
+169665,49595,70425,Event Region Championship
+169666,49595,70425,Event Region Championship
+169667,49595,65538,Event Region Championship
+181382,49595,65538,Event Region Championship
+181383,49595,114033,Event Region Championship
+181383,49595,94212,Event Region Championship
+169916,49633,93706,Event Region Championship
+169916,49633,128699,Event Region Championship
+169917,49633,110357,Event Region Championship
+169918,49633,93224,Event Region Championship
+169938,49633,144464,Event Region Championship
+169938,49633,144462,Event Region Championship
+170669,49760,141085,RE-VIQC-22-8665
+170669,49760,141085,RE-VIQC-22-8646
+170670,49760,127810,RE-VIQC-22-8665
+170670,49760,127810,RE-VIQC-22-8646
+170670,49760,141085,RE-VIQC-22-8665
+170670,49760,141085,RE-VIQC-22-8646
+170671,49760,109436,RE-VIQC-22-8665
+170671,49760,109436,RE-VIQC-22-8646
+170672,49760,141084,RE-VIQC-22-8665
+170672,49760,141084,RE-VIQC-22-8646
+173018,50064,144423,Event Region Championship
+173018,50064,144428,Event Region Championship
+180944,50064,77297,Event Region Championship
+159596,47807,100857,Event Region Championship
+159597,47807,100857,Event Region Championship
+159597,47807,110304,Event Region Championship
+159598,47807,129438,Event Region Championship
+164545,47807,99003,Event Region Championship
+160197,47968,143689,Event Region Championship
+160197,47968,75819,Event Region Championship
+179817,47968,63279,Event Region Championship
+179818,47968,114890,Event Region Championship
+161307,48163,87396,Event Region Championship
+161307,48163,66041,Event Region Championship
+161450,48235,123758,Event Region Championship
+161450,48235,138770,Event Region Championship
+161451,48235,112940,Event Region Championship
+175981,48235,138770,Event Region Championship
+162928,48458,114051,Event Region Championship
+162928,48458,556,Event Region Championship
+162930,48458,128458,Event Region Championship
+181272,48458,6726,Event Region Championship
+163121,48485,107169,Event Region Championship
+163122,48485,107169,Event Region Championship
+163122,48485,122300,Event Region Championship
+163123,48485,111380,Event Region Championship
+163123,48485,124726,Event Region Championship
+163124,48485,126058,Event Region Championship
+163950,48625,141696,Event Region Championship
+163951,48625,123465,Event Region Championship
+163952,48625,139902,Event Region Championship
+163952,48625,96056,Event Region Championship
+163953,48625,85360,Event Region Championship
+164429,48709,124554,Event Region Championship
+164429,48709,124554,UIL Championship
+164429,48709,141150,Event Region Championship
+164429,48709,141150,UIL Championship
+164430,48709,113845,Event Region Championship
+164431,48709,124554,Event Region Championship
+179842,48709,7216,UIL Championship
+179842,48709,129858,UIL Championship
+180280,48709,124331,Event Region Championship
+166649,48871,130481,Event Region Championship
+166649,48871,115209,Event Region Championship
+166650,48871,85672,Event Region Championship
+176775,48871,141798,Event Region Championship
+165317,48878,141882,Event Region Championship
+165317,48878,134207,Event Region Championship
+165319,48878,109480,Event Region Championship
+178094,48878,140800,Event Region Championship
+165480,48924,57904,Event Region Championship
+165480,48924,13282,Event Region Championship
+175364,48924,56697,Event Region Championship
+166480,49078,110647,Event Region Championship
+166481,49078,124413,Event Region Championship
+166481,49078,81722,Event Region Championship
+166482,49078,122798,Event Region Championship
+166483,49078,140300,Event Region Championship
+166485,49078,129725,Event Region Championship
+181273,49078,85916,Event Region Championship
+181273,49078,122798,Event Region Championship
+167783,49290,115099,Event Region Championship
+167783,49290,115099,UIL Championship
+167783,49290,85351,Event Region Championship
+167783,49290,85351,UIL Championship
+167784,49290,123790,UIL Championship
+167784,49290,113526,UIL Championship
+175927,49290,111464,Event Region Championship
+169170,49486,73137,Event Region Championship
+169171,49486,73137,Event Region Championship
+169171,49486,131687,Event Region Championship
+169210,49506,66413,Event Region Championship
+161456,48236,125125,Event Region Championship
+161457,48236,125125,Event Region Championship
+161457,48236,139521,Event Region Championship
+165257,48236,105535,Event Region Championship
+166360,49065,62507,Event Region Championship
+166361,49065,135897,Event Region Championship
+166361,49065,70368,Event Region Championship
+166363,49065,124273,Event Region Championship
+163632,48566,132615,Event Region Championship
+163633,48566,132615,Event Region Championship
+163633,48566,63059,Event Region Championship
+165648,48957,63719,Event Region Championship
+165649,48957,63719,Event Region Championship
+165649,48957,132614,Event Region Championship
+168233,49309,133330,Event Region Championship
+168236,49309,141821,UIL Championship
+168236,49309,141817,UIL Championship
+179843,49309,133331,UIL Championship
+179843,49309,133337,UIL Championship
+170162,49673,146375,Event Region Championship
+170163,49673,99863,Event Region Championship
+170163,49673,93775,Event Region Championship
+170164,49673,143499,Event Region Championship
+170165,49673,99863,Event Region Championship
+181386,49673,99035,Event Region Championship
+181386,49673,146375,Event Region Championship
+162765,48434,129852,Event Region Championship
+162766,48434,83915,Event Region Championship
+162766,48434,129852,Event Region Championship
+163365,48521,62806,RE-VIQC-22-8665
+163365,48521,62806,RE-VIQC-22-8646
+163366,48521,143410,RE-VIQC-22-8665
+163366,48521,143410,RE-VIQC-22-8646
+163366,48521,62806,RE-VIQC-22-8665
+163366,48521,62806,RE-VIQC-22-8646
+165869,48983,63058,Event Region Championship
+165869,48983,143609,Event Region Championship
+166112,49031,56084,Event Region Championship
+166112,49031,56084,UIL Championship
+166112,49031,63707,Event Region Championship
+166112,49031,63707,UIL Championship
+179844,49031,129780,UIL Championship
+179844,49031,56085,UIL Championship
+163820,48601,86035,Event Region Championship
+163820,48601,86037,Event Region Championship
+170754,49625,110327,Event Region Championship
+170775,49782,93226,Event Region Championship
+170776,49782,129319,Event Region Championship
+170776,49782,93396,Event Region Championship
+170777,49782,93818,Event Region Championship
+181387,49782,114987,Event Region Championship
+181387,49782,93818,Event Region Championship
+173826,50274,145855,RE-VIQC-22-8665
+173826,50274,145855,RE-VIQC-22-8646
+173827,50274,145859,RE-VIQC-22-8665
+173827,50274,145859,RE-VIQC-22-8646
+173967,50296,118899,Event Region Championship
+173967,50296,100658,Event Region Championship
+167577,49258,96589,Event Region Championship
+167577,49258,123416,Event Region Championship
+169518,49563,88625,Event Region Championship
+177221,49563,88625,Event Region Championship
+177221,49563,88624,Event Region Championship
+169690,49599,93144,Event Region Championship
+169691,49599,143173,Event Region Championship
+169691,49599,81821,Event Region Championship
+169692,49599,143173,Event Region Championship
+169693,49599,93144,Event Region Championship
+181388,49599,99370,Event Region Championship
+181388,49599,97052,Event Region Championship
+171398,49904,134212,RE-VRC-22-8666
+171398,49904,134212,RE-VRC-22-8645
+171399,49904,134214,RE-VRC-22-8666
+171399,49904,134214,RE-VRC-22-8645
+171399,49904,134215,RE-VRC-22-8666
+171399,49904,134215,RE-VRC-22-8645
+171401,49904,130286,RE-VRC-22-8666
+171401,49904,130286,RE-VRC-22-8645
+159217,47778,139219,World Championship
+159217,47778,87333,World Championship
+163170,47778,128470,World Championship
+163171,47778,139219,World Championship
+165781,48970,139380,Event Region Championship
+165782,48970,139380,Event Region Championship
+165782,48970,129764,Event Region Championship
+165783,48970,24640,Event Region Championship
+158946,47722,125676,Event Region Championship
+158947,47722,125676,Event Region Championship
+158947,47722,101787,Event Region Championship
+158948,47722,120080,Event Region Championship
+159250,47786,111876,Event Region Championship
+159251,47786,128399,Event Region Championship
+159251,47786,86783,Event Region Championship
+159256,47787,28990,Event Region Championship
+159256,47787,26857,Event Region Championship
+176934,47787,40093,Event Region Championship
+159681,47888,114051,Event Region Championship
+159682,47888,114051,Event Region Championship
+159682,47888,140300,Event Region Championship
+159683,47888,85916,Event Region Championship
+159683,47888,139487,Event Region Championship
+159684,47888,63523,Event Region Championship
+159685,47888,114051,Event Region Championship
+159687,47888,55589,Event Region Championship
+160199,47969,85979,Event Region Championship
+160199,47969,85847,Event Region Championship
+179819,47969,85979,Event Region Championship
+179820,47969,85847,Event Region Championship
+160571,48038,102409,Event Region Championship
+160571,48038,23035,Event Region Championship
+176903,48038,64680,Event Region Championship
+160972,48102,142330,Event Region Championship
+165971,48420,129890,Event Region Championship
+165972,48420,107412,Event Region Championship
+165972,48420,129890,Event Region Championship
+165973,48420,62739,Event Region Championship
+165974,48420,141938,Event Region Championship
+181274,48420,100000,Event Region Championship
+181274,48420,81591,Event Region Championship
+181275,48420,93700,Event Region Championship
+162721,48428,132680,Event Region Championship
+162721,48428,129593,Event Region Championship
+180258,50204,135154,Event Region Championship
+162772,48435,117246,Event Region Championship
+162773,48435,96624,Event Region Championship
+162774,48435,72742,Event Region Championship
+162774,48435,123394,Event Region Championship
+162775,48435,142386,Event Region Championship
+162791,48438,143050,Event Region Championship
+162792,48438,140506,Event Region Championship
+162792,48438,118696,Event Region Championship
+162793,48438,66993,Event Region Championship
+163437,48533,57715,Event Region Championship
+163438,48533,143590,Event Region Championship
+163438,48533,118623,Event Region Championship
+163439,48533,51034,Event Region Championship
+163439,48533,143546,Event Region Championship
+163440,48533,143546,Event Region Championship
 163783,48599,97317,Event Region Championship
 163783,48599,105629,Event Region Championship
 163785,48599,128715,Event Region Championship
@@ -35763,6 +36134,9 @@ award_id,event_id,team_id,qualification
 174035,50307,135580,RE-VRC-22-8645
 174036,50307,140724,RE-VRC-22-8666
 174036,50307,140724,RE-VRC-22-8645
+161751,48051,136066,Event Region Championship
+161751,48051,140152,Event Region Championship
+161753,48051,136066,Event Region Championship
 162627,48418,58105,Event Region Championship
 162628,48418,36025,Event Region Championship
 162628,48418,148306,Event Region Championship
@@ -36203,19 +36577,16 @@ award_id,event_id,team_id,qualification
 165485,48926,67054,Event Region Championship
 165485,48926,83283,Event Region Championship
 165488,48926,72121,Event Region Championship
-165512,48928,109750,Event Region Championship
-165512,48928,140116,Event Region Championship
-165514,48928,130942,Event Region Championship
-178022,48928,56089,Event Region Championship
 165826,48938,109874,Event Region Championship
 165826,48938,129843,Event Region Championship
 165827,48938,93971,Event Region Championship
 165828,48938,109868,Event Region Championship
 180111,48938,144676,Event Region Championship
+165512,48928,109750,Event Region Championship
+165512,48928,140116,Event Region Championship
+165514,48928,130942,Event Region Championship
+178022,48928,56089,Event Region Championship
 165722,48961,56568,Event Region Championship
-174414,50358,145894,Event Region Championship
-174415,50358,145894,Event Region Championship
-174415,50358,139473,Event Region Championship
 165722,48961,61641,Event Region Championship
 165724,48961,94808,Event Region Championship
 165727,48961,95654,Event Region Championship
@@ -36682,6 +37053,7 @@ award_id,event_id,team_id,qualification
 175101,50465,140126,Event Region Championship
 175102,50465,136487,Event Region Championship
 175102,50465,140065,Event Region Championship
+170799,48183,128972,World Championship
 175256,50487,95577,Event Region Championship
 175332,50487,95577,Event Region Championship
 175332,50487,92009,Event Region Championship
@@ -36809,6 +37181,7 @@ award_id,event_id,team_id,qualification
 160012,47893,87491,Event Region Championship
 160015,47893,93723,Event Region Championship
 177235,47893,124445,Event Region Championship
+174875,49788,128626,World Championship
 160054,47948,123999,Event Region Championship
 160054,47948,139712,Event Region Championship
 160056,47948,123999,Event Region Championship
@@ -37479,6 +37852,10 @@ award_id,event_id,team_id,qualification
 167798,49292,85457,Event Region Championship
 167799,49292,83693,Event Region Championship
 177607,49292,83420,Event Region Championship
+159524,47858,122291,Event Region Championship
+159524,47858,110339,Event Region Championship
+175959,47858,128138,Event Region Championship
+175960,47858,81796,Event Region Championship
 168409,49336,127243,Event Region Championship
 168410,49336,117523,Event Region Championship
 168410,49336,127243,Event Region Championship
@@ -37662,92 +38039,6 @@ award_id,event_id,team_id,qualification
 175842,50571,145000,Event Region Championship
 175843,50571,148019,Event Region Championship
 179198,50571,124812,Event Region Championship
-161711,48089,98624,Event Region Championship
-161712,48089,64629,Event Region Championship
-161712,48089,98624,Event Region Championship
-161713,48089,73837,Event Region Championship
-159035,47740,139219,World Championship
-159035,47740,56472,World Championship
-159049,47740,139219,World Championship
-161605,48217,123234,World Championship
-161605,48217,95859,World Championship
-161804,48217,140477,World Championship
-161621,48218,102422,World Championship
-161621,48218,140625,World Championship
-161806,48218,95648,World Championship
-161637,48219,81784,World Championship
-161637,48219,54133,World Championship
-161807,48219,108030,World Championship
-161057,48095,135580,RE-VRC-22-8666
-161057,48095,135580,RE-VRC-22-8645
-161058,48095,140777,RE-VRC-22-8666
-161058,48095,140777,RE-VRC-22-8645
-161058,48095,135580,RE-VRC-22-8666
-161058,48095,135580,RE-VRC-22-8645
-161059,48095,109096,RE-VRC-22-8666
-161059,48095,109096,RE-VRC-22-8645
-161060,48095,94560,RE-VRC-22-8666
-161060,48095,94560,RE-VRC-22-8645
-165365,48887,128555,RE-VIQC-22-8665
-165365,48887,128555,RE-VIQC-22-8646
-165365,48887,128557,RE-VIQC-22-8665
-165365,48887,128557,RE-VIQC-22-8646
-165367,48887,128555,RE-VIQC-22-8665
-165367,48887,128555,RE-VIQC-22-8646
-161067,48126,109097,RE-VRC-22-8666
-161067,48126,109097,RE-VRC-22-8645
-161068,48126,94560,RE-VRC-22-8666
-161068,48126,94560,RE-VRC-22-8645
-161068,48126,135580,RE-VRC-22-8666
-161068,48126,135580,RE-VRC-22-8645
-161069,48126,135580,RE-VRC-22-8666
-161069,48126,135580,RE-VRC-22-8645
-161070,48126,135580,RE-VRC-22-8666
-161070,48126,135580,RE-VRC-22-8645
-161072,48127,141084,RE-VIQC-22-8665
-161072,48127,141084,RE-VIQC-22-8646
-161073,48127,135738,RE-VIQC-22-8665
-161073,48127,135738,RE-VIQC-22-8646
-161073,48127,141084,RE-VIQC-22-8665
-161073,48127,141084,RE-VIQC-22-8646
-161074,48127,141085,RE-VIQC-22-8665
-161074,48127,141085,RE-VIQC-22-8646
-161075,48127,141085,RE-VIQC-22-8665
-161075,48127,141085,RE-VIQC-22-8646
-161076,48127,127808,RE-VIQC-22-8665
-161076,48127,127808,RE-VIQC-22-8646
-162321,48369,231,Event Region Championship
-162322,48369,107117,Event Region Championship
-162322,48369,139380,Event Region Championship
-162323,48369,23632,Event Region Championship
-159633,47884,13918,Event Region Championship
-159634,47884,13918,Event Region Championship
-159634,47884,13909,Event Region Championship
-159636,47884,13915,Event Region Championship
-159645,47885,56222,Event Region Championship
-159646,47885,56222,Event Region Championship
-159646,47885,50085,Event Region Championship
-159647,47885,62758,Event Region Championship
-159647,47885,141605,Event Region Championship
-159648,47885,50546,Event Region Championship
-159649,47885,56222,Event Region Championship
-160069,47950,71480,Event Region Championship
-160070,47950,63118,Event Region Championship
-160070,47950,139496,Event Region Championship
-160071,47950,110127,Event Region Championship
-161762,48207,85437,World Championship
-168101,49335,122288,RE-VIQC-22-8665
-168101,49335,122288,RE-VIQC-22-8646
-168101,49335,97481,RE-VIQC-22-8665
-168101,49335,97481,RE-VIQC-22-8646
-168104,49335,122288,RE-VIQC-22-8665
-168104,49335,122288,RE-VIQC-22-8646
-160946,48097,95355,RE-VIQC-22-8665
-160946,48097,95355,RE-VIQC-22-8646
-160947,48097,123435,RE-VIQC-22-8665
-160947,48097,123435,RE-VIQC-22-8646
-160948,48097,142722,RE-VIQC-22-8665
-160948,48097,142722,RE-VIQC-22-8646
 176226,50574,129232,Event Region Championship
 176227,50574,144542,Event Region Championship
 176227,50574,137138,Event Region Championship
@@ -37948,7 +38239,6 @@ award_id,event_id,team_id,qualification
 161996,48316,39496,Event Region Championship
 179290,48316,69586,Event Region Championship
 164697,48337,99039,Event Region Championship
-180258,50204,135154,Event Region Championship
 164698,48337,68040,Event Region Championship
 164698,48337,68040,UIL Championship
 164698,48337,122143,Event Region Championship
@@ -38364,121 +38654,6 @@ award_id,event_id,team_id,qualification
 176305,50639,137737,Event Region Championship
 176306,50639,137737,Event Region Championship
 176306,50639,144798,Event Region Championship
-160948,48097,121999,RE-VIQC-22-8665
-160948,48097,121999,RE-VIQC-22-8646
-160949,48097,128555,RE-VIQC-22-8665
-160949,48097,128555,RE-VIQC-22-8646
-160950,48097,95357,RE-VIQC-22-8665
-160950,48097,95357,RE-VIQC-22-8646
-158967,47728,55969,Event Region Championship
-158968,47728,55969,Event Region Championship
-158968,47728,55967,Event Region Championship
-158969,47728,107510,Event Region Championship
-158969,47728,73637,Event Region Championship
-158970,47728,55967,Event Region Championship
-158971,47728,55969,Event Region Championship
-159012,47741,70332,Event Region Championship
-159013,47741,50944,Event Region Championship
-159013,47741,62903,Event Region Championship
-159014,47741,83713,Event Region Championship
-159014,47741,73626,Event Region Championship
-159015,47741,47917,Event Region Championship
-159016,47741,81143,Event Region Championship
-164668,48755,140722,RE-VRC-22-8666
-164668,48755,140722,RE-VRC-22-8645
-164668,48755,128562,RE-VRC-22-8666
-164668,48755,128562,RE-VRC-22-8645
-164669,48755,128886,RE-VRC-22-8666
-164669,48755,128886,RE-VRC-22-8645
-164669,48755,128883,RE-VRC-22-8666
-164669,48755,128883,RE-VRC-22-8645
-164670,48755,140720,RE-VRC-22-8666
-164670,48755,140720,RE-VRC-22-8645
-164671,48755,128562,RE-VRC-22-8666
-164671,48755,128562,RE-VRC-22-8645
-164747,48755,128562,RE-VRC-22-8666
-164747,48755,128562,RE-VRC-22-8645
-164748,48755,140725,RE-VRC-22-8666
-164748,48755,140725,RE-VRC-22-8645
-169305,48755,138959,RE-VRC-22-8666
-169305,48755,138959,RE-VRC-22-8645
-169306,48755,141624,RE-VRC-22-8666
-169306,48755,141624,RE-VRC-22-8645
-164777,48779,138960,RE-VIQC-22-8665
-164777,48779,138960,RE-VIQC-22-8646
-164778,48779,124597,RE-VIQC-22-8665
-164778,48779,124597,RE-VIQC-22-8646
-164779,48779,124598,RE-VIQC-22-8665
-164779,48779,124598,RE-VIQC-22-8646
-164779,48779,126407,RE-VIQC-22-8665
-164779,48779,126407,RE-VIQC-22-8646
-164780,48779,122779,RE-VIQC-22-8665
-164780,48779,122779,RE-VIQC-22-8646
-164781,48779,116696,RE-VIQC-22-8665
-164781,48779,116696,RE-VIQC-22-8646
-169307,48779,140256,RE-VIQC-22-8665
-169307,48779,140256,RE-VIQC-22-8646
-169307,48779,138960,RE-VIQC-22-8665
-169307,48779,138960,RE-VIQC-22-8646
-169309,48779,124597,RE-VIQC-22-8665
-169309,48779,124597,RE-VIQC-22-8646
-169310,48779,138960,RE-VIQC-22-8665
-169310,48779,138960,RE-VIQC-22-8646
-160328,47988,135774,RE-VRC-22-8666
-160330,47988,139183,RE-VRC-22-8666
-160330,47988,122638,RE-VRC-22-8666
-160332,47988,142334,RE-VRC-22-8666
-166767,49129,135775,RE-VRC-22-8645
-166768,49129,128643,RE-VRC-22-8645
-166768,49129,129419,RE-VRC-22-8645
-166770,49129,112051,RE-VRC-22-8645
-169578,49579,143513,Event Region Championship
-169578,49579,129107,Event Region Championship
-169595,49579,116805,Event Region Championship
-159457,47782,6726,Event Region Championship
-159457,47782,114051,Event Region Championship
-159459,47782,52997,Event Region Championship
-181271,47782,6726,Event Region Championship
-159235,47783,121840,Event Region Championship
-159235,47783,139232,Event Region Championship
-163676,47783,139232,Event Region Championship
-159769,47901,82736,Event Region Championship
-159769,47901,82735,Event Region Championship
-163765,48590,105535,Event Region Championship
-163766,48590,125125,Event Region Championship
-163766,48590,107169,Event Region Championship
-163768,48590,126058,Event Region Championship
-164740,48771,129764,Event Region Championship
-164740,48771,133005,Event Region Championship
-167859,49083,99742,Event Region Championship
-167859,49083,111220,Event Region Championship
-167905,49083,111220,Event Region Championship
-165441,48891,144335,Event Region Championship
-165441,48891,133284,Event Region Championship
-165442,48891,141427,Event Region Championship
-165443,48891,130705,Event Region Championship
-173725,48891,141429,Event Region Championship
-173726,48891,133284,Event Region Championship
-165095,48674,131357,Event Region Championship
-165095,48674,129728,Event Region Championship
-159398,47822,81649,Event Region Championship
-159398,47822,121840,Event Region Championship
-164245,48573,63867,Event Region Championship
-164246,48573,37738,Event Region Championship
-164246,48573,63867,Event Region Championship
-167555,49253,140121,Event Region Championship
-167556,49253,135516,Event Region Championship
-167557,49253,133118,Event Region Championship
-167557,49253,140121,Event Region Championship
-167558,49253,133118,Event Region Championship
-168375,49367,11998,Event Region Championship
-168376,49367,116089,Event Region Championship
-168376,49367,70367,Event Region Championship
-168899,49412,107287,Event Region Championship
-168899,49412,62971,Event Region Championship
-178797,49412,99743,Event Region Championship
-170136,49669,50607,Event Region Championship
-170137,49669,144677,Event Region Championship
 160733,47814,142027,Event Region Championship
 160734,47814,142027,Event Region Championship
 160734,47814,139531,Event Region Championship
@@ -39594,7 +39769,6 @@ award_id,event_id,team_id,qualification
 175512,50527,97608,Event Region Championship
 175513,50527,96611,Event Region Championship
 175531,50532,73394,Event Region Championship
-170799,48183,128972,World Championship
 175531,50532,62985,Event Region Championship
 180381,50532,62985,Event Region Championship
 175661,50546,136587,Event Region Championship
@@ -39654,6 +39828,10 @@ award_id,event_id,team_id,qualification
 178319,50889,104043,Event Region Championship
 178320,50889,146963,Event Region Championship
 178336,50893,143875,Event Region Championship
+159060,47751,126872,UIL Championship
+159060,47751,140251,UIL Championship
+179854,47751,97544,UIL Championship
+179854,47751,138950,UIL Championship
 178337,50893,129376,Event Region Championship
 178337,50893,137967,Event Region Championship
 178338,50893,149278,Event Region Championship
@@ -39748,7 +39926,6 @@ award_id,event_id,team_id,qualification
 176755,50687,72794,Event Region Championship
 176756,50687,149222,Event Region Championship
 176756,50687,72794,Event Region Championship
-176757,50687,107133,Event Region Championship
 163154,48490,143068,World Championship
 163155,48490,143068,World Championship
 163155,48490,122893,World Championship
@@ -39784,6 +39961,14 @@ award_id,event_id,team_id,qualification
 176805,50695,137576,Event Region Championship
 176805,50695,84493,Event Region Championship
 176806,50695,118940,Event Region Championship
+162455,48393,59215,Event Region Championship
+162455,48393,69062,Event Region Championship
+162456,48393,26011,Event Region Championship
+162456,48393,53633,Event Region Championship
+162457,48393,4546,Event Region Championship
+162458,48393,4551,Event Region Championship
+182294,48393,4551,Event Region Championship
+182295,48393,4401,Event Region Championship
 163675,48575,119524,Event Region Championship
 163675,48575,137002,Event Region Championship
 166154,49032,45724,Event Region Championship
@@ -39879,7 +40064,6 @@ award_id,event_id,team_id,qualification
 162127,48335,73753,Event Region Championship
 162127,48335,86031,Event Region Championship
 162342,48373,101369,Event Region Championship
-174875,49788,128626,World Championship
 162343,48373,86122,Event Region Championship
 162344,48373,110370,Event Region Championship
 162344,48373,49455,Event Region Championship
@@ -40531,11 +40715,15 @@ award_id,event_id,team_id,qualification
 172739,50125,133683,Event Region Championship
 172739,50125,143175,Event Region Championship
 182084,50125,133683,Event Region Championship
+179253,51007,133571,Event Region Championship
+179253,51007,135275,Event Region Championship
 179941,51075,135718,Event Region Championship
 179941,51075,93162,Event Region Championship
 172748,50128,144722,Event Region Championship
 172748,50128,147843,Event Region Championship
 182087,50128,144722,Event Region Championship
+176815,50698,116099,Event Region Championship
+176815,50698,98493,Event Region Championship
 179922,51067,139324,Event Region Championship
 179922,51067,135155,Event Region Championship
 181205,51067,139324,Event Region Championship
@@ -40546,170 +40734,12 @@ award_id,event_id,team_id,qualification
 176819,50699,148086,Event Region Championship
 176820,50699,148086,Event Region Championship
 176820,50699,148983,Event Region Championship
-159524,47858,122291,Event Region Championship
-159524,47858,110339,Event Region Championship
-175959,47858,128138,Event Region Championship
-175960,47858,81796,Event Region Championship
-170137,49669,144677,UIL Championship
-170137,49669,13408,Event Region Championship
-170137,49669,13408,UIL Championship
-170138,49669,50606,UIL Championship
-170138,49669,50607,UIL Championship
-170139,49669,13408,Event Region Championship
-168787,48904,114103,Event Region Championship
-168788,48904,96460,Event Region Championship
-168789,48904,114100,Event Region Championship
-168789,48904,113389,Event Region Championship
-162577,48410,1051,Event Region Championship
-162578,48410,2356,Event Region Championship
-162578,48410,129764,Event Region Championship
-158980,47733,105728,Event Region Championship
-158981,47733,105728,UIL Championship
-158981,47733,138950,UIL Championship
-179840,47733,110059,UIL Championship
-179840,47733,111669,UIL Championship
-159534,47861,6726,Event Region Championship
-159534,47861,81719,Event Region Championship
-159536,47861,6726,Event Region Championship
-169318,47861,116089,Event Region Championship
-169319,47861,81719,Event Region Championship
-160076,47951,111400,Event Region Championship
-160077,47951,139632,Event Region Championship
-160077,47951,130508,Event Region Championship
-160078,47951,139611,Event Region Championship
-160341,47990,62699,Event Region Championship
-160341,47990,114751,Event Region Championship
-160645,48047,132674,Event Region Championship
-160646,48047,118475,Event Region Championship
-160646,48047,138770,Event Region Championship
-160647,48047,124185,Event Region Championship
-160864,48084,111730,Event Region Championship
-160864,48084,73540,Event Region Championship
-164820,48084,111730,Event Region Championship
-161529,48245,58105,Event Region Championship
-161529,48245,62510,Event Region Championship
-176935,48245,99592,Event Region Championship
-164306,48400,129606,Event Region Championship
-164306,48400,129606,UIL Championship
-164306,48400,142117,Event Region Championship
-164306,48400,142117,UIL Championship
-164307,48400,129606,Event Region Championship
-164308,48400,129606,Event Region Championship
-165708,48400,128934,Event Region Championship
-179841,48400,128934,UIL Championship
-179841,48400,130100,UIL Championship
-164558,48741,56472,Event Region Championship
-164558,48741,52977,Event Region Championship
-164612,48741,123261,Event Region Championship
-164565,48742,91744,Event Region Championship
-164565,48742,88605,Event Region Championship
-164619,48742,126798,Event Region Championship
-164614,48751,91456,Event Region Championship
-164614,48751,91456,UIL Championship
-164614,48751,55582,Event Region Championship
-164614,48751,55582,UIL Championship
-164615,48751,117210,UIL Championship
-164615,48751,76965,UIL Championship
-165410,48751,85412,Event Region Championship
-166369,49064,129934,Event Region Championship
-166370,49064,129934,Event Region Championship
-166370,49064,140813,Event Region Championship
-163925,48618,63081,Event Region Championship
-163926,48618,109253,Event Region Championship
-163926,48618,83971,Event Region Championship
-170142,49670,130351,Event Region Championship
-170143,49670,99364,Event Region Championship
-170143,49670,99364,UIL Championship
-170143,49670,130351,Event Region Championship
-170143,49670,130351,UIL Championship
-170144,49670,112381,Event Region Championship
-170144,49670,112381,UIL Championship
-170144,49670,130350,Event Region Championship
-170144,49670,130350,UIL Championship
-170145,49670,99364,Event Region Championship
-165211,48637,107945,Event Region Championship
-165212,48637,140921,Event Region Championship
-165213,48637,51739,Event Region Championship
-165213,48637,102409,Event Region Championship
-161764,48279,140421,Event Region Championship
-161764,48279,114686,Event Region Championship
-169665,49595,65538,Event Region Championship
-169665,49595,70425,Event Region Championship
-169666,49595,70425,Event Region Championship
-169667,49595,65538,Event Region Championship
-181382,49595,65538,Event Region Championship
-181383,49595,114033,Event Region Championship
-181383,49595,94212,Event Region Championship
-169916,49633,93706,Event Region Championship
-169916,49633,128699,Event Region Championship
-169917,49633,110357,Event Region Championship
-169918,49633,93224,Event Region Championship
-169938,49633,144464,Event Region Championship
-169938,49633,144462,Event Region Championship
-170669,49760,141085,RE-VIQC-22-8665
-170669,49760,141085,RE-VIQC-22-8646
-170670,49760,127810,RE-VIQC-22-8665
-170670,49760,127810,RE-VIQC-22-8646
-170670,49760,141085,RE-VIQC-22-8665
-170670,49760,141085,RE-VIQC-22-8646
-159060,47751,126872,UIL Championship
-159060,47751,140251,UIL Championship
-179854,47751,97544,UIL Championship
-179854,47751,138950,UIL Championship
-170671,49760,109436,RE-VIQC-22-8665
-170671,49760,109436,RE-VIQC-22-8646
-170672,49760,141084,RE-VIQC-22-8665
-170672,49760,141084,RE-VIQC-22-8646
-173018,50064,144423,Event Region Championship
-173018,50064,144428,Event Region Championship
-180944,50064,77297,Event Region Championship
-159596,47807,100857,Event Region Championship
-159597,47807,100857,Event Region Championship
-159597,47807,110304,Event Region Championship
-159598,47807,129438,Event Region Championship
-164545,47807,99003,Event Region Championship
-160197,47968,143689,Event Region Championship
-160197,47968,75819,Event Region Championship
-179817,47968,63279,Event Region Championship
-179818,47968,114890,Event Region Championship
-161307,48163,87396,Event Region Championship
-161307,48163,66041,Event Region Championship
-161450,48235,123758,Event Region Championship
-161450,48235,138770,Event Region Championship
-161451,48235,112940,Event Region Championship
-175981,48235,138770,Event Region Championship
-162928,48458,114051,Event Region Championship
-162928,48458,556,Event Region Championship
-162930,48458,128458,Event Region Championship
-181272,48458,6726,Event Region Championship
-163121,48485,107169,Event Region Championship
-163122,48485,107169,Event Region Championship
-163122,48485,122300,Event Region Championship
-163123,48485,111380,Event Region Championship
-163123,48485,124726,Event Region Championship
-163124,48485,126058,Event Region Championship
-163950,48625,141696,Event Region Championship
-163951,48625,123465,Event Region Championship
-163952,48625,139902,Event Region Championship
-163952,48625,96056,Event Region Championship
-163953,48625,85360,Event Region Championship
-164429,48709,124554,Event Region Championship
-164429,48709,124554,UIL Championship
-164429,48709,141150,Event Region Championship
-164429,48709,141150,UIL Championship
-164430,48709,113845,Event Region Championship
-164431,48709,124554,Event Region Championship
-179842,48709,7216,UIL Championship
-179842,48709,129858,UIL Championship
-180280,48709,124331,Event Region Championship
-166649,48871,130481,Event Region Championship
-166649,48871,115209,Event Region Championship
-166650,48871,85672,Event Region Championship
-176775,48871,141798,Event Region Championship
-165317,48878,141882,Event Region Championship
-165317,48878,134207,Event Region Championship
-165319,48878,109480,Event Region Championship
-178094,48878,140800,Event Region Championship
-165480,48924,57904,Event Region Championship
-165480,48924,13282,Event Region Championship
-175364,48924,56697,Event Region Championship
+168767,49433,70067,Event Region Championship
+168767,49433,60265,Event Region Championship
+168769,49433,60265,Event Region Championship
+169182,49499,121840,Event Region Championship
+169182,49499,128399,Event Region Championship
+173282,49499,139251,Event Region Championship
+174646,50399,136875,Event Region Championship
+174647,50399,136875,Event Region Championship
+174647,50399,130044,Event Region Championship
