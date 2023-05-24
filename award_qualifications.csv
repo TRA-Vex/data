@@ -31639,63 +31639,6 @@ award_id,event_id,team_id,qualification
 150522,46589,37807,Event Region Championship
 150522,46589,129764,Event Region Championship
 150523,46589,24640,Event Region Championship
-175572,50493,132757,Event Region Championship
-175572,50493,136201,Event Region Championship
-175573,50493,117303,Event Region Championship
-178384,50493,132757,Event Region Championship
-175465,50518,140681,Event Region Championship
-175466,50518,113191,Event Region Championship
-175466,50518,140681,Event Region Championship
-175467,50518,144609,Event Region Championship
-175537,50533,73947,Event Region Championship
-175538,50533,141479,Event Region Championship
-175539,50533,140941,Event Region Championship
-175539,50533,86167,Event Region Championship
-175540,50533,73949,Event Region Championship
-180383,50533,62985,Event Region Championship
-181427,50255,86627,Event Region Championship
-181428,50255,140050,Event Region Championship
-181428,50255,149641,Event Region Championship
-181429,50255,119700,Event Region Championship
-181429,50255,140129,Event Region Championship
-181430,50255,86628,Event Region Championship
-173830,50275,112460,Event Region Championship
-173830,50275,103145,Event Region Championship
-173832,50275,103145,Event Region Championship
-173986,50302,111679,Event Region Championship
-173986,50302,111679,JROTC National Championship
-173987,50302,143557,JROTC National Championship
-173987,50302,115144,JROTC National Championship
-173988,50302,100562,JROTC National Championship
-173988,50302,143294,JROTC National Championship
-173989,50302,142974,JROTC National Championship
-174086,50302,111679,JROTC National Championship
-174827,50304,106348,Event Region Championship
-174828,50304,124297,Event Region Championship
-174828,50304,76851,Event Region Championship
-174829,50304,64367,Event Region Championship
-174830,50304,106348,Event Region Championship
-183111,50304,51759,Event Region Championship
-183111,50304,89901,Event Region Championship
-174176,50332,148234,World Championship
-174176,50332,71112,World Championship
-175938,50332,50685,World Championship
-174245,50342,54334,Event Region Championship
-174245,50342,110505,Event Region Championship
-177132,50342,110505,Event Region Championship
-174433,50363,107420,Event Region Championship
-174434,50363,107225,Event Region Championship
-174434,50363,98404,Event Region Championship
-174475,50367,141600,Event Region Championship
-174476,50367,147899,Event Region Championship
-174476,50367,145890,Event Region Championship
-183022,50380,61390,Event Region Championship
-183023,50380,71984,Event Region Championship
-183023,50380,114445,Event Region Championship
-183024,50380,113951,Event Region Championship
-174596,50387,118232,Event Region Championship
-174596,50387,77586,Event Region Championship
-182969,50387,118232,Event Region Championship
 147444,45979,98793,Event Region Championship
 147445,45979,98793,Event Region Championship
 147445,45979,98795,Event Region Championship
@@ -31797,21 +31740,6 @@ award_id,event_id,team_id,qualification
 145005,45616,52889,Event Region Championship
 145005,45616,128470,Event Region Championship
 145009,45616,128470,Event Region Championship
-180383,50533,141479,Event Region Championship
-176508,50636,116836,Event Region Championship
-176508,50636,79867,Event Region Championship
-176509,50636,74558,Event Region Championship
-176510,50636,75546,Event Region Championship
-176512,50636,75546,Event Region Championship
-178512,50645,142347,UIL Championship
-178512,50645,111464,UIL Championship
-179884,50645,125445,UIL Championship
-179884,50645,148128,UIL Championship
-180211,50645,111464,Event Region Championship
-176372,50650,125094,Event Region Championship
-176373,50650,64591,Event Region Championship
-176373,50650,73038,Event Region Championship
-176374,50650,120078,Event Region Championship
 152813,46896,129713,Event Region Championship
 152813,46896,131719,Event Region Championship
 151961,46788,122424,Event Region Championship
@@ -35272,35 +35200,30 @@ award_id,event_id,team_id,qualification
 146854,45985,129400,World Championship
 146855,45985,46051,World Championship
 146856,45985,85685,World Championship
-176949,50682,65803,Event Region Championship
-176949,50682,146032,Event Region Championship
-176950,50682,86525,Event Region Championship
-176951,50682,146032,Event Region Championship
-182728,50682,113505,Event Region Championship
-176777,50691,68265,Event Region Championship
-176778,50691,68265,Event Region Championship
-176778,50691,140264,Event Region Championship
-176779,50691,59013,Event Region Championship
-176793,50693,109496,Event Region Championship
-176794,50693,146178,Event Region Championship
-176794,50693,110498,Event Region Championship
-176917,50721,146384,Event Region Championship
-176918,50721,52729,Event Region Championship
-176919,50721,114652,Event Region Championship
-176919,50721,149641,Event Region Championship
-176920,50721,102969,Event Region Championship
+175107,50466,131204,Event Region Championship
+175108,50466,116890,Event Region Championship
+175108,50466,126349,Event Region Championship
+175151,50474,71476,Event Region Championship
+175151,50474,88130,Event Region Championship
+175156,50474,116132,Event Region Championship
+175157,50474,94028,Event Region Championship
+178485,50474,59802,Event Region Championship
+175304,50494,145757,Event Region Championship
+175304,50494,76493,Event Region Championship
+175305,50494,115847,Event Region Championship
+175306,50494,145757,Event Region Championship
 171884,49968,141109,Event Region Championship
-176921,50721,114652,Event Region Championship
-181415,50721,140050,Event Region Championship
-181415,50721,144733,Event Region Championship
-181416,50721,112245,Event Region Championship
-177381,50766,135292,Event Region Championship
-177381,50766,109241,Event Region Championship
-177387,50767,143277,UIL Championship
-177387,50767,54362,UIL Championship
-179866,50767,129533,UIL Championship
-179866,50767,130595,UIL Championship
-180207,50767,121921,Event Region Championship
+175351,50494,150042,Event Region Championship
+175297,50495,112829,Event Region Championship
+175298,50495,77230,Event Region Championship
+175299,50495,73735,Event Region Championship
+175299,50495,112829,Event Region Championship
+175300,50495,73735,Event Region Championship
+175301,50495,73731,Event Region Championship
+175588,50535,131220,Event Region Championship
+175588,50535,139829,Event Region Championship
+182401,50535,87546,Event Region Championship
+182402,50535,52943,Event Region Championship
 150323,46556,100219,World Championship
 150324,46556,87630,World Championship
 150328,46556,122318,World Championship
@@ -35396,43 +35319,6 @@ award_id,event_id,team_id,qualification
 157227,47454,101554,World Championship
 157243,47454,101555,World Championship
 157244,47454,101552,World Championship
-177477,50788,496,Event Region Championship
-177478,50788,112327,Event Region Championship
-177478,50788,93708,Event Region Championship
-178285,50792,123421,UIL Championship
-178285,50792,138062,UIL Championship
-179425,50792,138062,Event Region Championship
-180088,50792,68040,UIL Championship
-180088,50792,138063,UIL Championship
-178845,50959,63410,Event Region Championship
-178846,50959,85748,Event Region Championship
-178847,50959,146987,Event Region Championship
-178847,50959,140756,Event Region Championship
-178848,50959,81554,Event Region Championship
-179092,50986,102990,Event Region Championship
-179092,50986,111317,Event Region Championship
-179135,50993,143584,Event Region Championship
-179135,50993,86783,Event Region Championship
-180884,50993,81649,Event Region Championship
-180146,51088,58260,Event Region Championship
-180147,51088,143068,Event Region Championship
-180147,51088,58260,Event Region Championship
-180148,51088,143068,Event Region Championship
-180149,51088,143068,Event Region Championship
-180150,51088,64235,Event Region Championship
-180150,51088,73718,Event Region Championship
-181008,51172,91456,Event Region Championship
-181008,51172,91456,UIL Championship
-181008,51172,101688,Event Region Championship
-181008,51172,101688,UIL Championship
-181068,51172,60849,Event Region Championship
-181069,51172,136256,Event Region Championship
-181071,51172,76965,UIL Championship
-181071,51172,67175,UIL Championship
-182841,51275,150100,World Championship
-182841,51275,150100,RE-VIQC-22-9729
-182842,51275,150099,World Championship
-182842,51275,150099,RE-VIQC-22-9730
 155655,47235,89554,World Championship
 155657,47235,132903,World Championship
 155658,47235,70657,World Championship
@@ -35642,58 +35528,6 @@ award_id,event_id,team_id,qualification
 156387,47360,135275,Event Region Championship
 156387,47360,133632,Event Region Championship
 156388,47360,133632,Event Region Championship
-160509,48026,74173,Event Region Championship
-160509,48026,7886,Event Region Championship
-160510,48026,7886,Event Region Championship
-160511,48026,130499,Event Region Championship
-160524,48026,74173,Event Region Championship
-165711,48959,122433,Event Region Championship
-165711,48959,74614,Event Region Championship
-182699,48959,71355,Event Region Championship
-182699,48959,65704,Event Region Championship
-182700,48959,52402,Event Region Championship
-182700,48959,63047,Event Region Championship
-182700,48959,63050,Event Region Championship
-182700,48959,63049,Event Region Championship
-182701,48959,112783,Event Region Championship
-171505,49928,106340,Event Region Championship
-171505,49928,107705,Event Region Championship
-180936,49928,83006,Event Region Championship
-171756,49962,141621,Event Region Championship
-171757,49962,111250,Event Region Championship
-171758,49962,56337,Event Region Championship
-171758,49962,141621,Event Region Championship
-171759,49962,93169,Event Region Championship
-171760,49962,56337,Event Region Championship
-181417,49962,70425,Event Region Championship
-181417,49962,101609,Event Region Championship
-181418,49962,83308,Event Region Championship
-177406,50252,122393,Event Region Championship
-177406,50252,86797,Event Region Championship
-177408,50252,122393,Event Region Championship
-177409,50252,98316,Event Region Championship
-178484,50252,98316,Event Region Championship
-174231,50334,88916,Event Region Championship
-174231,50334,143491,Event Region Championship
-174232,50334,133713,Event Region Championship
-174233,50334,133713,Event Region Championship
-181419,50334,147671,Event Region Championship
-181420,50334,139849,Event Region Championship
-181420,50334,147671,Event Region Championship
-174955,50433,139935,Event Region Championship
-174955,50433,93375,Event Region Championship
-174956,50433,107230,Event Region Championship
-174957,50433,71008,Event Region Championship
-179969,50433,71480,Event Region Championship
-179970,50433,139496,Event Region Championship
-183750,50433,139496,Event Region Championship
-183750,50433,139632,Event Region Championship
-179892,51017,113286,Event Region Championship
-179892,51017,107760,Event Region Championship
-179893,51017,107760,Event Region Championship
-182550,51017,86167,Event Region Championship
-182551,51017,141481,Event Region Championship
-178232,50875,101338,Event Region Championship
 155778,47245,105728,World Championship
 150871,46650,65635,World Championship
 150872,46650,118270,World Championship
@@ -35737,75 +35571,6 @@ award_id,event_id,team_id,qualification
 158793,47523,114946,World Championship
 153337,46963,133065,Event Region Championship
 153337,46963,126170,Event Region Championship
-178233,50875,134846,Event Region Championship
-178233,50875,64772,Event Region Championship
-180815,51154,148624,Event Region Championship
-180816,51154,151226,Event Region Championship
-180816,51154,148984,Event Region Championship
-182296,51277,94807,Event Region Championship
-161766,48280,149838,Event Region Championship
-161766,48280,94773,Event Region Championship
-172752,50130,50054,Event Region Championship
-172752,50130,135636,Event Region Championship
-174066,50316,143513,JROTC National Championship
-174067,50316,143513,JROTC National Championship
-174067,50316,129107,JROTC National Championship
-174069,50316,143522,JROTC National Championship
-174071,50316,143514,JROTC National Championship
-165251,48859,86603,Event Region Championship
-165251,48859,97921,Event Region Championship
-173254,50202,150503,World Championship
-173254,50202,150503,RE-VRC-22-9725
-175273,50489,107984,Event Region Championship
-175274,50489,90463,Event Region Championship
-175274,50489,107984,Event Region Championship
-175278,50489,101367,Event Region Championship
-175279,50489,107984,Event Region Championship
-180820,51155,147907,Event Region Championship
-180821,51155,133483,Event Region Championship
-180821,51155,149161,Event Region Championship
-182970,50387,74443,Event Region Championship
-174662,50397,34474,Event Region Championship
-174663,50397,129279,Event Region Championship
-174663,50397,34474,Event Region Championship
-174664,50397,138964,Event Region Championship
-174664,50397,76774,Event Region Championship
-174665,50397,140299,Event Region Championship
-174671,50400,138077,Event Region Championship
-174671,50400,136231,Event Region Championship
-174672,50400,104437,Event Region Championship
-174673,50400,133956,Event Region Championship
-174734,50400,133956,Event Region Championship
-175027,50446,114885,Event Region Championship
-175027,50446,115836,Event Region Championship
-175029,50446,115393,Event Region Championship
-175799,50446,114885,Event Region Championship
-175067,50458,126584,Event Region Championship
-175067,50458,130205,Event Region Championship
-183230,50458,62575,Event Region Championship
-175107,50466,131204,Event Region Championship
-175108,50466,116890,Event Region Championship
-175108,50466,126349,Event Region Championship
-175151,50474,71476,Event Region Championship
-175151,50474,88130,Event Region Championship
-175156,50474,116132,Event Region Championship
-175157,50474,94028,Event Region Championship
-178485,50474,59802,Event Region Championship
-175304,50494,145757,Event Region Championship
-175304,50494,76493,Event Region Championship
-175305,50494,115847,Event Region Championship
-175306,50494,145757,Event Region Championship
-175351,50494,150042,Event Region Championship
-175297,50495,112829,Event Region Championship
-175298,50495,77230,Event Region Championship
-175299,50495,73735,Event Region Championship
-175299,50495,112829,Event Region Championship
-175300,50495,73735,Event Region Championship
-175301,50495,73731,Event Region Championship
-175588,50535,131220,Event Region Championship
-175588,50535,139829,Event Region Championship
-182401,50535,87546,Event Region Championship
-182402,50535,52943,Event Region Championship
 175822,50567,149571,Event Region Championship
 175823,50567,150284,Event Region Championship
 175823,50567,149629,Event Region Championship
@@ -35886,6 +35651,9 @@ award_id,event_id,team_id,qualification
 181298,50915,125920,Event Region Championship
 178817,50955,137428,Event Region Championship
 178817,50955,83421,Event Region Championship
+174414,50358,145894,Event Region Championship
+174415,50358,145894,Event Region Championship
+174415,50358,139473,Event Region Championship
 178818,50955,133862,Event Region Championship
 178818,50955,130951,Event Region Championship
 178819,50955,147642,Event Region Championship
@@ -36025,6 +35793,260 @@ award_id,event_id,team_id,qualification
 168438,49380,141614,World Championship
 168439,49380,140800,World Championship
 168439,49380,141614,World Championship
+177976,50857,104038,World Championship
+177976,50857,66697,World Championship
+177980,50858,102752,World Championship
+177981,50858,102752,World Championship
+177981,50858,148607,World Championship
+178408,50895,105717,World Championship
+178408,50895,120150,World Championship
+178421,50895,98087,World Championship
+178415,50900,99059,World Championship
+178415,50900,143455,World Championship
+178416,50900,95578,World Championship
+178422,50900,143455,World Championship
+181144,50900,94181,World Championship
+181144,50900,103432,World Championship
+179138,50995,119839,World Championship
+179138,50995,119839,RE-VEXU-22-9727
+179376,51027,116089,World Championship
+179377,51027,138881,World Championship
+179377,51027,139680,World Championship
+179378,51027,84069,World Championship
+179378,51027,117073,World Championship
+179380,51027,124273,World Championship
+179381,51027,62507,World Championship
+179383,51027,6726,World Championship
+179384,51027,62507,World Championship
+179385,51027,4741,World Championship
+179386,51027,108484,World Championship
+179917,51073,130100,World Championship
+179917,51073,128934,World Championship
+179918,51073,114946,World Championship
+180159,51073,130100,World Championship
+181800,51076,152325,World Championship
+180017,51079,93169,World Championship
+180018,51079,115442,World Championship
+180018,51079,52729,World Championship
+180019,51079,140480,World Championship
+180019,51079,93169,World Championship
+180020,51079,52729,World Championship
+180021,51079,140480,World Championship
+180023,51079,130177,World Championship
+180024,51079,140480,World Championship
+180025,51079,107830,World Championship
+181380,51079,101609,World Championship
+181380,51079,103499,World Championship
+180589,51128,92440,World Championship
+180590,51128,149256,World Championship
+182267,51129,103727,World Championship
+180601,51130,90567,World Championship
+182188,51262,152178,World Championship
+182191,51262,107477,World Championship
+182191,51262,152178,World Championship
+182195,51262,148544,World Championship
+182196,51262,129151,World Championship
+182206,51263,150960,World Championship
+182207,51263,150960,World Championship
+182207,51263,107757,World Championship
+182210,51263,135411,World Championship
+182220,51264,98389,World Championship
+182221,51264,98389,World Championship
+182224,51264,125789,World Championship
+182225,51264,98389,World Championship
+182236,51265,123576,RE-VIQC-22-9730
+182237,51265,115049,World Championship
+182238,51265,151018,World Championship
+182238,51265,134405,World Championship
+182239,51265,135003,World Championship
+182239,51265,152432,World Championship
+182240,51265,130007,World Championship
+182240,51265,134968,World Championship
+182241,51265,152018,World Championship
+182246,51265,124226,World Championship
+182247,51265,134750,World Championship
+182248,51265,134405,World Championship
+182249,51265,131115,World Championship
+183890,51265,151814,World Championship
+183890,51265,152018,World Championship
+182495,51297,136009,World Championship
+182495,51297,135600,World Championship
+182505,51297,58014,World Championship
+182506,51297,47653,World Championship
+183882,51312,34987,World Championship
+183882,51312,34987,RE-VRC-22-9725
+183883,51312,34990,World Championship
+183883,51312,34990,RE-VRC-22-9726
+182687,51313,58731,World Championship
+182687,51313,58731,RE-VIQC-22-9730
+182788,51326,108401,World Championship
+182789,51326,129318,World Championship
+159941,47928,97464,World Championship
+159942,47928,119700,World Championship
+159942,47928,140812,World Championship
+159943,47928,143389,World Championship
+159943,47928,140044,World Championship
+159944,47928,133699,World Championship
+159945,47928,114652,World Championship
+159947,47928,55211,World Championship
+159948,47928,135370,World Championship
+159949,47928,86995,World Championship
+180237,47928,140430,World Championship
+180237,47928,140020,World Championship
+160144,47964,112613,World Championship
+160145,47964,84608,World Championship
+160145,47964,122311,World Championship
+160146,47964,112613,World Championship
+160146,47964,112763,World Championship
+160147,47964,112709,World Championship
+160158,47965,123999,World Championship
+160159,47965,123999,World Championship
+160159,47965,74085,World Championship
+160160,47965,124000,World Championship
+160160,47965,139712,World Championship
+160161,47965,132906,World Championship
+160162,47965,123999,World Championship
+160163,47965,127283,World Championship
+160164,47965,133524,World Championship
+160165,47965,145430,World Championship
+160166,47965,139712,World Championship
+162500,48377,70524,World Championship
+162501,48377,122010,World Championship
+162501,48377,128405,World Championship
+162502,48377,143182,World Championship
+162502,48377,100737,World Championship
+162503,48377,61764,World Championship
+162504,48377,128405,World Championship
+162506,48377,107814,World Championship
+162507,48377,85980,World Championship
+162508,48377,128405,World Championship
+162509,48377,61360,World Championship
+164786,48780,139264,World Championship
+164786,48780,139264,RE-VIQC-22-9730
+164787,48780,150516,World Championship
+164787,48780,150516,RE-VIQC-22-9730
+164787,48780,139264,World Championship
+164787,48780,139264,RE-VIQC-22-9730
+164788,48780,133683,World Championship
+164788,48780,133683,RE-VIQC-22-9730
+164788,48780,132739,World Championship
+164788,48780,132739,RE-VIQC-22-9730
+164789,48780,133683,World Championship
+164789,48780,133683,RE-VIQC-22-9730
+164790,48780,150516,World Championship
+164790,48780,150516,RE-VIQC-22-9730
+164801,48781,73540,World Championship
+164801,48781,81647,World Championship
+164802,48781,73541,World Championship
+164802,48781,145763,World Championship
+164803,48781,111732,World Championship
+164803,48781,149838,World Championship
+164804,48781,140421,World Championship
+164805,48781,81647,World Championship
+164808,48781,101337,World Championship
+164808,48781,108641,World Championship
+164809,48781,81647,World Championship
+164809,48781,81648,World Championship
+164810,48781,73540,World Championship
+164810,48781,134846,World Championship
+164811,48781,67174,World Championship
+164811,48781,94693,World Championship
+164812,48781,111730,World Championship
+164812,48781,114686,World Championship
+166741,49124,128470,World Championship
+166742,49124,143210,World Championship
+166742,49124,146188,World Championship
+166743,49124,128470,World Championship
+166743,49124,133057,World Championship
+166745,49124,142173,World Championship
+167445,49234,122155,World Championship
+167446,49234,102715,World Championship
+167446,49234,104928,World Championship
+167447,49234,122259,World Championship
+167447,49234,141611,World Championship
+167448,49234,102723,World Championship
+167449,49234,141611,World Championship
+167451,49234,102720,World Championship
+167452,49234,102715,World Championship
+167663,49276,104419,World Championship
+167664,49276,149627,World Championship
+167664,49276,142606,World Championship
+167665,49276,130694,World Championship
+167666,49276,142606,World Championship
+167668,49276,139388,World Championship
+168285,49276,131300,World Championship
+168286,49276,142606,World Championship
+181066,49276,139388,World Championship
+181066,49276,142721,World Championship
+181067,49276,104419,World Championship
+181067,49276,122310,World Championship
+167829,49300,122300,World Championship
+167829,49300,107169,World Championship
+167830,49300,126058,World Championship
+167831,49300,122300,World Championship
+169419,49300,113951,World Championship
+169420,49300,49852,World Championship
+169421,49300,107169,World Championship
+169433,49300,100367,World Championship
+169433,49300,114445,World Championship
+169434,49300,49853,World Championship
+169434,49300,71984,World Championship
+169434,49300,128305,World Championship
+169434,49300,131001,World Championship
+174250,49300,122300,World Championship
+177194,50581,148497,World Championship
+177194,50581,149506,World Championship
+181196,50581,150501,World Championship
+181197,50581,148497,World Championship
+176175,50618,49375,World Championship
+176175,50618,87081,World Championship
+176176,50618,35362,World Championship
+176178,50618,144356,World Championship
+180009,50618,57708,World Championship
+180010,50618,49671,World Championship
+180011,50618,57708,World Championship
+180011,50618,71860,World Championship
+181270,50618,97794,World Championship
+176281,50632,98316,World Championship
+176281,50632,94028,World Championship
+176282,50632,142264,World Championship
+176282,50632,126055,World Championship
+176283,50632,131600,World Championship
+176283,50632,124328,World Championship
+176284,50632,83211,World Championship
+176285,50632,98316,World Championship
+176288,50632,59802,World Championship
+176289,50632,137969,World Championship
+176290,50632,94028,World Championship
+176291,50632,105023,World Championship
+176292,50632,59801,World Championship
+177155,50632,98316,World Championship
+177156,50632,116132,World Championship
+177156,50632,142242,World Championship
+177654,50816,147635,World Championship
+177654,50816,147635,RE-VIQC-22-9729
+178889,50964,128381,World Championship
+178889,50964,86670,World Championship
+178890,50964,131739,World Championship
+178890,50964,108104,World Championship
+178891,50964,23353,World Championship
+178892,50964,131739,World Championship
+178896,50964,140100,World Championship
+178897,50964,86669,World Championship
+178898,50964,128381,World Championship
+178899,50964,93374,World Championship
+178900,50964,141868,World Championship
+182534,50964,131739,World Championship
+182535,50964,108104,World Championship
+179018,50968,84457,Event Region Championship
+179018,50968,96863,Event Region Championship
+179389,51028,122798,World Championship
+179390,51028,85916,World Championship
+179390,51028,140300,World Championship
+179391,51028,122798,World Championship
+179391,51028,110647,World Championship
+179393,51028,110647,World Championship
+179394,51028,122798,World Championship
 168440,49380,78264,World Championship
 168984,49380,141614,World Championship
 172731,49380,141940,World Championship
@@ -36063,9 +36085,6 @@ award_id,event_id,team_id,qualification
 182795,50516,140921,Event Region Championship
 183755,50516,107148,Event Region Championship
 183755,50516,102409,Event Region Championship
-174414,50358,145894,Event Region Championship
-174415,50358,145894,Event Region Championship
-174415,50358,139473,Event Region Championship
 175547,50536,142294,Event Region Championship
 175547,50536,100767,Event Region Championship
 183178,50536,142294,Event Region Championship
@@ -36100,12 +36119,795 @@ award_id,event_id,team_id,qualification
 176139,50613,68195,Event Region Championship
 176142,50613,137226,Event Region Championship
 182507,51298,104928,Event Region Championship
+179396,51028,140009,World Championship
+179397,51028,140300,World Championship
+179398,51028,85916,World Championship
+179399,51028,124654,World Championship
+180029,51080,56337,World Championship
+180030,51080,140481,World Championship
+180030,51080,56337,World Championship
+180031,51080,112245,World Championship
+180031,51080,140811,World Championship
+180032,51080,65538,World Championship
+180033,51080,140481,World Championship
+180035,51080,133713,World Championship
+178858,50961,122892,World Championship
+178859,50961,122892,World Championship
+178859,50961,100767,World Championship
+178861,50961,139000,World Championship
+178874,50963,107157,World Championship
+178875,50963,150967,World Championship
+178875,50963,107157,World Championship
+178876,50963,143315,World Championship
+178876,50963,65079,World Championship
+178878,50963,76066,World Championship
+178879,50963,76066,World Championship
+178883,50963,73394,World Championship
+178906,50963,140333,World Championship
+168256,49356,129815,World Championship
+168257,49356,88020,World Championship
+168257,49356,119454,World Championship
+168259,49356,96782,World Championship
+168848,49442,115784,World Championship
+168849,49442,115784,World Championship
+168849,49442,83144,World Championship
+168851,49442,115811,World Championship
+168852,49442,115784,World Championship
+170047,49654,143451,World Championship
+170048,49654,143362,World Championship
+170048,49654,69135,World Championship
+170050,49654,141785,World Championship
+170051,49654,69133,World Championship
+170088,49662,133006,World Championship
+170089,49662,98781,World Championship
+170089,49662,97309,World Championship
+170090,49662,100110,World Championship
+170090,49662,120448,World Championship
+170091,49662,143653,World Championship
+170092,49662,133006,World Championship
+180967,49662,100110,World Championship
+180968,49662,119129,World Championship
+173670,50256,112527,World Championship
+173671,50256,88625,World Championship
+173671,50256,109954,World Championship
+173672,50256,112527,World Championship
+173672,50256,142261,World Championship
+173673,50256,88950,World Championship
+173673,50256,132889,World Championship
+173674,50256,142702,World Championship
+173674,50256,96990,World Championship
+173675,50256,88625,World Championship
+173676,50256,112527,World Championship
+173677,50256,84630,World Championship
+173678,50256,141109,World Championship
+173679,50256,109954,World Championship
+173680,50256,99437,World Championship
+173682,50257,119240,World Championship
+173683,50257,143120,World Championship
+173683,50257,97378,World Championship
+173684,50257,100859,World Championship
+173684,50257,146605,World Championship
+173685,50257,147806,World Championship
+173686,50257,143120,World Championship
+173687,50257,106178,World Championship
+175320,50257,141113,World Championship
+175320,50257,100849,World Championship
+175321,50257,97378,World Championship
+180964,50257,143120,World Championship
+159901,47924,113966,World Championship
+159902,47924,87333,World Championship
+159902,47924,113966,World Championship
+159903,47924,42913,World Championship
+159903,47924,110370,World Championship
+159904,47924,101369,World Championship
+159905,47924,113966,World Championship
+159908,47924,90450,World Championship
+159909,47924,2546,World Championship
+159910,47924,49455,World Championship
+159911,47924,87333,World Championship
+159913,47925,33238,World Championship
+159914,47925,33238,World Championship
+159914,47925,144815,World Championship
+162796,48439,129604,World Championship
+162797,48439,125306,World Championship
+164353,48653,130137,World Championship
+164353,48653,38353,World Championship
+164356,48653,57379,World Championship
+164357,48653,40102,World Championship
+172710,48653,40102,World Championship
+164139,48659,124355,World Championship
+164140,48659,98883,World Championship
+164140,48659,58105,World Championship
+164141,48659,85387,World Championship
+164141,48659,36097,World Championship
+164143,48659,98883,World Championship
+164144,48659,98883,World Championship
+164147,48659,89332,World Championship
+172711,48659,40093,World Championship
+181240,48659,93415,World Championship
+167688,49280,75551,World Championship
+167688,49280,75550,World Championship
+181241,49280,75551,World Championship
+167917,49314,81416,World Championship
+167918,49314,137428,World Championship
+167918,49314,99111,World Championship
+167919,49314,135996,World Championship
+167919,49314,81416,World Championship
+167920,49314,81415,World Championship
+167921,49314,148300,World Championship
+167922,49314,85699,World Championship
+167923,49314,116339,World Championship
+167924,49314,148300,World Championship
+167925,49314,99112,World Championship
+183390,49314,131865,World Championship
+183390,49314,142111,World Championship
+171745,49960,127960,World Championship
+171746,49960,127960,World Championship
+171746,49960,67019,World Championship
+171747,49960,119106,World Championship
+171747,49960,138601,World Championship
+171748,49960,110560,World Championship
+171749,49960,138601,World Championship
+171750,49960,67019,World Championship
+171751,49960,109298,World Championship
+171752,49960,138601,World Championship
+171950,50001,34474,World Championship
+171951,50001,34474,World Championship
+171951,50001,5226,World Championship
+171952,50001,131949,World Championship
+171952,50001,112822,World Championship
+171954,50001,3501,World Championship
+171955,50001,34474,World Championship
+171957,50001,112822,World Championship
+179175,50001,140299,World Championship
+181802,50001,130050,World Championship
+181802,50001,135369,World Championship
+181802,50001,108455,World Championship
+181802,50001,76774,World Championship
+174482,50091,115619,World Championship
+174482,50091,101760,World Championship
+174483,50091,119020,World Championship
+174484,50091,115619,World Championship
+180314,50091,101758,World Championship
+180314,50091,147885,World Championship
+180315,50091,120727,World Championship
+180316,50091,101760,World Championship
+181376,50091,94451,World Championship
+172637,50110,129893,World Championship
+172637,50110,74980,World Championship
+172638,50110,123816,World Championship
+172638,50110,77080,World Championship
+172639,50110,125870,World Championship
+172639,50110,76580,World Championship
+172639,50110,77081,World Championship
+172639,50110,57602,World Championship
+172640,50110,76580,World Championship
+172641,50110,123816,World Championship
+172643,50110,123816,World Championship
+172644,50110,139628,World Championship
+172645,50110,129893,World Championship
+172646,50110,74980,World Championship
+183562,50110,107689,World Championship
+183563,50110,85239,World Championship
+172854,50146,131741,World Championship
+172854,50146,126698,World Championship
+172855,50146,130133,World Championship
+172855,50146,72592,World Championship
+172856,50146,131680,World Championship
+172857,50146,141106,World Championship
+172860,50146,143896,World Championship
+172861,50146,46861,World Championship
+172862,50146,142648,World Championship
+172863,50146,60594,World Championship
+177988,50146,131741,World Championship
+176686,50679,71480,World Championship
+176687,50679,71480,World Championship
+176687,50679,142100,World Championship
+176688,50679,122050,World Championship
+176688,50679,93375,World Championship
+176689,50679,206,World Championship
+176690,50679,71480,World Championship
+176692,50679,14770,World Championship
+176693,50679,96794,World Championship
+176694,50679,122050,World Championship
+180423,51110,79067,World Championship
+180423,51110,100232,World Championship
+180539,51110,120499,World Championship
+180540,51110,87906,World Championship
+159810,47914,6946,World Championship
+159811,47914,6946,World Championship
+159811,47914,13915,World Championship
+159812,47914,133045,World Championship
+159812,47914,54553,World Championship
+159814,47914,128458,World Championship
+159815,47914,6946,World Championship
+159817,47914,70367,World Championship
+159818,47914,50480,World Championship
+159819,47914,93708,World Championship
+159820,47914,112327,World Championship
+159920,47926,143068,World Championship
+159921,47926,143068,World Championship
+159921,47926,58260,World Championship
+159922,47926,73719,World Championship
+159922,47926,73717,World Championship
+159923,47926,73717,World Championship
+159924,47926,143068,World Championship
+159928,47927,87500,World Championship
+159929,47927,58258,World Championship
+159929,47927,133295,World Championship
+159930,47927,144533,World Championship
+159930,47927,72828,World Championship
+159931,47927,87500,World Championship
+159931,47927,113611,World Championship
+159932,47927,143779,World Championship
+159933,47927,87500,World Championship
+159936,47927,72828,World Championship
+159937,47927,118976,World Championship
+159938,47927,113611,World Championship
+159939,47927,136472,World Championship
+159940,47927,133295,World Championship
+160710,48064,90362,World Championship
+160711,48064,90362,World Championship
+160711,48064,84112,World Championship
+160713,48064,59897,World Championship
+162802,48440,110498,World Championship
+162803,48440,65933,World Championship
+162803,48440,133935,World Championship
+162804,48440,104265,World Championship
+162804,48440,133932,World Championship
+162805,48440,116283,World Championship
+162806,48440,133934,World Championship
+162809,48441,136582,World Championship
+162810,48441,141532,World Championship
+162810,48441,135199,World Championship
+162811,48441,136577,World Championship
+162811,48441,141533,World Championship
+162812,48441,136577,World Championship
+162813,48441,141532,World Championship
+163209,48496,123423,World Championship
+163210,48496,149318,World Championship
+163210,48496,89163,World Championship
+163215,48496,131420,World Championship
+163216,48496,132901,World Championship
+173804,48496,131103,World Championship
+173804,48496,129829,World Championship
+173805,48496,97954,World Championship
+173806,48496,89163,World Championship
+173807,48496,131423,World Championship
+173807,48496,132901,World Championship
+173808,48496,77136,World Championship
+173809,48496,123423,World Championship
+173809,48496,146238,World Championship
+173810,48496,131100,World Championship
+173810,48496,131102,World Championship
+173811,48496,131424,World Championship
+173812,48496,146689,World Championship
+163419,48529,46456,World Championship
+163419,48529,72047,World Championship
+163421,48529,104143,World Championship
+163422,48529,63340,World Championship
+177242,48529,72047,World Championship
+163689,48581,107705,World Championship
+163690,48581,139659,World Championship
+163690,48581,106340,World Championship
+163691,48581,69586,World Championship
+163691,48581,19294,World Championship
+163692,48581,114469,World Championship
+163692,48581,107705,World Championship
+163692,48581,79348,World Championship
+163692,48581,106410,World Championship
+163693,48581,73751,World Championship
+163694,48581,107705,World Championship
+163696,48581,86031,World Championship
+163697,48581,69586,World Championship
+163698,48581,139659,World Championship
+163699,48581,19294,World Championship
+163700,48581,73754,World Championship
+163985,48629,114890,World Championship
+163986,48629,132615,World Championship
+163986,48629,63719,World Championship
+163987,48629,135701,World Championship
+163987,48629,114890,World Championship
+163988,48629,63062,World Championship
+163988,48629,131894,World Championship
+163989,48629,63064,World Championship
+163989,48629,132614,World Championship
+163990,48629,76874,World Championship
+163990,48629,100597,World Championship
+163991,48629,77224,World Championship
+163992,48629,132615,World Championship
+163993,48629,76874,World Championship
+163994,48629,132615,World Championship
+163995,48629,145962,World Championship
+163996,48629,74390,World Championship
+163997,48629,131894,World Championship
+164434,48713,122766,World Championship
+164434,48713,113861,World Championship
+180364,48713,113861,World Championship
+165324,48864,84097,Event Region Championship
+165325,48864,84097,Event Region Championship
+165325,48864,123355,Event Region Championship
+165960,49002,96909,World Championship
+165961,49002,133594,World Championship
+165962,49002,135606,World Championship
+165962,49002,114582,World Championship
+165964,49002,82541,World Championship
+165965,49002,113632,World Championship
+167717,49283,114531,World Championship
+167718,49283,59010,World Championship
+167718,49283,116191,World Championship
+167719,49283,68265,World Championship
+167720,49283,116327,World Championship
+167722,49283,59013,World Championship
+167723,49283,120523,World Championship
+167724,49283,116222,World Championship
+167725,49283,120766,World Championship
+167726,49283,59010,World Championship
+167735,49283,120720,World Championship
+167735,49283,120766,World Championship
+167736,49283,116222,World Championship
+167736,49283,135524,World Championship
+167737,49283,127140,World Championship
+167737,49283,120718,World Championship
+167738,49283,116181,World Championship
+167738,49283,98025,World Championship
+167980,49316,83693,World Championship
+167981,49316,86555,World Championship
+167981,49316,59752,World Championship
+167982,49316,147879,World Championship
+167982,49316,64986,World Championship
+167983,49316,59752,World Championship
+167984,49316,65803,World Championship
+167985,49316,64986,World Championship
+167986,49316,86555,World Championship
+167987,49316,65803,World Championship
+167988,49316,148905,World Championship
+167989,49316,75212,World Championship
+183392,49316,83422,World Championship
+183392,49316,65804,World Championship
+183393,49316,146032,World Championship
+183393,49316,65803,World Championship
+168087,49333,128616,World Championship
+168088,49333,128616,World Championship
+168088,49333,107706,World Championship
+168089,49333,146987,World Championship
+168089,49333,129801,World Championship
+168090,49333,146987,World Championship
+168091,49333,128616,World Championship
+168093,49333,129801,World Championship
+181128,49333,94952,World Championship
+181129,49333,96055,World Championship
+169234,49512,76852,World Championship
+169235,49512,145080,World Championship
+169236,49512,134599,World Championship
+169236,49512,89901,World Championship
+169238,49512,101367,World Championship
+169239,49512,107984,World Championship
+169240,49512,76851,World Championship
+169241,49512,64367,World Championship
+169243,49515,67293,World Championship
+169244,49515,147351,World Championship
+169245,49515,67289,World Championship
+169245,49515,67293,World Championship
+169247,49515,102368,World Championship
+180367,49515,132523,World Championship
+170553,49738,139909,World Championship
+170554,49738,139496,World Championship
+170554,49738,96580,World Championship
+170556,49738,139496,World Championship
+171424,49738,139909,World Championship
+172531,49738,151820,World Championship
+172531,49738,139909,World Championship
+172533,49738,139618,World Championship
+171049,49831,125125,World Championship
+171049,49831,139521,World Championship
+171050,49831,105535,World Championship
+171051,49831,125125,World Championship
+171053,49831,70511,World Championship
+171054,49831,110232,World Championship
+171055,49831,45820,World Championship
+171056,49831,139521,World Championship
+173616,49831,125125,World Championship
+173617,49831,45820,World Championship
+173617,49831,110232,World Championship
+171300,49882,48084,World Championship
+171301,49882,142117,World Championship
+171301,49882,129606,World Championship
+171302,49882,142117,World Championship
+176043,49882,27589,World Championship
+176043,49882,109677,World Championship
+171636,49945,133109,World Championship
+171637,49945,54095,World Championship
+171637,49945,143857,World Championship
+171638,49945,54095,World Championship
+171639,49945,133109,World Championship
+173798,49945,54096,World Championship
+173799,49945,133109,World Championship
+173799,49945,145734,World Championship
+173800,49945,117912,World Championship
+173801,49945,115730,World Championship
+173801,49945,54096,World Championship
+173802,49945,115729,World Championship
+181137,49945,117912,World Championship
+181137,49945,54696,World Championship
+181138,49945,115730,World Championship
+181139,49945,115729,World Championship
+181139,49945,147206,World Championship
+181140,49945,115728,World Championship
+171641,49948,83187,World Championship
+171642,49948,118894,World Championship
+171642,49948,83187,World Championship
+171643,49948,74833,World Championship
+171644,49948,130814,World Championship
+173803,49948,144005,World Championship
+173803,49948,98306,World Championship
+181141,49948,118894,World Championship
+181142,49948,130814,World Championship
+181143,49948,141338,World Championship
+174487,50094,90070,World Championship
+174487,50094,152307,World Championship
+174488,50094,104115,World Championship
+181372,50094,105073,World Championship
+181373,50094,104124,World Championship
+173263,50201,124624,World Championship
+173263,50201,113203,World Championship
+177989,50201,124585,World Championship
+173688,50258,132882,World Championship
+173689,50258,52930,World Championship
+173689,50258,110999,World Championship
+173690,50258,86078,World Championship
+173690,50258,149764,World Championship
+173691,50258,52930,World Championship
+173692,50258,132882,World Championship
+173696,50259,141800,World Championship
+173697,50259,55401,World Championship
+173697,50259,85672,World Championship
+173698,50259,143113,World Championship
+173698,50259,68270,World Championship
+173700,50259,139274,World Championship
+173701,50259,85672,World Championship
+173702,50259,130452,World Championship
+173703,50259,139272,World Championship
+173704,50259,130481,World Championship
+173705,50259,139273,World Championship
+173706,50259,142978,World Championship
+173707,50262,139989,World Championship
+173708,50262,116890,World Championship
+173708,50262,131204,World Championship
+173709,50262,133235,World Championship
+173709,50262,140124,World Championship
+173710,50262,136705,World Championship
+173711,50262,139989,World Championship
+173714,50262,126349,World Championship
+175482,50515,91329,World Championship
+175482,50515,122721,World Championship
+175483,50515,115836,World Championship
+175483,50515,114885,World Championship
+175484,50515,95531,World Championship
+175484,50515,142321,World Championship
+175485,50515,132160,World Championship
+175486,50515,91377,World Championship
+175488,50515,95531,World Championship
+175489,50515,142321,World Championship
+175490,50515,90212,World Championship
+175491,50515,76741,World Championship
+179932,50515,115836,World Championship
+181803,50515,117640,World Championship
+181803,50515,77586,World Championship
+181804,50515,91377,World Championship
+181804,50515,107435,World Championship
+181805,50515,93383,World Championship
+175607,50541,130626,Event Region Championship
+175608,50541,56654,Event Region Championship
+175608,50541,130626,Event Region Championship
+175602,50542,96337,Event Region Championship
+175603,50542,96863,Event Region Championship
+175603,50542,71060,Event Region Championship
+175754,50556,125698,World Championship
+175755,50556,133448,World Championship
+175755,50556,70657,World Championship
+175887,50583,139938,World Championship
+175888,50583,125707,World Championship
+175888,50583,139939,World Championship
+177804,50835,113711,Event Region Championship
+177804,50835,144239,Event Region Championship
+177843,50842,1426,Event Region Championship
+177843,50842,94378,Event Region Championship
+178058,50864,50755,World Championship
+178058,50864,66968,World Championship
+178059,50864,121933,World Championship
+178059,50864,69047,World Championship
+178060,50864,66967,World Championship
+178100,50864,50755,World Championship
+178101,50867,74414,World Championship
+178102,50867,113052,World Championship
+178102,50867,111929,World Championship
+178103,50867,74413,World Championship
+178103,50867,108061,World Championship
+178104,50867,115765,World Championship
+179755,51055,36148,World Championship
+179756,51055,142963,World Championship
+179756,51055,142966,World Championship
+180414,51055,131048,World Championship
+180041,51081,141621,World Championship
+180042,51081,102969,World Championship
+180042,51081,141254,World Championship
+180043,51081,140045,World Championship
+180043,51081,141621,World Championship
+180044,51081,70425,World Championship
+180045,51081,102969,World Championship
+180047,51081,141254,World Championship
+180504,51111,65448,World Championship
+180505,51111,128632,World Championship
+180505,51111,142787,World Championship
+180506,51111,142791,World Championship
+180506,51111,142792,World Championship
+180507,51111,65430,World Championship
+180508,51111,128632,World Championship
+180510,51111,124760,World Championship
+180510,51111,143067,World Championship
+180511,51111,142790,World Championship
+180512,51111,139868,World Championship
+180513,51111,113719,World Championship
+180514,51111,113719,World Championship
+180514,51111,100585,World Championship
+180515,51111,96749,World Championship
+180515,51111,135439,World Championship
+180516,51111,145677,World Championship
+180517,51111,141400,World Championship
+182441,51191,107174,World Championship
+182442,51191,147416,World Championship
+182442,51191,107174,World Championship
+182443,51191,124262,World Championship
+182443,51191,57887,World Championship
+182444,51191,151193,World Championship
+182445,51191,147416,World Championship
+182447,51191,57894,World Championship
+181824,51231,104164,World Championship
+181824,51231,136505,World Championship
+183481,51231,136505,World Championship
+183482,51231,101556,World Championship
+159824,47916,81719,World Championship
+159825,47916,81719,World Championship
+159825,47916,63521,World Championship
+159826,47916,114051,World Championship
+159826,47916,62938,World Championship
+159827,47916,55589,World Championship
+159828,47916,139487,World Championship
+159830,47916,63521,World Championship
+159831,47916,139487,World Championship
+159832,47916,114051,World Championship
+159833,47916,50083,World Championship
+162816,48442,144799,World Championship
+162817,48442,145289,World Championship
+162817,48442,137737,World Championship
+162818,48442,144799,World Championship
+162818,48442,139544,World Championship
+162819,48442,87669,World Championship
+162820,48442,139544,World Championship
+162822,48442,87684,World Championship
+162823,48442,139544,World Championship
+182001,48442,87668,World Championship
+182001,48442,97316,World Championship
+182002,48442,91812,World Championship
+182002,48442,114026,World Championship
+182003,48442,97316,World Championship
+182004,48442,142564,World Championship
+162824,48443,87672,World Championship
+162825,48443,141423,World Championship
+162825,48443,149586,World Championship
+162826,48443,121851,World Championship
+162826,48443,121853,World Championship
+162827,48443,94809,World Championship
+162828,48443,87672,World Championship
+162830,48443,134845,World Championship
+162831,48443,119972,World Championship
+182006,48443,149586,World Championship
+163998,48630,111948,World Championship
+163999,48630,111948,World Championship
+163999,48630,73731,World Championship
+164000,48630,120023,World Championship
+164000,48630,102990,World Championship
+164001,48630,124685,World Championship
+164001,48630,73733,World Championship
+164002,48630,131092,World Championship
+164002,48630,139557,World Championship
+164003,48630,112829,World Championship
+164003,48630,123659,World Championship
+164004,48630,112829,World Championship
+164005,48630,111948,World Championship
+164006,48630,124685,World Championship
+164007,48630,86014,World Championship
+164008,48630,63279,World Championship
+164009,48630,144288,World Championship
+164010,48630,132967,World Championship
+164906,48800,140437,World Championship
+164907,48800,139622,World Championship
+164908,48800,103096,World Championship
+164908,48800,140437,World Championship
+164909,48800,84312,World Championship
+164909,48800,98674,World Championship
+164911,48800,98674,World Championship
+173127,50188,107230,World Championship
+173127,50188,139290,World Championship
+173128,50188,141210,World Championship
+173128,50188,81133,World Championship
+173130,50188,93452,World Championship
+173131,50188,107230,World Championship
+173133,50188,140719,World Championship
+173134,50188,141210,World Championship
+173135,50188,139290,World Championship
+181808,50188,107148,World Championship
+176054,50605,132674,World Championship
+176055,50605,73036,World Championship
+176055,50605,101787,World Championship
+176056,50605,123758,World Championship
+176056,50605,69061,World Championship
+176057,50605,64591,World Championship
+176057,50605,87790,World Championship
+176058,50605,73038,World Championship
+176058,50605,125676,World Championship
+176059,50605,142731,World Championship
+176059,50605,132674,World Championship
+176060,50605,125094,World Championship
+176061,50605,73038,World Championship
+176063,50605,120078,World Championship
+176064,50605,118475,World Championship
+176065,50605,64591,World Championship
+176066,50605,120080,World Championship
+176067,50605,126915,World Championship
+176698,50680,101831,World Championship
+176699,50680,101165,World Championship
+176699,50680,82504,World Championship
+176700,50680,146526,World Championship
+176700,50680,96927,World Championship
+176701,50680,70620,World Championship
+176702,50680,101831,World Championship
+176704,50680,110448,World Championship
+180053,51082,141253,World Championship
+180054,51082,139601,World Championship
+180054,51082,140130,World Championship
+180055,51082,51991,World Championship
+180055,51082,149641,World Championship
+180056,51082,51991,World Championship
+180057,51082,141253,World Championship
+180059,51082,111250,World Championship
+180060,51082,139601,World Championship
+180061,51082,149641,World Championship
+181381,51082,143384,World Championship
+181381,51082,147671,World Championship
+182453,51292,70993,World Championship
+182454,51292,70993,World Championship
+182454,51292,85893,World Championship
+182455,51292,57930,World Championship
+182455,51292,85932,World Championship
+182456,51292,85893,World Championship
+182457,51292,70993,World Championship
+182459,51292,57930,World Championship
+182489,51292,65265,World Championship
+182490,51292,72040,World Championship
+182491,51292,148923,World Championship
+182491,51292,73477,World Championship
+182492,51292,85932,World Championship
+183927,51419,135263,World Championship
+183935,51420,123187,World Championship
+175735,50557,61392,World Championship
+175735,50557,105913,World Championship
+175736,50557,60892,World Championship
+175736,50557,150447,World Championship
+175738,50557,136760,World Championship
+175739,50557,61392,World Championship
+175743,50557,60892,World Championship
+183281,50557,145860,World Championship
+180394,51102,113980,World Championship
+180394,51102,148019,World Championship
+180399,51102,87432,World Championship
+180400,51102,148019,World Championship
+182017,51102,124812,World Championship
+182018,51102,126674,World Championship
+180571,51125,103109,World Championship
+180572,51125,106711,World Championship
+180573,51125,92109,World Championship
+180573,51125,144797,World Championship
+180574,51125,115474,World Championship
+180574,51125,115355,World Championship
+180575,51125,149278,World Championship
+180576,51125,116042,World Championship
+183262,51361,90145,World Championship
+183262,51361,77233,World Championship
+183282,51361,144801,World Championship
+179409,51023,82453,World Championship
+179402,51025,76117,World Championship
+163491,48538,108668,World Championship
+163491,48538,84097,World Championship
+163492,48538,111105,World Championship
+163492,48538,140966,World Championship
+163492,48538,84097,World Championship
 182507,51298,102720,Event Region Championship
 182508,51298,102720,Event Region Championship
 170057,49656,119240,Event Region Championship
 170058,49656,119240,Event Region Championship
 170058,49656,96990,Event Region Championship
 174706,50409,134246,World Championship
+163492,48538,123355,World Championship
+163493,48538,111499,World Championship
+163493,48538,104931,World Championship
+163493,48538,66344,World Championship
+163493,48538,140097,World Championship
+163495,48538,62962,World Championship
+163495,48538,123355,World Championship
+163496,48538,82878,World Championship
+163496,48538,129346,World Championship
+163498,48538,111498,World Championship
+163498,48538,110041,World Championship
+163499,48538,82878,World Championship
+163499,48538,129346,World Championship
+163500,48538,6666,World Championship
+163500,48538,129791,World Championship
+163501,48538,135231,World Championship
+163501,48538,51076,World Championship
+163502,48538,104931,World Championship
+163502,48538,115982,World Championship
+163503,48539,140074,World Championship
+163504,48539,149548,World Championship
+163504,48539,140074,World Championship
+163505,48539,141742,World Championship
+163505,48539,140080,World Championship
+163507,48539,149548,World Championship
+163473,48537,98403,World Championship
+163473,48537,86835,World Championship
+163474,48537,79128,World Championship
+163474,48537,62699,World Championship
+163475,48537,122291,World Championship
+163475,48537,139520,World Championship
+163476,48537,82625,World Championship
+163476,48537,98403,World Championship
+163477,48537,108052,World Championship
+163477,48537,132956,World Championship
+163478,48537,98404,World Championship
+163478,48537,84601,World Championship
+163479,48537,98400,World Championship
+163479,48537,96040,World Championship
+163480,48537,79128,World Championship
+163481,48537,56752,World Championship
+163482,48537,84457,World Championship
+163484,48537,107420,World Championship
+163484,48537,94463,World Championship
+163485,48537,128138,World Championship
+163485,48537,141324,World Championship
+163486,48537,107210,World Championship
+163486,48537,79128,World Championship
+163487,48537,82625,World Championship
+163487,48537,112768,World Championship
+163488,48537,113234,World Championship
+163488,48537,67034,World Championship
+163455,48536,83166,World Championship
+163455,48536,142982,World Championship
+163455,48536,84644,World Championship
+163456,48536,142301,World Championship
+163456,48536,100017,World Championship
+163457,48536,110339,World Championship
+163457,48536,97786,World Championship
+163458,48536,102218,World Championship
+163458,48536,143161,World Championship
+163459,48536,139088,World Championship
+163459,48536,144800,World Championship
+163460,48536,130939,World Championship
+163460,48536,109253,World Championship
+163461,48536,62708,World Championship
+163461,48536,85921,World Championship
+163461,48536,126961,World Championship
+163462,48536,130025,World Championship
+163463,48536,110339,World Championship
+163464,48536,99866,World Championship
+163466,48536,97488,World Championship
+163466,48536,142983,World Championship
+163466,48536,76786,World Championship
+163467,48536,113465,World Championship
+163467,48536,110339,World Championship
+163467,48536,97786,World Championship
+163468,48536,75886,World Championship
+163468,48536,99866,World Championship
 174706,50409,66041,World Championship
 174707,50409,112593,World Championship
 174707,50409,87396,World Championship
@@ -36162,11 +36964,159 @@ award_id,event_id,team_id,qualification
 159475,47847,139219,Event Region Championship
 159475,47847,56089,Event Region Championship
 159477,47847,56089,Event Region Championship
+163468,48536,83971,World Championship
+163469,48536,109387,World Championship
+163469,48536,71060,World Championship
+163469,48536,123509,World Championship
+163470,48536,143161,World Championship
+163470,48536,111451,World Championship
+163470,48536,100212,World Championship
 159478,47847,139219,Event Region Championship
 180644,47847,139219,Event Region Championship
 160063,47946,51996,Event Region Championship
 160063,47946,66000,Event Region Championship
 160064,47946,86263,Event Region Championship
+161711,48089,98624,Event Region Championship
+161712,48089,64629,Event Region Championship
+161712,48089,98624,Event Region Championship
+161713,48089,73837,Event Region Championship
+159035,47740,139219,World Championship
+159035,47740,56472,World Championship
+159049,47740,139219,World Championship
+161605,48217,123234,World Championship
+161605,48217,95859,World Championship
+161804,48217,140477,World Championship
+161621,48218,102422,World Championship
+161621,48218,140625,World Championship
+161806,48218,95648,World Championship
+161637,48219,81784,World Championship
+161637,48219,54133,World Championship
+161807,48219,108030,World Championship
+161057,48095,135580,RE-VRC-22-8666
+161057,48095,135580,RE-VRC-22-8645
+161058,48095,140777,RE-VRC-22-8666
+161058,48095,140777,RE-VRC-22-8645
+161058,48095,135580,RE-VRC-22-8666
+161058,48095,135580,RE-VRC-22-8645
+161059,48095,109096,RE-VRC-22-8666
+161059,48095,109096,RE-VRC-22-8645
+161060,48095,94560,RE-VRC-22-8666
+161060,48095,94560,RE-VRC-22-8645
+165365,48887,128555,RE-VIQC-22-8665
+165365,48887,128555,RE-VIQC-22-8646
+165365,48887,128557,RE-VIQC-22-8665
+165365,48887,128557,RE-VIQC-22-8646
+165367,48887,128555,RE-VIQC-22-8665
+165367,48887,128555,RE-VIQC-22-8646
+161067,48126,109097,RE-VRC-22-8666
+161067,48126,109097,RE-VRC-22-8645
+161068,48126,94560,RE-VRC-22-8666
+161068,48126,94560,RE-VRC-22-8645
+161068,48126,135580,RE-VRC-22-8666
+161068,48126,135580,RE-VRC-22-8645
+161069,48126,135580,RE-VRC-22-8666
+161069,48126,135580,RE-VRC-22-8645
+161070,48126,135580,RE-VRC-22-8666
+161070,48126,135580,RE-VRC-22-8645
+161072,48127,141084,RE-VIQC-22-8665
+161072,48127,141084,RE-VIQC-22-8646
+161073,48127,135738,RE-VIQC-22-8665
+161073,48127,135738,RE-VIQC-22-8646
+161073,48127,141084,RE-VIQC-22-8665
+161073,48127,141084,RE-VIQC-22-8646
+161074,48127,141085,RE-VIQC-22-8665
+161074,48127,141085,RE-VIQC-22-8646
+161075,48127,141085,RE-VIQC-22-8665
+161075,48127,141085,RE-VIQC-22-8646
+161076,48127,127808,RE-VIQC-22-8665
+161076,48127,127808,RE-VIQC-22-8646
+160310,47984,122822,Event Region Championship
+160310,47984,130559,Event Region Championship
+160467,47984,130544,Event Region Championship
+160468,47984,121967,Event Region Championship
+162321,48369,231,Event Region Championship
+162322,48369,107117,Event Region Championship
+162322,48369,139380,Event Region Championship
+162323,48369,23632,Event Region Championship
+162324,48369,24640,Event Region Championship
+159633,47884,13918,Event Region Championship
+159634,47884,13918,Event Region Championship
+159634,47884,13909,Event Region Championship
+159636,47884,13915,Event Region Championship
+159645,47885,56222,Event Region Championship
+159646,47885,56222,Event Region Championship
+159646,47885,50085,Event Region Championship
+159647,47885,62758,Event Region Championship
+159647,47885,141605,Event Region Championship
+159648,47885,50546,Event Region Championship
+159649,47885,56222,Event Region Championship
+160069,47950,71480,Event Region Championship
+160070,47950,63118,Event Region Championship
+160070,47950,139496,Event Region Championship
+160071,47950,110127,Event Region Championship
+160072,47950,104912,Event Region Championship
+163387,48526,129414,Event Region Championship
+163388,48526,2586,Event Region Championship
+163388,48526,70516,Event Region Championship
+163389,48526,129414,Event Region Championship
+163432,48532,128641,Event Region Championship
+163433,48532,128641,Event Region Championship
+163433,48532,18352,Event Region Championship
+163434,48532,128641,Event Region Championship
+161376,48207,123231,World Championship
+161376,48207,130851,World Championship
+161762,48207,85437,World Championship
+168101,49335,122288,RE-VIQC-22-8665
+168101,49335,122288,RE-VIQC-22-8646
+168101,49335,97481,RE-VIQC-22-8665
+168101,49335,97481,RE-VIQC-22-8646
+168104,49335,122288,RE-VIQC-22-8665
+168104,49335,122288,RE-VIQC-22-8646
+160946,48097,95355,RE-VIQC-22-8665
+160946,48097,95355,RE-VIQC-22-8646
+160947,48097,123435,RE-VIQC-22-8665
+160947,48097,123435,RE-VIQC-22-8646
+160948,48097,142722,RE-VIQC-22-8665
+160948,48097,142722,RE-VIQC-22-8646
+160948,48097,121999,RE-VIQC-22-8665
+160948,48097,121999,RE-VIQC-22-8646
+160949,48097,128555,RE-VIQC-22-8665
+160949,48097,128555,RE-VIQC-22-8646
+160950,48097,95357,RE-VIQC-22-8665
+160950,48097,95357,RE-VIQC-22-8646
+158967,47728,55969,Event Region Championship
+158968,47728,55969,Event Region Championship
+158968,47728,55967,Event Region Championship
+158969,47728,107510,Event Region Championship
+158969,47728,73637,Event Region Championship
+158970,47728,55967,Event Region Championship
+158971,47728,55969,Event Region Championship
+159012,47741,70332,Event Region Championship
+159013,47741,50944,Event Region Championship
+159013,47741,62903,Event Region Championship
+159014,47741,83713,Event Region Championship
+159014,47741,73626,Event Region Championship
+159015,47741,47917,Event Region Championship
+159016,47741,81143,Event Region Championship
+164668,48755,140722,RE-VRC-22-8666
+164668,48755,140722,RE-VRC-22-8645
+164668,48755,128562,RE-VRC-22-8666
+164668,48755,128562,RE-VRC-22-8645
+164669,48755,128886,RE-VRC-22-8666
+164669,48755,128886,RE-VRC-22-8645
+164669,48755,128883,RE-VRC-22-8666
+164669,48755,128883,RE-VRC-22-8645
+164670,48755,140720,RE-VRC-22-8666
+164670,48755,140720,RE-VRC-22-8645
+164671,48755,128562,RE-VRC-22-8666
+164671,48755,128562,RE-VRC-22-8645
+164747,48755,128562,RE-VRC-22-8666
+164747,48755,128562,RE-VRC-22-8645
+164748,48755,140725,RE-VRC-22-8666
+164748,48755,140725,RE-VRC-22-8645
+169305,48755,138959,RE-VRC-22-8666
+169305,48755,138959,RE-VRC-22-8645
+169306,48755,141624,RE-VRC-22-8666
 160065,47946,130609,Event Region Championship
 176394,47946,150159,Event Region Championship
 160484,48022,146723,Event Region Championship
@@ -36271,6 +37221,12 @@ award_id,event_id,team_id,qualification
 167014,49177,148574,Event Region Championship
 180291,49177,139077,Event Region Championship
 167173,49202,142111,Event Region Championship
+169306,48755,141624,RE-VRC-22-8645
+164777,48779,138960,RE-VIQC-22-8665
+164777,48779,138960,RE-VIQC-22-8646
+164778,48779,124597,RE-VIQC-22-8665
+164778,48779,124597,RE-VIQC-22-8646
+164779,48779,124598,RE-VIQC-22-8665
 167173,49202,81416,Event Region Championship
 167174,49202,99112,Event Region Championship
 167174,49202,135996,Event Region Championship
@@ -36546,6 +37502,11 @@ award_id,event_id,team_id,qualification
 176395,50651,84179,Event Region Championship
 176396,50651,134571,Event Region Championship
 176396,50651,115619,Event Region Championship
+171350,49888,127725,Event Region Championship
+171351,49888,134638,Event Region Championship
+171351,49888,98014,Event Region Championship
+171352,49888,116283,Event Region Championship
+171354,49888,141037,JROTC National Championship
 176400,50651,119020,Event Region Championship
 176401,50651,101760,Event Region Championship
 176486,50657,119454,Event Region Championship
@@ -36587,6 +37548,7 @@ award_id,event_id,team_id,qualification
 180138,51083,101903,World Championship
 180074,51085,82391,Event Region Championship
 180074,51085,148316,Event Region Championship
+180258,50204,135154,Event Region Championship
 181819,51085,77080,Event Region Championship
 181820,51085,63297,Event Region Championship
 180196,51091,124582,World Championship
@@ -37535,11 +38497,6 @@ award_id,event_id,team_id,qualification
 176616,50672,141087,World Championship
 176618,50672,123705,World Championship
 176619,50672,122143,World Championship
-171350,49888,127725,Event Region Championship
-171351,49888,134638,Event Region Championship
-171351,49888,98014,Event Region Championship
-171352,49888,116283,Event Region Championship
-171354,49888,141037,JROTC National Championship
 176620,50672,135754,World Championship
 180223,51094,73893,World Championship
 180223,51094,150380,World Championship
@@ -37581,7 +38538,6 @@ award_id,event_id,team_id,qualification
 159843,47918,121955,World Championship
 159843,47918,149858,World Championship
 159844,47918,121924,World Championship
-180258,50204,135154,Event Region Championship
 159845,47918,144733,World Championship
 159847,47918,121925,World Championship
 163393,48249,139219,World Championship
@@ -37866,1198 +38822,6 @@ award_id,event_id,team_id,qualification
 177868,50844,87300,World Championship
 177868,50844,54321,World Championship
 177869,50844,133415,World Championship
-177976,50857,104038,World Championship
-177976,50857,66697,World Championship
-177980,50858,102752,World Championship
-177981,50858,102752,World Championship
-177981,50858,148607,World Championship
-178408,50895,105717,World Championship
-178408,50895,120150,World Championship
-178421,50895,98087,World Championship
-178415,50900,99059,World Championship
-178415,50900,143455,World Championship
-178416,50900,95578,World Championship
-178422,50900,143455,World Championship
-181144,50900,94181,World Championship
-181144,50900,103432,World Championship
-179138,50995,119839,World Championship
-179138,50995,119839,RE-VEXU-22-9727
-179376,51027,116089,World Championship
-179377,51027,138881,World Championship
-179377,51027,139680,World Championship
-179378,51027,84069,World Championship
-179378,51027,117073,World Championship
-179380,51027,124273,World Championship
-179381,51027,62507,World Championship
-179383,51027,6726,World Championship
-179384,51027,62507,World Championship
-179385,51027,4741,World Championship
-179386,51027,108484,World Championship
-179917,51073,130100,World Championship
-179917,51073,128934,World Championship
-179918,51073,114946,World Championship
-180159,51073,130100,World Championship
-181800,51076,152325,World Championship
-180017,51079,93169,World Championship
-180018,51079,115442,World Championship
-180018,51079,52729,World Championship
-180019,51079,140480,World Championship
-180019,51079,93169,World Championship
-180020,51079,52729,World Championship
-180021,51079,140480,World Championship
-180023,51079,130177,World Championship
-180024,51079,140480,World Championship
-180025,51079,107830,World Championship
-181380,51079,101609,World Championship
-181380,51079,103499,World Championship
-180589,51128,92440,World Championship
-180590,51128,149256,World Championship
-182267,51129,103727,World Championship
-180601,51130,90567,World Championship
-182188,51262,152178,World Championship
-182191,51262,107477,World Championship
-182191,51262,152178,World Championship
-182195,51262,148544,World Championship
-182196,51262,129151,World Championship
-182206,51263,150960,World Championship
-182207,51263,150960,World Championship
-182207,51263,107757,World Championship
-182210,51263,135411,World Championship
-182220,51264,98389,World Championship
-182221,51264,98389,World Championship
-182224,51264,125789,World Championship
-182225,51264,98389,World Championship
-182236,51265,123576,RE-VIQC-22-9730
-182237,51265,115049,World Championship
-182238,51265,151018,World Championship
-182238,51265,134405,World Championship
-182239,51265,135003,World Championship
-182239,51265,152432,World Championship
-182240,51265,130007,World Championship
-182240,51265,134968,World Championship
-182241,51265,152018,World Championship
-182246,51265,124226,World Championship
-182247,51265,134750,World Championship
-182248,51265,134405,World Championship
-182249,51265,131115,World Championship
-183890,51265,151814,World Championship
-183890,51265,152018,World Championship
-182495,51297,136009,World Championship
-182495,51297,135600,World Championship
-182505,51297,58014,World Championship
-182506,51297,47653,World Championship
-183882,51312,34987,World Championship
-183882,51312,34987,RE-VRC-22-9725
-183883,51312,34990,World Championship
-183883,51312,34990,RE-VRC-22-9726
-182687,51313,58731,World Championship
-182687,51313,58731,RE-VIQC-22-9730
-182788,51326,108401,World Championship
-182789,51326,129318,World Championship
-159941,47928,97464,World Championship
-159942,47928,119700,World Championship
-159942,47928,140812,World Championship
-159943,47928,143389,World Championship
-159943,47928,140044,World Championship
-159944,47928,133699,World Championship
-159945,47928,114652,World Championship
-159947,47928,55211,World Championship
-159948,47928,135370,World Championship
-159949,47928,86995,World Championship
-180237,47928,140430,World Championship
-180237,47928,140020,World Championship
-160144,47964,112613,World Championship
-160145,47964,84608,World Championship
-160145,47964,122311,World Championship
-160146,47964,112613,World Championship
-160146,47964,112763,World Championship
-160147,47964,112709,World Championship
-160158,47965,123999,World Championship
-160159,47965,123999,World Championship
-160159,47965,74085,World Championship
-160160,47965,124000,World Championship
-160160,47965,139712,World Championship
-160161,47965,132906,World Championship
-160162,47965,123999,World Championship
-160163,47965,127283,World Championship
-160164,47965,133524,World Championship
-160165,47965,145430,World Championship
-160166,47965,139712,World Championship
-162500,48377,70524,World Championship
-162501,48377,122010,World Championship
-162501,48377,128405,World Championship
-162502,48377,143182,World Championship
-162502,48377,100737,World Championship
-162503,48377,61764,World Championship
-162504,48377,128405,World Championship
-162506,48377,107814,World Championship
-162507,48377,85980,World Championship
-162508,48377,128405,World Championship
-162509,48377,61360,World Championship
-164786,48780,139264,World Championship
-164786,48780,139264,RE-VIQC-22-9730
-164787,48780,150516,World Championship
-164787,48780,150516,RE-VIQC-22-9730
-164787,48780,139264,World Championship
-164787,48780,139264,RE-VIQC-22-9730
-164788,48780,133683,World Championship
-164788,48780,133683,RE-VIQC-22-9730
-164788,48780,132739,World Championship
-164788,48780,132739,RE-VIQC-22-9730
-164789,48780,133683,World Championship
-164789,48780,133683,RE-VIQC-22-9730
-164790,48780,150516,World Championship
-164790,48780,150516,RE-VIQC-22-9730
-164801,48781,73540,World Championship
-164801,48781,81647,World Championship
-164802,48781,73541,World Championship
-164802,48781,145763,World Championship
-164803,48781,111732,World Championship
-164803,48781,149838,World Championship
-164804,48781,140421,World Championship
-164805,48781,81647,World Championship
-164808,48781,101337,World Championship
-164808,48781,108641,World Championship
-164809,48781,81647,World Championship
-164809,48781,81648,World Championship
-164810,48781,73540,World Championship
-164810,48781,134846,World Championship
-164811,48781,67174,World Championship
-164811,48781,94693,World Championship
-164812,48781,111730,World Championship
-164812,48781,114686,World Championship
-166741,49124,128470,World Championship
-166742,49124,143210,World Championship
-166742,49124,146188,World Championship
-166743,49124,128470,World Championship
-166743,49124,133057,World Championship
-166745,49124,142173,World Championship
-167445,49234,122155,World Championship
-167446,49234,102715,World Championship
-167446,49234,104928,World Championship
-167447,49234,122259,World Championship
-167447,49234,141611,World Championship
-167448,49234,102723,World Championship
-167449,49234,141611,World Championship
-167451,49234,102720,World Championship
-167452,49234,102715,World Championship
-167663,49276,104419,World Championship
-167664,49276,149627,World Championship
-167664,49276,142606,World Championship
-167665,49276,130694,World Championship
-167666,49276,142606,World Championship
-167668,49276,139388,World Championship
-168285,49276,131300,World Championship
-168286,49276,142606,World Championship
-181066,49276,139388,World Championship
-181066,49276,142721,World Championship
-181067,49276,104419,World Championship
-181067,49276,122310,World Championship
-167829,49300,122300,World Championship
-167829,49300,107169,World Championship
-167830,49300,126058,World Championship
-167831,49300,122300,World Championship
-169419,49300,113951,World Championship
-169420,49300,49852,World Championship
-169421,49300,107169,World Championship
-169433,49300,100367,World Championship
-169433,49300,114445,World Championship
-169434,49300,49853,World Championship
-169434,49300,71984,World Championship
-169434,49300,128305,World Championship
-169434,49300,131001,World Championship
-174250,49300,122300,World Championship
-177194,50581,148497,World Championship
-177194,50581,149506,World Championship
-181196,50581,150501,World Championship
-181197,50581,148497,World Championship
-176175,50618,49375,World Championship
-176175,50618,87081,World Championship
-176176,50618,35362,World Championship
-176178,50618,144356,World Championship
-180009,50618,57708,World Championship
-180010,50618,49671,World Championship
-180011,50618,57708,World Championship
-180011,50618,71860,World Championship
-181270,50618,97794,World Championship
-176281,50632,98316,World Championship
-176281,50632,94028,World Championship
-176282,50632,142264,World Championship
-176282,50632,126055,World Championship
-176283,50632,131600,World Championship
-176283,50632,124328,World Championship
-176284,50632,83211,World Championship
-176285,50632,98316,World Championship
-176288,50632,59802,World Championship
-176289,50632,137969,World Championship
-176290,50632,94028,World Championship
-176291,50632,105023,World Championship
-176292,50632,59801,World Championship
-177155,50632,98316,World Championship
-177156,50632,116132,World Championship
-177156,50632,142242,World Championship
-177654,50816,147635,World Championship
-177654,50816,147635,RE-VIQC-22-9729
-178889,50964,128381,World Championship
-178889,50964,86670,World Championship
-178890,50964,131739,World Championship
-178890,50964,108104,World Championship
-178891,50964,23353,World Championship
-178892,50964,131739,World Championship
-178896,50964,140100,World Championship
-178897,50964,86669,World Championship
-178898,50964,128381,World Championship
-178899,50964,93374,World Championship
-178900,50964,141868,World Championship
-182534,50964,131739,World Championship
-182535,50964,108104,World Championship
-179018,50968,84457,Event Region Championship
-179018,50968,96863,Event Region Championship
-179389,51028,122798,World Championship
-179390,51028,85916,World Championship
-179390,51028,140300,World Championship
-179391,51028,122798,World Championship
-179391,51028,110647,World Championship
-179393,51028,110647,World Championship
-179394,51028,122798,World Championship
-179396,51028,140009,World Championship
-179397,51028,140300,World Championship
-179398,51028,85916,World Championship
-179399,51028,124654,World Championship
-180029,51080,56337,World Championship
-180030,51080,140481,World Championship
-180030,51080,56337,World Championship
-180031,51080,112245,World Championship
-180031,51080,140811,World Championship
-180032,51080,65538,World Championship
-180033,51080,140481,World Championship
-180035,51080,133713,World Championship
-178858,50961,122892,World Championship
-178859,50961,122892,World Championship
-178859,50961,100767,World Championship
-178861,50961,139000,World Championship
-178874,50963,107157,World Championship
-178875,50963,150967,World Championship
-178875,50963,107157,World Championship
-178876,50963,143315,World Championship
-178876,50963,65079,World Championship
-178878,50963,76066,World Championship
-178879,50963,76066,World Championship
-178883,50963,73394,World Championship
-178906,50963,140333,World Championship
-168256,49356,129815,World Championship
-168257,49356,88020,World Championship
-168257,49356,119454,World Championship
-168259,49356,96782,World Championship
-168848,49442,115784,World Championship
-168849,49442,115784,World Championship
-168849,49442,83144,World Championship
-168851,49442,115811,World Championship
-168852,49442,115784,World Championship
-170047,49654,143451,World Championship
-170048,49654,143362,World Championship
-170048,49654,69135,World Championship
-170050,49654,141785,World Championship
-170051,49654,69133,World Championship
-170088,49662,133006,World Championship
-170089,49662,98781,World Championship
-170089,49662,97309,World Championship
-170090,49662,100110,World Championship
-170090,49662,120448,World Championship
-170091,49662,143653,World Championship
-170092,49662,133006,World Championship
-180967,49662,100110,World Championship
-180968,49662,119129,World Championship
-173670,50256,112527,World Championship
-173671,50256,88625,World Championship
-173671,50256,109954,World Championship
-173672,50256,112527,World Championship
-173672,50256,142261,World Championship
-173673,50256,88950,World Championship
-173673,50256,132889,World Championship
-173674,50256,142702,World Championship
-173674,50256,96990,World Championship
-173675,50256,88625,World Championship
-173676,50256,112527,World Championship
-173677,50256,84630,World Championship
-173678,50256,141109,World Championship
-173679,50256,109954,World Championship
-173680,50256,99437,World Championship
-173682,50257,119240,World Championship
-173683,50257,143120,World Championship
-173683,50257,97378,World Championship
-173684,50257,100859,World Championship
-173684,50257,146605,World Championship
-173685,50257,147806,World Championship
-173686,50257,143120,World Championship
-173687,50257,106178,World Championship
-175320,50257,141113,World Championship
-175320,50257,100849,World Championship
-175321,50257,97378,World Championship
-180964,50257,143120,World Championship
-159901,47924,113966,World Championship
-159902,47924,87333,World Championship
-159902,47924,113966,World Championship
-159903,47924,42913,World Championship
-159903,47924,110370,World Championship
-159904,47924,101369,World Championship
-159905,47924,113966,World Championship
-159908,47924,90450,World Championship
-159909,47924,2546,World Championship
-159910,47924,49455,World Championship
-159911,47924,87333,World Championship
-159913,47925,33238,World Championship
-159914,47925,33238,World Championship
-159914,47925,144815,World Championship
-162796,48439,129604,World Championship
-162797,48439,125306,World Championship
-164353,48653,130137,World Championship
-164353,48653,38353,World Championship
-164356,48653,57379,World Championship
-164357,48653,40102,World Championship
-172710,48653,40102,World Championship
-164139,48659,124355,World Championship
-164140,48659,98883,World Championship
-164140,48659,58105,World Championship
-164141,48659,85387,World Championship
-164141,48659,36097,World Championship
-164143,48659,98883,World Championship
-164144,48659,98883,World Championship
-164147,48659,89332,World Championship
-172711,48659,40093,World Championship
-181240,48659,93415,World Championship
-167688,49280,75551,World Championship
-167688,49280,75550,World Championship
-181241,49280,75551,World Championship
-167917,49314,81416,World Championship
-167918,49314,137428,World Championship
-167918,49314,99111,World Championship
-167919,49314,135996,World Championship
-167919,49314,81416,World Championship
-167920,49314,81415,World Championship
-167921,49314,148300,World Championship
-167922,49314,85699,World Championship
-167923,49314,116339,World Championship
-167924,49314,148300,World Championship
-167925,49314,99112,World Championship
-183390,49314,131865,World Championship
-183390,49314,142111,World Championship
-171745,49960,127960,World Championship
-171746,49960,127960,World Championship
-171746,49960,67019,World Championship
-171747,49960,119106,World Championship
-171747,49960,138601,World Championship
-171748,49960,110560,World Championship
-171749,49960,138601,World Championship
-171750,49960,67019,World Championship
-171751,49960,109298,World Championship
-171752,49960,138601,World Championship
-171950,50001,34474,World Championship
-171951,50001,34474,World Championship
-171951,50001,5226,World Championship
-171952,50001,131949,World Championship
-171952,50001,112822,World Championship
-171954,50001,3501,World Championship
-171955,50001,34474,World Championship
-171957,50001,112822,World Championship
-179175,50001,140299,World Championship
-181802,50001,130050,World Championship
-181802,50001,135369,World Championship
-181802,50001,108455,World Championship
-181802,50001,76774,World Championship
-174482,50091,115619,World Championship
-174482,50091,101760,World Championship
-174483,50091,119020,World Championship
-174484,50091,115619,World Championship
-180314,50091,101758,World Championship
-180314,50091,147885,World Championship
-180315,50091,120727,World Championship
-180316,50091,101760,World Championship
-181376,50091,94451,World Championship
-172637,50110,129893,World Championship
-172637,50110,74980,World Championship
-172638,50110,123816,World Championship
-172638,50110,77080,World Championship
-172639,50110,125870,World Championship
-172639,50110,76580,World Championship
-172639,50110,77081,World Championship
-172639,50110,57602,World Championship
-172640,50110,76580,World Championship
-172641,50110,123816,World Championship
-172643,50110,123816,World Championship
-172644,50110,139628,World Championship
-172645,50110,129893,World Championship
-172646,50110,74980,World Championship
-183562,50110,107689,World Championship
-183563,50110,85239,World Championship
-172854,50146,131741,World Championship
-172854,50146,126698,World Championship
-172855,50146,130133,World Championship
-172855,50146,72592,World Championship
-172856,50146,131680,World Championship
-172857,50146,141106,World Championship
-172860,50146,143896,World Championship
-172861,50146,46861,World Championship
-172862,50146,142648,World Championship
-172863,50146,60594,World Championship
-177988,50146,131741,World Championship
-176686,50679,71480,World Championship
-176687,50679,71480,World Championship
-176687,50679,142100,World Championship
-176688,50679,122050,World Championship
-176688,50679,93375,World Championship
-176689,50679,206,World Championship
-176690,50679,71480,World Championship
-176692,50679,14770,World Championship
-176693,50679,96794,World Championship
-176694,50679,122050,World Championship
-180423,51110,79067,World Championship
-180423,51110,100232,World Championship
-180539,51110,120499,World Championship
-180540,51110,87906,World Championship
-159810,47914,6946,World Championship
-159811,47914,6946,World Championship
-159811,47914,13915,World Championship
-159812,47914,133045,World Championship
-159812,47914,54553,World Championship
-159814,47914,128458,World Championship
-159815,47914,6946,World Championship
-159817,47914,70367,World Championship
-159818,47914,50480,World Championship
-159819,47914,93708,World Championship
-159820,47914,112327,World Championship
-159920,47926,143068,World Championship
-159921,47926,143068,World Championship
-159921,47926,58260,World Championship
-159922,47926,73719,World Championship
-159922,47926,73717,World Championship
-159923,47926,73717,World Championship
-159924,47926,143068,World Championship
-159928,47927,87500,World Championship
-159929,47927,58258,World Championship
-159929,47927,133295,World Championship
-159930,47927,144533,World Championship
-159930,47927,72828,World Championship
-159931,47927,87500,World Championship
-159931,47927,113611,World Championship
-159932,47927,143779,World Championship
-159933,47927,87500,World Championship
-159936,47927,72828,World Championship
-159937,47927,118976,World Championship
-159938,47927,113611,World Championship
-159939,47927,136472,World Championship
-159940,47927,133295,World Championship
-160710,48064,90362,World Championship
-160711,48064,90362,World Championship
-160711,48064,84112,World Championship
-160713,48064,59897,World Championship
-162802,48440,110498,World Championship
-162803,48440,65933,World Championship
-162803,48440,133935,World Championship
-162804,48440,104265,World Championship
-162804,48440,133932,World Championship
-162805,48440,116283,World Championship
-162806,48440,133934,World Championship
-162809,48441,136582,World Championship
-162810,48441,141532,World Championship
-162810,48441,135199,World Championship
-162811,48441,136577,World Championship
-162811,48441,141533,World Championship
-162812,48441,136577,World Championship
-162813,48441,141532,World Championship
-163209,48496,123423,World Championship
-163210,48496,149318,World Championship
-163210,48496,89163,World Championship
-163215,48496,131420,World Championship
-163216,48496,132901,World Championship
-173804,48496,131103,World Championship
-173804,48496,129829,World Championship
-173805,48496,97954,World Championship
-173806,48496,89163,World Championship
-173807,48496,131423,World Championship
-173807,48496,132901,World Championship
-173808,48496,77136,World Championship
-173809,48496,123423,World Championship
-173809,48496,146238,World Championship
-173810,48496,131100,World Championship
-173810,48496,131102,World Championship
-173811,48496,131424,World Championship
-173812,48496,146689,World Championship
-163419,48529,46456,World Championship
-163419,48529,72047,World Championship
-163421,48529,104143,World Championship
-163422,48529,63340,World Championship
-177242,48529,72047,World Championship
-163689,48581,107705,World Championship
-163690,48581,139659,World Championship
-163690,48581,106340,World Championship
-163691,48581,69586,World Championship
-163691,48581,19294,World Championship
-163692,48581,114469,World Championship
-163692,48581,107705,World Championship
-163692,48581,79348,World Championship
-163692,48581,106410,World Championship
-163693,48581,73751,World Championship
-163694,48581,107705,World Championship
-163696,48581,86031,World Championship
-163697,48581,69586,World Championship
-163698,48581,139659,World Championship
-163699,48581,19294,World Championship
-163700,48581,73754,World Championship
-163985,48629,114890,World Championship
-163986,48629,132615,World Championship
-163986,48629,63719,World Championship
-163987,48629,135701,World Championship
-163987,48629,114890,World Championship
-163988,48629,63062,World Championship
-163988,48629,131894,World Championship
-163989,48629,63064,World Championship
-163989,48629,132614,World Championship
-163990,48629,76874,World Championship
-163990,48629,100597,World Championship
-163991,48629,77224,World Championship
-163992,48629,132615,World Championship
-163993,48629,76874,World Championship
-163994,48629,132615,World Championship
-163995,48629,145962,World Championship
-163996,48629,74390,World Championship
-163997,48629,131894,World Championship
-164434,48713,122766,World Championship
-164434,48713,113861,World Championship
-180364,48713,113861,World Championship
-165324,48864,84097,Event Region Championship
-165325,48864,84097,Event Region Championship
-165325,48864,123355,Event Region Championship
-165960,49002,96909,World Championship
-165961,49002,133594,World Championship
-165962,49002,135606,World Championship
-165962,49002,114582,World Championship
-165964,49002,82541,World Championship
-165965,49002,113632,World Championship
-167717,49283,114531,World Championship
-167718,49283,59010,World Championship
-167718,49283,116191,World Championship
-167719,49283,68265,World Championship
-167720,49283,116327,World Championship
-167722,49283,59013,World Championship
-167723,49283,120523,World Championship
-167724,49283,116222,World Championship
-167725,49283,120766,World Championship
-167726,49283,59010,World Championship
-167735,49283,120720,World Championship
-167735,49283,120766,World Championship
-167736,49283,116222,World Championship
-167736,49283,135524,World Championship
-167737,49283,127140,World Championship
-167737,49283,120718,World Championship
-167738,49283,116181,World Championship
-167738,49283,98025,World Championship
-167980,49316,83693,World Championship
-167981,49316,86555,World Championship
-167981,49316,59752,World Championship
-167982,49316,147879,World Championship
-167982,49316,64986,World Championship
-167983,49316,59752,World Championship
-167984,49316,65803,World Championship
-167985,49316,64986,World Championship
-167986,49316,86555,World Championship
-167987,49316,65803,World Championship
-167988,49316,148905,World Championship
-167989,49316,75212,World Championship
-183392,49316,83422,World Championship
-183392,49316,65804,World Championship
-183393,49316,146032,World Championship
-183393,49316,65803,World Championship
-168087,49333,128616,World Championship
-168088,49333,128616,World Championship
-168088,49333,107706,World Championship
-168089,49333,146987,World Championship
-168089,49333,129801,World Championship
-168090,49333,146987,World Championship
-168091,49333,128616,World Championship
-168093,49333,129801,World Championship
-181128,49333,94952,World Championship
-181129,49333,96055,World Championship
-169234,49512,76852,World Championship
-169235,49512,145080,World Championship
-169236,49512,134599,World Championship
-169236,49512,89901,World Championship
-169238,49512,101367,World Championship
-169239,49512,107984,World Championship
-169240,49512,76851,World Championship
-169241,49512,64367,World Championship
-169243,49515,67293,World Championship
-169244,49515,147351,World Championship
-169245,49515,67289,World Championship
-169245,49515,67293,World Championship
-169247,49515,102368,World Championship
-180367,49515,132523,World Championship
-170553,49738,139909,World Championship
-170554,49738,139496,World Championship
-170554,49738,96580,World Championship
-170556,49738,139496,World Championship
-171424,49738,139909,World Championship
-172531,49738,151820,World Championship
-172531,49738,139909,World Championship
-172533,49738,139618,World Championship
-171049,49831,125125,World Championship
-171049,49831,139521,World Championship
-171050,49831,105535,World Championship
-171051,49831,125125,World Championship
-171053,49831,70511,World Championship
-171054,49831,110232,World Championship
-171055,49831,45820,World Championship
-171056,49831,139521,World Championship
-173616,49831,125125,World Championship
-173617,49831,45820,World Championship
-173617,49831,110232,World Championship
-171300,49882,48084,World Championship
-171301,49882,142117,World Championship
-171301,49882,129606,World Championship
-171302,49882,142117,World Championship
-176043,49882,27589,World Championship
-176043,49882,109677,World Championship
-171636,49945,133109,World Championship
-171637,49945,54095,World Championship
-171637,49945,143857,World Championship
-171638,49945,54095,World Championship
-171639,49945,133109,World Championship
-173798,49945,54096,World Championship
-173799,49945,133109,World Championship
-173799,49945,145734,World Championship
-173800,49945,117912,World Championship
-173801,49945,115730,World Championship
-173801,49945,54096,World Championship
-173802,49945,115729,World Championship
-181137,49945,117912,World Championship
-181137,49945,54696,World Championship
-181138,49945,115730,World Championship
-181139,49945,115729,World Championship
-181139,49945,147206,World Championship
-181140,49945,115728,World Championship
-171641,49948,83187,World Championship
-171642,49948,118894,World Championship
-171642,49948,83187,World Championship
-171643,49948,74833,World Championship
-171644,49948,130814,World Championship
-173803,49948,144005,World Championship
-173803,49948,98306,World Championship
-181141,49948,118894,World Championship
-181142,49948,130814,World Championship
-181143,49948,141338,World Championship
-174487,50094,90070,World Championship
-174487,50094,152307,World Championship
-174488,50094,104115,World Championship
-181372,50094,105073,World Championship
-181373,50094,104124,World Championship
-173263,50201,124624,World Championship
-173263,50201,113203,World Championship
-177989,50201,124585,World Championship
-173688,50258,132882,World Championship
-173689,50258,52930,World Championship
-173689,50258,110999,World Championship
-173690,50258,86078,World Championship
-173690,50258,149764,World Championship
-173691,50258,52930,World Championship
-173692,50258,132882,World Championship
-173696,50259,141800,World Championship
-173697,50259,55401,World Championship
-173697,50259,85672,World Championship
-173698,50259,143113,World Championship
-173698,50259,68270,World Championship
-173700,50259,139274,World Championship
-173701,50259,85672,World Championship
-173702,50259,130452,World Championship
-173703,50259,139272,World Championship
-173704,50259,130481,World Championship
-173705,50259,139273,World Championship
-173706,50259,142978,World Championship
-173707,50262,139989,World Championship
-173708,50262,116890,World Championship
-173708,50262,131204,World Championship
-173709,50262,133235,World Championship
-173709,50262,140124,World Championship
-173710,50262,136705,World Championship
-173711,50262,139989,World Championship
-173714,50262,126349,World Championship
-175482,50515,91329,World Championship
-175482,50515,122721,World Championship
-175483,50515,115836,World Championship
-175483,50515,114885,World Championship
-175484,50515,95531,World Championship
-175484,50515,142321,World Championship
-175485,50515,132160,World Championship
-175486,50515,91377,World Championship
-175488,50515,95531,World Championship
-175489,50515,142321,World Championship
-175490,50515,90212,World Championship
-175491,50515,76741,World Championship
-179932,50515,115836,World Championship
-181803,50515,117640,World Championship
-181803,50515,77586,World Championship
-181804,50515,91377,World Championship
-181804,50515,107435,World Championship
-181805,50515,93383,World Championship
-175607,50541,130626,Event Region Championship
-175608,50541,56654,Event Region Championship
-175608,50541,130626,Event Region Championship
-175602,50542,96337,Event Region Championship
-175603,50542,96863,Event Region Championship
-175603,50542,71060,Event Region Championship
-175754,50556,125698,World Championship
-175755,50556,133448,World Championship
-175755,50556,70657,World Championship
-175887,50583,139938,World Championship
-175888,50583,125707,World Championship
-175888,50583,139939,World Championship
-177804,50835,113711,Event Region Championship
-177804,50835,144239,Event Region Championship
-177843,50842,1426,Event Region Championship
-177843,50842,94378,Event Region Championship
-178058,50864,50755,World Championship
-178058,50864,66968,World Championship
-178059,50864,121933,World Championship
-178059,50864,69047,World Championship
-178060,50864,66967,World Championship
-178100,50864,50755,World Championship
-178101,50867,74414,World Championship
-178102,50867,113052,World Championship
-178102,50867,111929,World Championship
-178103,50867,74413,World Championship
-178103,50867,108061,World Championship
-178104,50867,115765,World Championship
-179755,51055,36148,World Championship
-179756,51055,142963,World Championship
-179756,51055,142966,World Championship
-180414,51055,131048,World Championship
-180041,51081,141621,World Championship
-180042,51081,102969,World Championship
-180042,51081,141254,World Championship
-180043,51081,140045,World Championship
-180043,51081,141621,World Championship
-180044,51081,70425,World Championship
-180045,51081,102969,World Championship
-180047,51081,141254,World Championship
-180504,51111,65448,World Championship
-180505,51111,128632,World Championship
-180505,51111,142787,World Championship
-180506,51111,142791,World Championship
-180506,51111,142792,World Championship
-180507,51111,65430,World Championship
-180508,51111,128632,World Championship
-180510,51111,124760,World Championship
-180510,51111,143067,World Championship
-180511,51111,142790,World Championship
-180512,51111,139868,World Championship
-180513,51111,113719,World Championship
-180514,51111,113719,World Championship
-180514,51111,100585,World Championship
-180515,51111,96749,World Championship
-180515,51111,135439,World Championship
-180516,51111,145677,World Championship
-180517,51111,141400,World Championship
-182441,51191,107174,World Championship
-182442,51191,147416,World Championship
-182442,51191,107174,World Championship
-182443,51191,124262,World Championship
-182443,51191,57887,World Championship
-182444,51191,151193,World Championship
-182445,51191,147416,World Championship
-182447,51191,57894,World Championship
-181824,51231,104164,World Championship
-181824,51231,136505,World Championship
-183481,51231,136505,World Championship
-183482,51231,101556,World Championship
-159824,47916,81719,World Championship
-159825,47916,81719,World Championship
-159825,47916,63521,World Championship
-159826,47916,114051,World Championship
-159826,47916,62938,World Championship
-159827,47916,55589,World Championship
-159828,47916,139487,World Championship
-159830,47916,63521,World Championship
-159831,47916,139487,World Championship
-159832,47916,114051,World Championship
-159833,47916,50083,World Championship
-162816,48442,144799,World Championship
-162817,48442,145289,World Championship
-162817,48442,137737,World Championship
-162818,48442,144799,World Championship
-162818,48442,139544,World Championship
-162819,48442,87669,World Championship
-162820,48442,139544,World Championship
-162822,48442,87684,World Championship
-162823,48442,139544,World Championship
-182001,48442,87668,World Championship
-182001,48442,97316,World Championship
-182002,48442,91812,World Championship
-182002,48442,114026,World Championship
-182003,48442,97316,World Championship
-182004,48442,142564,World Championship
-162824,48443,87672,World Championship
-162825,48443,141423,World Championship
-162825,48443,149586,World Championship
-162826,48443,121851,World Championship
-162826,48443,121853,World Championship
-162827,48443,94809,World Championship
-162828,48443,87672,World Championship
-162830,48443,134845,World Championship
-162831,48443,119972,World Championship
-182006,48443,149586,World Championship
-163998,48630,111948,World Championship
-163999,48630,111948,World Championship
-163999,48630,73731,World Championship
-164000,48630,120023,World Championship
-164000,48630,102990,World Championship
-164001,48630,124685,World Championship
-164001,48630,73733,World Championship
-164002,48630,131092,World Championship
-164002,48630,139557,World Championship
-164003,48630,112829,World Championship
-164003,48630,123659,World Championship
-164004,48630,112829,World Championship
-164005,48630,111948,World Championship
-164006,48630,124685,World Championship
-164007,48630,86014,World Championship
-164008,48630,63279,World Championship
-164009,48630,144288,World Championship
-164010,48630,132967,World Championship
-164906,48800,140437,World Championship
-164907,48800,139622,World Championship
-164908,48800,103096,World Championship
-164908,48800,140437,World Championship
-164909,48800,84312,World Championship
-164909,48800,98674,World Championship
-164911,48800,98674,World Championship
-173127,50188,107230,World Championship
-173127,50188,139290,World Championship
-173128,50188,141210,World Championship
-173128,50188,81133,World Championship
-173130,50188,93452,World Championship
-173131,50188,107230,World Championship
-173133,50188,140719,World Championship
-173134,50188,141210,World Championship
-173135,50188,139290,World Championship
-181808,50188,107148,World Championship
-176054,50605,132674,World Championship
-176055,50605,73036,World Championship
-176055,50605,101787,World Championship
-176056,50605,123758,World Championship
-176056,50605,69061,World Championship
-176057,50605,64591,World Championship
-176057,50605,87790,World Championship
-176058,50605,73038,World Championship
-176058,50605,125676,World Championship
-176059,50605,142731,World Championship
-176059,50605,132674,World Championship
-176060,50605,125094,World Championship
-176061,50605,73038,World Championship
-176063,50605,120078,World Championship
-176064,50605,118475,World Championship
-176065,50605,64591,World Championship
-176066,50605,120080,World Championship
-176067,50605,126915,World Championship
-176698,50680,101831,World Championship
-176699,50680,101165,World Championship
-176699,50680,82504,World Championship
-176700,50680,146526,World Championship
-176700,50680,96927,World Championship
-176701,50680,70620,World Championship
-176702,50680,101831,World Championship
-176704,50680,110448,World Championship
-180053,51082,141253,World Championship
-180054,51082,139601,World Championship
-180054,51082,140130,World Championship
-180055,51082,51991,World Championship
-180055,51082,149641,World Championship
-180056,51082,51991,World Championship
-180057,51082,141253,World Championship
-180059,51082,111250,World Championship
-180060,51082,139601,World Championship
-180061,51082,149641,World Championship
-181381,51082,143384,World Championship
-181381,51082,147671,World Championship
-182453,51292,70993,World Championship
-182454,51292,70993,World Championship
-182454,51292,85893,World Championship
-182455,51292,57930,World Championship
-182455,51292,85932,World Championship
-182456,51292,85893,World Championship
-182457,51292,70993,World Championship
-182459,51292,57930,World Championship
-182489,51292,65265,World Championship
-182490,51292,72040,World Championship
-182491,51292,148923,World Championship
-182491,51292,73477,World Championship
-182492,51292,85932,World Championship
-183927,51419,135263,World Championship
-183935,51420,123187,World Championship
-175735,50557,61392,World Championship
-175735,50557,105913,World Championship
-175736,50557,60892,World Championship
-175736,50557,150447,World Championship
-175738,50557,136760,World Championship
-175739,50557,61392,World Championship
-175743,50557,60892,World Championship
-183281,50557,145860,World Championship
-180394,51102,113980,World Championship
-180394,51102,148019,World Championship
-180399,51102,87432,World Championship
-180400,51102,148019,World Championship
-182017,51102,124812,World Championship
-182018,51102,126674,World Championship
-180571,51125,103109,World Championship
-180572,51125,106711,World Championship
-180573,51125,92109,World Championship
-180573,51125,144797,World Championship
-180574,51125,115474,World Championship
-180574,51125,115355,World Championship
-180575,51125,149278,World Championship
-180576,51125,116042,World Championship
-183262,51361,90145,World Championship
-183262,51361,77233,World Championship
-183282,51361,144801,World Championship
-179409,51023,82453,World Championship
-179402,51025,76117,World Championship
-163491,48538,108668,World Championship
-163491,48538,84097,World Championship
-163492,48538,111105,World Championship
-163492,48538,140966,World Championship
-163492,48538,84097,World Championship
-163492,48538,123355,World Championship
-163493,48538,111499,World Championship
-163493,48538,104931,World Championship
-163493,48538,66344,World Championship
-163493,48538,140097,World Championship
-163495,48538,62962,World Championship
-163495,48538,123355,World Championship
-163496,48538,82878,World Championship
-163496,48538,129346,World Championship
-163498,48538,111498,World Championship
-163498,48538,110041,World Championship
-163499,48538,82878,World Championship
-163499,48538,129346,World Championship
-163500,48538,6666,World Championship
-163500,48538,129791,World Championship
-163501,48538,135231,World Championship
-163501,48538,51076,World Championship
-163502,48538,104931,World Championship
-163502,48538,115982,World Championship
-163503,48539,140074,World Championship
-163504,48539,149548,World Championship
-163504,48539,140074,World Championship
-163505,48539,141742,World Championship
-163505,48539,140080,World Championship
-163507,48539,149548,World Championship
-163473,48537,98403,World Championship
-163473,48537,86835,World Championship
-163474,48537,79128,World Championship
-163474,48537,62699,World Championship
-163475,48537,122291,World Championship
-163475,48537,139520,World Championship
-163476,48537,82625,World Championship
-163476,48537,98403,World Championship
-163477,48537,108052,World Championship
-163477,48537,132956,World Championship
-163478,48537,98404,World Championship
-163478,48537,84601,World Championship
-163479,48537,98400,World Championship
-163479,48537,96040,World Championship
-163480,48537,79128,World Championship
-163481,48537,56752,World Championship
-163482,48537,84457,World Championship
-163484,48537,107420,World Championship
-163484,48537,94463,World Championship
-163485,48537,128138,World Championship
-163485,48537,141324,World Championship
-163486,48537,107210,World Championship
-163486,48537,79128,World Championship
-163487,48537,82625,World Championship
-163487,48537,112768,World Championship
-163488,48537,113234,World Championship
-163488,48537,67034,World Championship
-163455,48536,83166,World Championship
-163455,48536,142982,World Championship
-163455,48536,84644,World Championship
-163456,48536,142301,World Championship
-163456,48536,100017,World Championship
-163457,48536,110339,World Championship
-163457,48536,97786,World Championship
-163458,48536,102218,World Championship
-163458,48536,143161,World Championship
-163459,48536,139088,World Championship
-163459,48536,144800,World Championship
-163460,48536,130939,World Championship
-163460,48536,109253,World Championship
-163461,48536,62708,World Championship
-163461,48536,85921,World Championship
-163461,48536,126961,World Championship
-163462,48536,130025,World Championship
-163463,48536,110339,World Championship
-163464,48536,99866,World Championship
-163466,48536,97488,World Championship
-163466,48536,142983,World Championship
-163466,48536,76786,World Championship
-163467,48536,113465,World Championship
-163467,48536,110339,World Championship
-163467,48536,97786,World Championship
-163468,48536,75886,World Championship
-163468,48536,99866,World Championship
-163468,48536,83971,World Championship
-163469,48536,109387,World Championship
-163469,48536,71060,World Championship
-163469,48536,123509,World Championship
-163470,48536,143161,World Championship
-163470,48536,111451,World Championship
-163470,48536,100212,World Championship
-161711,48089,98624,Event Region Championship
-161712,48089,64629,Event Region Championship
-161712,48089,98624,Event Region Championship
-161713,48089,73837,Event Region Championship
-159035,47740,139219,World Championship
-159035,47740,56472,World Championship
-159049,47740,139219,World Championship
-161605,48217,123234,World Championship
-161605,48217,95859,World Championship
-161804,48217,140477,World Championship
-161621,48218,102422,World Championship
-161621,48218,140625,World Championship
-161806,48218,95648,World Championship
-161637,48219,81784,World Championship
-161637,48219,54133,World Championship
-161807,48219,108030,World Championship
-161057,48095,135580,RE-VRC-22-8666
-161057,48095,135580,RE-VRC-22-8645
-161058,48095,140777,RE-VRC-22-8666
-161058,48095,140777,RE-VRC-22-8645
-161058,48095,135580,RE-VRC-22-8666
-161058,48095,135580,RE-VRC-22-8645
-161059,48095,109096,RE-VRC-22-8666
-161059,48095,109096,RE-VRC-22-8645
-161060,48095,94560,RE-VRC-22-8666
-161060,48095,94560,RE-VRC-22-8645
-165365,48887,128555,RE-VIQC-22-8665
-165365,48887,128555,RE-VIQC-22-8646
-165365,48887,128557,RE-VIQC-22-8665
-165365,48887,128557,RE-VIQC-22-8646
-165367,48887,128555,RE-VIQC-22-8665
-165367,48887,128555,RE-VIQC-22-8646
-161067,48126,109097,RE-VRC-22-8666
-161067,48126,109097,RE-VRC-22-8645
-161068,48126,94560,RE-VRC-22-8666
-161068,48126,94560,RE-VRC-22-8645
-161068,48126,135580,RE-VRC-22-8666
-161068,48126,135580,RE-VRC-22-8645
-161069,48126,135580,RE-VRC-22-8666
-161069,48126,135580,RE-VRC-22-8645
-161070,48126,135580,RE-VRC-22-8666
-161070,48126,135580,RE-VRC-22-8645
-161072,48127,141084,RE-VIQC-22-8665
-161072,48127,141084,RE-VIQC-22-8646
-161073,48127,135738,RE-VIQC-22-8665
-161073,48127,135738,RE-VIQC-22-8646
-161073,48127,141084,RE-VIQC-22-8665
-161073,48127,141084,RE-VIQC-22-8646
-161074,48127,141085,RE-VIQC-22-8665
-161074,48127,141085,RE-VIQC-22-8646
-161075,48127,141085,RE-VIQC-22-8665
-161075,48127,141085,RE-VIQC-22-8646
-161076,48127,127808,RE-VIQC-22-8665
-161076,48127,127808,RE-VIQC-22-8646
-160310,47984,122822,Event Region Championship
-160310,47984,130559,Event Region Championship
-160467,47984,130544,Event Region Championship
-160468,47984,121967,Event Region Championship
-162321,48369,231,Event Region Championship
-162322,48369,107117,Event Region Championship
-162322,48369,139380,Event Region Championship
-162323,48369,23632,Event Region Championship
-162324,48369,24640,Event Region Championship
-159633,47884,13918,Event Region Championship
-159634,47884,13918,Event Region Championship
-159634,47884,13909,Event Region Championship
-159636,47884,13915,Event Region Championship
-159645,47885,56222,Event Region Championship
-159646,47885,56222,Event Region Championship
-159646,47885,50085,Event Region Championship
-159647,47885,62758,Event Region Championship
-159647,47885,141605,Event Region Championship
-159648,47885,50546,Event Region Championship
-159649,47885,56222,Event Region Championship
-160069,47950,71480,Event Region Championship
-160070,47950,63118,Event Region Championship
-160070,47950,139496,Event Region Championship
-160071,47950,110127,Event Region Championship
-160072,47950,104912,Event Region Championship
-163387,48526,129414,Event Region Championship
-163388,48526,2586,Event Region Championship
-163388,48526,70516,Event Region Championship
-163389,48526,129414,Event Region Championship
-163432,48532,128641,Event Region Championship
-163433,48532,128641,Event Region Championship
-163433,48532,18352,Event Region Championship
-163434,48532,128641,Event Region Championship
-161376,48207,123231,World Championship
-161376,48207,130851,World Championship
-161762,48207,85437,World Championship
-168101,49335,122288,RE-VIQC-22-8665
-168101,49335,122288,RE-VIQC-22-8646
-168101,49335,97481,RE-VIQC-22-8665
-168101,49335,97481,RE-VIQC-22-8646
-168104,49335,122288,RE-VIQC-22-8665
-168104,49335,122288,RE-VIQC-22-8646
-160946,48097,95355,RE-VIQC-22-8665
-160946,48097,95355,RE-VIQC-22-8646
-160947,48097,123435,RE-VIQC-22-8665
-160947,48097,123435,RE-VIQC-22-8646
-160948,48097,142722,RE-VIQC-22-8665
-160948,48097,142722,RE-VIQC-22-8646
-160948,48097,121999,RE-VIQC-22-8665
-160948,48097,121999,RE-VIQC-22-8646
-160949,48097,128555,RE-VIQC-22-8665
-160949,48097,128555,RE-VIQC-22-8646
-160950,48097,95357,RE-VIQC-22-8665
-160950,48097,95357,RE-VIQC-22-8646
-158967,47728,55969,Event Region Championship
-158968,47728,55969,Event Region Championship
-158968,47728,55967,Event Region Championship
-158969,47728,107510,Event Region Championship
-158969,47728,73637,Event Region Championship
-158970,47728,55967,Event Region Championship
-158971,47728,55969,Event Region Championship
-159012,47741,70332,Event Region Championship
-159013,47741,50944,Event Region Championship
-159013,47741,62903,Event Region Championship
-159014,47741,83713,Event Region Championship
-159014,47741,73626,Event Region Championship
-159015,47741,47917,Event Region Championship
-159016,47741,81143,Event Region Championship
-164668,48755,140722,RE-VRC-22-8666
-164668,48755,140722,RE-VRC-22-8645
-164668,48755,128562,RE-VRC-22-8666
-164668,48755,128562,RE-VRC-22-8645
-164669,48755,128886,RE-VRC-22-8666
-164669,48755,128886,RE-VRC-22-8645
-164669,48755,128883,RE-VRC-22-8666
-170799,48183,128972,World Championship
-164669,48755,128883,RE-VRC-22-8645
-164670,48755,140720,RE-VRC-22-8666
-164670,48755,140720,RE-VRC-22-8645
-164671,48755,128562,RE-VRC-22-8666
-164671,48755,128562,RE-VRC-22-8645
-164747,48755,128562,RE-VRC-22-8666
-164747,48755,128562,RE-VRC-22-8645
-164748,48755,140725,RE-VRC-22-8666
-164748,48755,140725,RE-VRC-22-8645
-169305,48755,138959,RE-VRC-22-8666
-169305,48755,138959,RE-VRC-22-8645
-169306,48755,141624,RE-VRC-22-8666
-169306,48755,141624,RE-VRC-22-8645
-164777,48779,138960,RE-VIQC-22-8665
-164777,48779,138960,RE-VIQC-22-8646
-164778,48779,124597,RE-VIQC-22-8665
-164778,48779,124597,RE-VIQC-22-8646
-164779,48779,124598,RE-VIQC-22-8665
 164779,48779,124598,RE-VIQC-22-8646
 164779,48779,126407,RE-VIQC-22-8665
 164779,48779,126407,RE-VIQC-22-8646
@@ -39178,6 +38942,7 @@ award_id,event_id,team_id,qualification
 160645,48047,132674,Event Region Championship
 160646,48047,118475,Event Region Championship
 160646,48047,138770,Event Region Championship
+170799,48183,128972,World Championship
 160647,48047,124185,Event Region Championship
 160864,48084,111730,Event Region Championship
 160864,48084,73540,Event Region Championship
@@ -39237,7 +39002,6 @@ award_id,event_id,team_id,qualification
 165213,48637,102409,Event Region Championship
 165214,48637,94881,Event Region Championship
 165215,48637,140921,Event Region Championship
-174875,49788,128626,World Championship
 161764,48279,140421,Event Region Championship
 161764,48279,114686,Event Region Championship
 169665,49595,65538,Event Region Championship
@@ -39351,6 +39115,7 @@ award_id,event_id,team_id,qualification
 167784,49290,113526,UIL Championship
 175927,49290,111464,Event Region Championship
 169170,49486,73137,Event Region Championship
+174875,49788,128626,World Championship
 169171,49486,73137,Event Region Championship
 169171,49486,131687,Event Region Championship
 169210,49506,66413,Event Region Championship
@@ -41662,10 +41427,6 @@ award_id,event_id,team_id,qualification
 172070,50024,141254,Event Region Championship
 172070,50024,141253,Event Region Championship
 172071,50024,56337,Event Region Championship
-159060,47751,126872,UIL Championship
-159060,47751,140251,UIL Championship
-179854,47751,97544,UIL Championship
-179854,47751,138950,UIL Championship
 172072,50024,141253,Event Region Championship
 181402,50024,56337,Event Region Championship
 181402,50024,114652,Event Region Championship
@@ -41790,6 +41551,10 @@ award_id,event_id,team_id,qualification
 172315,50063,52659,World Championship
 172315,50063,44899,World Championship
 172316,50063,126458,World Championship
+159060,47751,126872,UIL Championship
+159060,47751,140251,UIL Championship
+179854,47751,97544,UIL Championship
+179854,47751,138950,UIL Championship
 172316,50063,149574,World Championship
 172318,50063,27505,World Championship
 180947,50063,126458,World Championship
@@ -42601,8 +42366,6 @@ award_id,event_id,team_id,qualification
 173401,50216,131599,Event Region Championship
 173402,50216,105023,Event Region Championship
 173403,50216,126055,Event Region Championship
-182878,50444,133448,Event Region Championship
-182879,50444,131446,Event Region Championship
 178482,50216,59801,Event Region Championship
 174346,50349,139601,Event Region Championship
 174347,50349,140020,Event Region Championship
@@ -42827,6 +42590,8 @@ award_id,event_id,team_id,qualification
 166410,49069,75476,Event Region Championship
 166410,49069,108507,Event Region Championship
 166412,49069,117084,Event Region Championship
+182878,50444,133448,Event Region Championship
+182879,50444,131446,Event Region Championship
 166413,49069,116579,Event Region Championship
 179626,49069,131605,Event Region Championship
 179627,49069,75476,Event Region Championship
@@ -43455,7 +43220,6 @@ award_id,event_id,team_id,qualification
 173178,50193,89163,Event Region Championship
 173178,50193,111530,Event Region Championship
 175085,50207,123800,Event Region Championship
-175939,50303,140921,Event Region Championship
 175086,50207,131187,Event Region Championship
 175086,50207,106454,Event Region Championship
 175087,50207,129207,Event Region Championship
@@ -43803,6 +43567,7 @@ award_id,event_id,team_id,qualification
 161132,48137,102990,Event Region Championship
 180662,48137,124521,Event Region Championship
 180663,48137,145964,Event Region Championship
+175939,50303,140921,Event Region Championship
 161534,48246,99592,Event Region Championship
 161534,48246,98883,Event Region Championship
 161535,48246,98883,Event Region Championship
@@ -44916,7 +44681,6 @@ award_id,event_id,team_id,qualification
 170401,49707,38959,Event Region Championship
 170571,49745,124297,Event Region Championship
 170572,49745,51759,Event Region Championship
-183674,51302,151471,World Championship
 170572,49745,145471,Event Region Championship
 170573,49745,101367,Event Region Championship
 170574,49745,124297,Event Region Championship
@@ -45080,6 +44844,180 @@ award_id,event_id,team_id,qualification
 175237,50484,120718,Event Region Championship
 175237,50484,116191,Event Region Championship
 175238,50484,120523,Event Region Championship
+175572,50493,132757,Event Region Championship
+175572,50493,136201,Event Region Championship
+175573,50493,117303,Event Region Championship
+178384,50493,132757,Event Region Championship
+175465,50518,140681,Event Region Championship
+175466,50518,113191,Event Region Championship
+175466,50518,140681,Event Region Championship
+175467,50518,144609,Event Region Championship
+175537,50533,73947,Event Region Championship
+175538,50533,141479,Event Region Championship
+175539,50533,140941,Event Region Championship
+175539,50533,86167,Event Region Championship
+175540,50533,73949,Event Region Championship
+180383,50533,62985,Event Region Championship
+180383,50533,141479,Event Region Championship
+176508,50636,116836,Event Region Championship
+176508,50636,79867,Event Region Championship
+176509,50636,74558,Event Region Championship
+176510,50636,75546,Event Region Championship
+176512,50636,75546,Event Region Championship
+178512,50645,142347,UIL Championship
+178512,50645,111464,UIL Championship
+179884,50645,125445,UIL Championship
+179884,50645,148128,UIL Championship
+180211,50645,111464,Event Region Championship
+176372,50650,125094,Event Region Championship
+176373,50650,64591,Event Region Championship
+176373,50650,73038,Event Region Championship
+176374,50650,120078,Event Region Championship
+176949,50682,65803,Event Region Championship
+176949,50682,146032,Event Region Championship
+176950,50682,86525,Event Region Championship
+176951,50682,146032,Event Region Championship
+182728,50682,113505,Event Region Championship
+176777,50691,68265,Event Region Championship
+176778,50691,68265,Event Region Championship
+176778,50691,140264,Event Region Championship
+176779,50691,59013,Event Region Championship
+176793,50693,109496,Event Region Championship
+176794,50693,146178,Event Region Championship
+176794,50693,110498,Event Region Championship
+176917,50721,146384,Event Region Championship
+176918,50721,52729,Event Region Championship
+176919,50721,114652,Event Region Championship
+176919,50721,149641,Event Region Championship
+176920,50721,102969,Event Region Championship
+176921,50721,114652,Event Region Championship
+181415,50721,140050,Event Region Championship
+181415,50721,144733,Event Region Championship
+181416,50721,112245,Event Region Championship
+177381,50766,135292,Event Region Championship
+177381,50766,109241,Event Region Championship
+177387,50767,143277,UIL Championship
+177387,50767,54362,UIL Championship
+179866,50767,129533,UIL Championship
+179866,50767,130595,UIL Championship
+180207,50767,121921,Event Region Championship
+177477,50788,496,Event Region Championship
+177478,50788,112327,Event Region Championship
+177478,50788,93708,Event Region Championship
+178285,50792,123421,UIL Championship
+178285,50792,138062,UIL Championship
+179425,50792,138062,Event Region Championship
+180088,50792,68040,UIL Championship
+180088,50792,138063,UIL Championship
+178845,50959,63410,Event Region Championship
+178846,50959,85748,Event Region Championship
+178847,50959,146987,Event Region Championship
+178847,50959,140756,Event Region Championship
+178848,50959,81554,Event Region Championship
+179092,50986,102990,Event Region Championship
+179092,50986,111317,Event Region Championship
+183674,51302,151471,World Championship
+179135,50993,143584,Event Region Championship
+179135,50993,86783,Event Region Championship
+180884,50993,81649,Event Region Championship
+180146,51088,58260,Event Region Championship
+180147,51088,143068,Event Region Championship
+180147,51088,58260,Event Region Championship
+180148,51088,143068,Event Region Championship
+180149,51088,143068,Event Region Championship
+180150,51088,64235,Event Region Championship
+180150,51088,73718,Event Region Championship
+181008,51172,91456,Event Region Championship
+181008,51172,91456,UIL Championship
+181008,51172,101688,Event Region Championship
+181008,51172,101688,UIL Championship
+181068,51172,60849,Event Region Championship
+181069,51172,136256,Event Region Championship
+181071,51172,76965,UIL Championship
+181071,51172,67175,UIL Championship
+182841,51275,150100,World Championship
+182841,51275,150100,RE-VIQC-22-9729
+182842,51275,150099,World Championship
+182842,51275,150099,RE-VIQC-22-9730
+160509,48026,74173,Event Region Championship
+160509,48026,7886,Event Region Championship
+160510,48026,7886,Event Region Championship
+160511,48026,130499,Event Region Championship
+160524,48026,74173,Event Region Championship
+165711,48959,122433,Event Region Championship
+165711,48959,74614,Event Region Championship
+182699,48959,71355,Event Region Championship
+182699,48959,65704,Event Region Championship
+182700,48959,52402,Event Region Championship
+182700,48959,63047,Event Region Championship
+182700,48959,63050,Event Region Championship
+182700,48959,63049,Event Region Championship
+182701,48959,112783,Event Region Championship
+171505,49928,106340,Event Region Championship
+171505,49928,107705,Event Region Championship
+180936,49928,83006,Event Region Championship
+171756,49962,141621,Event Region Championship
+171757,49962,111250,Event Region Championship
+171758,49962,56337,Event Region Championship
+171758,49962,141621,Event Region Championship
+171759,49962,93169,Event Region Championship
+171760,49962,56337,Event Region Championship
+181417,49962,70425,Event Region Championship
+181417,49962,101609,Event Region Championship
+181418,49962,83308,Event Region Championship
+177406,50252,122393,Event Region Championship
+177406,50252,86797,Event Region Championship
+177408,50252,122393,Event Region Championship
+177409,50252,98316,Event Region Championship
+178484,50252,98316,Event Region Championship
+174231,50334,88916,Event Region Championship
+174231,50334,143491,Event Region Championship
+174232,50334,133713,Event Region Championship
+174233,50334,133713,Event Region Championship
+181419,50334,147671,Event Region Championship
+181420,50334,139849,Event Region Championship
+181420,50334,147671,Event Region Championship
+174955,50433,139935,Event Region Championship
+174955,50433,93375,Event Region Championship
+174956,50433,107230,Event Region Championship
+174957,50433,71008,Event Region Championship
+179969,50433,71480,Event Region Championship
+179970,50433,139496,Event Region Championship
+183750,50433,139496,Event Region Championship
+183750,50433,139632,Event Region Championship
+179892,51017,113286,Event Region Championship
+179892,51017,107760,Event Region Championship
+179893,51017,107760,Event Region Championship
+182550,51017,86167,Event Region Championship
+182551,51017,141481,Event Region Championship
+178232,50875,101338,Event Region Championship
+178233,50875,134846,Event Region Championship
+178233,50875,64772,Event Region Championship
+180815,51154,148624,Event Region Championship
+180816,51154,151226,Event Region Championship
+180816,51154,148984,Event Region Championship
+182296,51277,94807,Event Region Championship
+161766,48280,149838,Event Region Championship
+161766,48280,94773,Event Region Championship
+172752,50130,50054,Event Region Championship
+172752,50130,135636,Event Region Championship
+174066,50316,143513,JROTC National Championship
+174067,50316,143513,JROTC National Championship
+174067,50316,129107,JROTC National Championship
+174069,50316,143522,JROTC National Championship
+174071,50316,143514,JROTC National Championship
+165251,48859,86603,Event Region Championship
+165251,48859,97921,Event Region Championship
+173254,50202,150503,World Championship
+173254,50202,150503,RE-VRC-22-9725
+175273,50489,107984,Event Region Championship
+175274,50489,90463,Event Region Championship
+175274,50489,107984,Event Region Championship
+175278,50489,101367,Event Region Championship
+175279,50489,107984,Event Region Championship
+180820,51155,147907,Event Region Championship
+180821,51155,133483,Event Region Championship
+180821,51155,149161,Event Region Championship
 159853,47919,139219,World Championship
 159854,47919,87333,World Championship
 159854,47919,139219,World Championship
@@ -46430,3 +46368,65 @@ award_id,event_id,team_id,qualification
 173665,50249,128662,Event Region Championship
 181296,50249,133046,Event Region Championship
 181297,50249,140014,Event Region Championship
+181427,50255,86627,Event Region Championship
+181428,50255,140050,Event Region Championship
+181428,50255,149641,Event Region Championship
+181429,50255,119700,Event Region Championship
+181429,50255,140129,Event Region Championship
+181430,50255,86628,Event Region Championship
+173830,50275,112460,Event Region Championship
+173830,50275,103145,Event Region Championship
+173832,50275,103145,Event Region Championship
+173986,50302,111679,Event Region Championship
+173986,50302,111679,JROTC National Championship
+173987,50302,143557,JROTC National Championship
+173987,50302,115144,JROTC National Championship
+173988,50302,100562,JROTC National Championship
+173988,50302,143294,JROTC National Championship
+173989,50302,142974,JROTC National Championship
+174086,50302,111679,JROTC National Championship
+174827,50304,106348,Event Region Championship
+174828,50304,124297,Event Region Championship
+174828,50304,76851,Event Region Championship
+174829,50304,64367,Event Region Championship
+174830,50304,106348,Event Region Championship
+183111,50304,51759,Event Region Championship
+183111,50304,89901,Event Region Championship
+174176,50332,148234,World Championship
+174176,50332,71112,World Championship
+175938,50332,50685,World Championship
+174245,50342,54334,Event Region Championship
+174245,50342,110505,Event Region Championship
+177132,50342,110505,Event Region Championship
+174433,50363,107420,Event Region Championship
+174434,50363,107225,Event Region Championship
+174434,50363,98404,Event Region Championship
+174475,50367,141600,Event Region Championship
+174476,50367,147899,Event Region Championship
+174476,50367,145890,Event Region Championship
+183022,50380,61390,Event Region Championship
+183023,50380,71984,Event Region Championship
+183023,50380,114445,Event Region Championship
+183024,50380,113951,Event Region Championship
+174596,50387,118232,Event Region Championship
+174596,50387,77586,Event Region Championship
+182969,50387,118232,Event Region Championship
+182970,50387,74443,Event Region Championship
+174662,50397,34474,Event Region Championship
+174663,50397,129279,Event Region Championship
+174663,50397,34474,Event Region Championship
+174664,50397,138964,Event Region Championship
+174664,50397,76774,Event Region Championship
+174665,50397,140299,Event Region Championship
+174671,50400,138077,Event Region Championship
+174671,50400,136231,Event Region Championship
+174672,50400,104437,Event Region Championship
+174673,50400,133956,Event Region Championship
+174734,50400,133956,Event Region Championship
+175027,50446,114885,Event Region Championship
+175027,50446,115836,Event Region Championship
+175029,50446,115393,Event Region Championship
+175799,50446,114885,Event Region Championship
+175067,50458,126584,Event Region Championship
+175067,50458,130205,Event Region Championship
+183230,50458,62575,Event Region Championship
